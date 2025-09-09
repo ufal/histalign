@@ -1,1 +1,26 @@
 # Scripts
+
+This folder contains the relevant scripts to create an automatic alignment between two version of a text, 
+where both texts are in the TEITOK TEI/XML format, are tokenized and segmented into sentences. The alignment
+is created as a JSON file, that can then be correted, and imported back into the TEI/XML source. There are 
+alignment script for three alignment algorithms, the script to load the JSON, and a script to calculate the 
+Alignment Error Rate (AER) between two JSON alignment files for the same text.
+
+## hunalign.py
+
+## awesome.py
+
+## labse.py
+
+## loadalign.pl
+
+The script `loadalign.pl` is a Perl script to load a JSON alignment file into a TEITOK/XML representation. The JSON 
+file contains the information which two TEI/XML files are being linked, and will assume the first (source) of the two files
+to contain `@tuid` attributes for all elements to be aligned. It will then use the alignment to assign appropriate `@tuid` attributes to the target file.
+
+## computer-aer.py
+
+The script `compute-aer.py` is a Python script that calculates the error rate (AER) in a JSON alignment file when
+compared to a gold standard. The output is a simple value. Usage:
+
+```python computer-aer.py [gold-standard JSON] [computed JSON]```
