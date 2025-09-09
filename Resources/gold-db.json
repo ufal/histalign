@@ -1,0 +1,1622 @@
+{
+    "version1": "xmlfiles/cte-chu-deu.xml",
+    "version2": "xmlfiles/cte-chu.xml",
+    "method": "Gold standard",
+    "script": "makegold.py",
+    "sentences": [
+        {
+            "id1": "s-1",
+            "text1": "Des heiligen Methodius, des Bischofs von Philippi",
+            "id2": "s-38,s-39",
+            "text2": "Святаго Мефодия, епискупа филипьскаго къ Cистелию о прокажении"
+        },
+        {
+            "id1": "s-2",
+            "text1": "an Sisteliusüber den Aussatz",
+            "id2": "s-38,s-39",
+            "text2": "Святаго Мефодия, епискупа филипьскаго къ Cистелию о прокажении"
+        },
+        {
+            "id1": "s-3",
+            "text1": "1",
+            "id2": "s-40",
+            "text2": "1"
+        },
+        {
+            "id1": "s-4",
+            "text1": "Sist.",
+            "id2": "s-41",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-5",
+            "text1": "Woher kommst du, Eubulius?",
+            "id2": "s-42",
+            "text2": "Откуду, о Евъвулие?"
+        },
+        {
+            "id1": "s-6",
+            "text1": "Eub.",
+            "id2": "s-43a",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-7",
+            "text1": "Ist es denn nicht offensichtlich, dass von der Jagdnach der Verständnisweise der göttlichen Schrift?",
+            "id2": "s-43",
+            "text2": "Не яве ли яко от пути, ловя по особию разумениа божественыихъ книгъ?"
+        },
+        {
+            "id1": "s-8",
+            "text1": "(In der Frühe klopfte nämlich jemand von den Leuten des Sistelius an die Tür; und als ein Diener ihm öffnete und berichtete, Sistelius rufe uns zu sich, stand ich auf und ging sogleich hin.",
+            "id2": "s-44",
+            "text2": "(Заутра бо систелиевыихъ некто въ двери удари, и елмаже убо отврьзе ему отрокъ и поведа, Систелию звати ны к себе, и, въставъ, ту абие поидохъ."
+        },
+        {
+            "id1": "s-9",
+            "text1": "Und als wir uns seinem Hof näherten, kam Sistelius mir entgegen, umarmte mich und sprach: „Seit du von uns gegangen bist, hast du uns des Schrift­ver­ständnis­ses beraubt; denn wie eine Wolke, die sich vor die Sonne stellt, nicht gestattet, die Sonne klar zu sehen, so sind auch, wo sich die rechte Unter­wei­sung entfernt, die Seelen dunkel und der Verstand verfinstert.“",
+            "id2": "s-45,s-46,s-47",
+            "text2": "И кде быхомъ близъ двора, сретъ мя Систелии, и обуявъ рече: „Временьне насъ ошедъ, облихова ны книжныихъ разумъ. Якоже бо и облакъ, нашедь на солнце, не дасть ясно слънца видети, тако и доброе показание, кде отдалится, темна бываютъ душа и умъ омраченъ.“ И отрехъ ему: „Добре извеща“, и, влезше въ хлевину, седохомъ."
+        },
+        {
+            "id1": "s-10",
+            "text1": "Und ich antwortete ihm: „Das hast du schön gesagt!“ Und wir gingen ins Haus und setzten uns.",
+            "id2": "s-48",
+            "text2": "И Систелии: „Се убо, отъ истины самоя посмотримъ“, рече, „книгъ;  злое се отженемь \t\t\t\t \t\t\t\tпро­кажение, словесы, яко и врачьбами, утешающе вредъ: »Въ­стани«, глаголюще »спяи, и въстани отъ мрътвыихъ, и про­светить тя Христосъ«."
+        },
+        {
+            "id1": "s-11",
+            "text1": "Und Sistelius sprach: „Nun können wir nämlich aus der Wahrheit der Schrift selbst ersehenund diesen schlim­men Aussatz mit Heilkraut vertreiben, indem wir mit Worten, wie mit Medizin den Schaden lindernd, sagen: »Erhebe dich, der du schläfst, und stehe auf von den Toten, und Christus wird dich erleuchten.«",
+            "id2": "s-49",
+            "text2": "Се же убо время глашению твоему“, рече."
+        },
+        {
+            "id1": "s-12",
+            "text1": "Jetzt ist es aber an der Zeit, dass du das Wort ergreifst“, sagte er. „Wohlan denn, erläutere uns den Aussatz, der im Gesetz steht, denn der Herr legt nahe, vieles allegorisch aus­zu­le­gen, indem er im Gesetz dazu auffordert, demjenigen eine reichliche Gabe mitzuteilen, der nach Gottes Gabe dürstet.“",
+            "id2": "s-50",
+            "text2": "„Иди же убо, сказая о сущиимъ в законе прокажении, Господу много подобновати заименующувелящу в законе, независтьное дарование обьществовати жажущему Божиа дарованиа."
+        },
+        {
+            "id1": "s-13",
+            "text1": "Eub.",
+            "id2": "s-53",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-14",
+            "text1": "Aber glaube doch nicht, dass ich den zurückweisen würde, der diese Gna­den­ga­be zu empfangen wünscht, wenn ich auch schwach bin in Tat und Wort.",
+            "id2": "s-54",
+            "text2": "Обаче убо не мни отметати ми хотящааго полу­чити сего благодарьства, аще и немощенъ есмь и деломъ и словесемь."
+        },
+        {
+            "id1": "s-15",
+            "text1": "Es muss aber derjenige, der die Logoi in die Seele eines jeden von uns einpflanzt, die bösen Wurzeln aus unseren Herzen heraus­reißen und alle Tugenden in unsere Seelen einpflanzen.",
+            "id2": "s-55",
+            "text2": "Насаждаяи же убо словеса въ коегождо насъ души, то имать злая измыкати корениа отъ нашихъ сръдьць, и всадити вся благонравиа въ душа наша."
+        },
+        {
+            "id1": "s-16",
+            "text1": "Wenn aber das nesselartige Unkraut verdorrt ist, dann wird die Blume der Gottesfurcht erblühen.",
+            "id2": "s-56",
+            "text2": "Егда бо усхнеть копривьнообраз­ное былие, тогда процвитаетъ блгаонравиа цветъ."
+        },
+        {
+            "id1": "s-17",
+            "text1": "Das aber schreibt Christus selbst allegorisch dem »Samen des Senfkorns« zu, nämlich das Gesagte zur vollen Entfaltung zu bringen.",
+            "id2": "s-57",
+            "text2": "Еже убо и Христосъ, инако беседьствуя, »горюшному« сълажаеть »семени«, вели \t\t\t\t \t\t\t\tко глаголаныимъ съставление приносити."
+        },
+        {
+            "id1": "s-18",
+            "text1": "Denn zunächst verkleinert sich der göttliche Same des Glaubens, indem er sich zu unserem Unvermögen herablässt.",
+            "id2": "s-58",
+            "text2": "Умаляеть бо ся, к нашимъ немощемъ сходя, божественое веры семя сперъва."
+        },
+        {
+            "id1": "s-19",
+            "text1": "Aber einmal in die Furchen der Seele gelangt, wächst er zu voller Größe empor und schreitet mit Hilfe der geistigen Kontemp­lation weiter voran zur vollen Höhe der Frömmigkeit.",
+            "id2": "s-59",
+            "text2": "Еда некогда в душевныя впадъ бразды, въ величество възрастеть, на высость благочестиа проидеть съмышлениемь умномь."
+        },
+        {
+            "id1": "s-20",
+            "text1": "Mit Recht bezeichnet der Herr somit seinen Vater als den Pflanzer dieser Pflanzung.",
+            "id2": "s-60",
+            "text2": "И поистине сицего саждениа Гос­подь отьца своего садителя наричеть."
+        },
+        {
+            "id1": "s-21",
+            "text1": "»Denn eine jede Pflanze«, sagt er, »die nicht mein Vater gepflanzt hat, wird ausgerissen werden«.",
+            "id2": "s-61",
+            "text2": "»Весь бо садъ«, рече, »егоже не всади отьць мои, искоренится.«"
+        },
+        {
+            "id1": "s-22",
+            "text1": "Du musst nämlich verstehen, dass er das nicht sagt, weil die Seelen, wie einige das meinen, mannigfaltig sind, sondern er spricht hier von der rechten Lehre und den gottesfürchtigen Worten, die der fleißige Pflanzer unbemerkt in unsere Herzen ein­pflanzen ließ, indem er die unnützen Pflanzen, d. h. die bösen Gedanken und Taten, aus unseren Herzen ausriss.",
+            "id2": "s-62",
+            "text2": "Разумеи бо, яко не многоличиа душевънааго деля, якоже мнеша неции, творить слово, но о учении правеемь и о сло­весехъ благочестнехъ, яже садити неведоме створи въ сръдь­цихъ нашихъ прилежныи садитель, искореняа неподобное отъ нашихъ сажение сръдьць, рекше злыя помыслы и дела."
+        },
+        {
+            "id1": "s-23",
+            "text1": "Wenn wir aber nicht dergestalt glauben, dann werden wir zu Nachfolgern des überaus gesetzlosen Markion, der annimmt, dass über dem wirklich seienden Gott noch ein anderes Gutes existiere, und dass aus diesem Grunde die Seelen des Weltschöpfers das verheißene Leben des Guten nicht zu emp­fangen vermögen und der Pflanzung des Guten nicht teilhaftig seien.",
+            "id2": "s-63,s-64",
+            "text2": "Аще бо не сице веруемъ, последьници будемь много беза­конному Маркиону, иному благу паче сущааго глаголющу быти Бога. И сего де \t\t\t\t \t\t\t\tля не мощи прияти мирьскааго творца душамъ проповедомое благааго житие, облихованомъ быти благааго саждениа."
+        },
+        {
+            "id1": "s-24",
+            "text1": "Aber das wollen wir jetzt nicht beachten, denn es ist nicht der Moment für diese Argumentation.",
+            "id2": "s-66",
+            "text2": "И убо сихъ да не брежемъ ныне – не бо симъ есть словесемъ время."
+        },
+        {
+            "id1": "s-25",
+            "text1": "Sist.",
+            "id2": "s-66b",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-26",
+            "text1": "Zurecht sagst du, dass das jetzt nicht beachtet werden soll.",
+            "id2": "s-67",
+            "text2": "Небрещи поистине бо глаголеши, и убо словес­ному имению, отъ Бога делающуся, имети лепо крепкыя мудрости плоды, по апостольскому словеси, глаголющему: »Божие есмь делательство«."
+        },
+        {
+            "id1": "s-27",
+            "text1": "Denn jetzt geht es um den geistigen Besitz, der von Gott beackert wird und der kräftige Früchte der Weisheit tragen sollte nach dem Worte des Apostels, das da lautet: »Wir sind Gottes Acker«.",
+            "id2": "s-67",
+            "text2": "Небрещи поистине бо глаголеши, и убо словес­ному имению, отъ Бога делающуся, имети лепо крепкыя мудрости плоды, по апостольскому словеси, глаголющему: »Божие есмь делательство«."
+        },
+        {
+            "id1": "s-28",
+            "text1": "Denn es ist uns aufgetragen ­– damit sich die Krankheit nicht ausbreitet und alle befällt­– mit Hilfe der evangelischen Gesänge »zu heilen« und »achtzuhaben, dass es niemanden gibt, der der Gnade Gottes entbehrt, dass nicht irgendwo eine heraufwachsende Wurzel Schaden bringt und viele befleckt werden«, sagt der Apostel in seinem Brief an die Hebräer.",
+            "id2": "s-68",
+            "text2": "Лепо бо есть намъ ­– да же не расплодится недугъ и яви всемъ ­– евангельскыими »целити« песньми и смотрити, »егда есть кто лихъ Божиа благодати; еда кде коря, горе никны, пакостуеть и оскверняться мнози«, рече, к жидомъ пиша, апостолъ."
+        },
+        {
+            "id1": "s-29",
+            "text1": "2",
+            "id2": "s-69",
+            "text2": "2"
+        },
+        {
+            "id1": "s-30",
+            "text1": "Das Gesetz selbst lehrt uns aber, indem es sagt: »Und es redete der Herr zu Mose und Aaron und sprach: Wenn ein Mensch ein Zeichen des Aussatzes auf seiner Haut hat, dann soll er zu Aaron, dem Priester, kommen oder zu einem seiner Söhne.",
+            "id2": "s-70",
+            "text2": "И законъ же ны учи, глаголя: »И глагола Моисию Господь и Арону, и рече: Чловеку аще будеть на кожи образъ прокаже­ниа, и придетъ ко Арону жрьцу или къ единому отъ сыновъ его."
+        },
+        {
+            "id1": "s-31",
+            "text1": "Und der Priester wird den Aussatz auf seiner Hautals ein schädliches Zeichen erkennen, oder der Aussatz muss auf der Haut seines Fleisches offensichtlich sein«.",
+            "id2": "s-71",
+            "text2": "И узрить  \t\t\t\t \t\t\t\tжрець прокажение на кожи его – вредьное знамение, или яве да будеть прокажение на кожи плоти его«."
+        },
+        {
+            "id1": "s-32",
+            "text1": "Und kurz darauf: »Und am siebenten Tag soll der Priester den Aussatz besehen; und wenn der Aussatz bleibt wie zuvor, und sich auf seiner Haut nicht verändert hat; so soll der Priester ihn abermals für sieben Tage absondern.",
+            "id2": "s-72",
+            "text2": "И помале: »И видитъ жрець прокажение в седмыи дьнь; и се убо прокажение пребываеть, противу не пременися прокаже­ние в кожи, и отлучить и жрець седмь дьнии второе."
+        },
+        {
+            "id1": "s-33",
+            "text1": "Und wenn sich der Aussatz auch dann nicht verändert hat, dann soll ihn der Priester reinsprechen, denn es ist nur ein Mal.",
+            "id2": "s-73",
+            "text2": "И се токмо прокажение не пременися, и очистить и жрець, назнаменание бо есть, и испереть си ризы«."
+        },
+        {
+            "id1": "s-34",
+            "text1": "Und er soll seine Kleider auswaschen«.",
+            "id2": "s-73",
+            "text2": "И се токмо прокажение не пременися, и очистить и жрець, назнаменание бо есть, и испереть си ризы«."
+        },
+        {
+            "id1": "s-35",
+            "text1": "Und kurz darauf: »Und wenn sich in der Kleidung etwas vom Aussatz festsetzt ­– in der Kleidung aus Wolle oder aus Leinen oder in bearbeitetem Leder jeglicher Art ­– und der Aussatz rot oder grün ist, ...«",
+            "id2": "s-74",
+            "text2": "И помале: »И в ризе аще будеть приятие прокажениа ­– в ризе влънене, или лнене, или въ всякои делнеи кожи ­– и будетъ прокажение чьрвьно или зелено«..."
+        },
+        {
+            "id1": "s-36",
+            "text1": "Eub.",
+            "id2": "s-76",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-37",
+            "text1": "Indem Du so wenig gesagt hast, verhinderst Du aber im Weiteren, o Sistelius, dass das Wahre, das heißt das Wort des Gesetzes selbst spricht!",
+            "id2": "s-77",
+            "text2": "Таче въ прочиихъ мало рекъ, попретиши нъ убо, о Систелие, истовое, рекше законное само беседовати!"
+        },
+        {
+            "id1": "s-38",
+            "text1": "Machen wir uns also an das geistige Verständnis, damit wir den Text des Gesetzes nicht im Wortsinn, sondern geistig verstehen.",
+            "id2": "s-78",
+            "text2": "Имемъ же ся убо духовне разумеваниа си сказати, да не просте, но духовне разумеемь писание законное."
+        },
+        {
+            "id1": "s-39",
+            "text1": "Denn anschließendim Text fügt er hinzu: »Wenn sich aber nach der Abnahme der Kleidung der dem Prieseter gezeigte Aussatz auch in der Kleidung ausbreitet oder sich Aussatz im Leder oder am Kett- oder Schussfaden zeigt, so ist der Aussatz bleibend, dann ist der Kranke unrein und soll die Kleidung oder den Kett- oder Schussfaden, und so weiter, ver­bren­nen.«",
+            "id2": "s-79",
+            "text2": "Пакы же убо проходя въ \t\t\t\t \t\t\t\tсловеси, прилагаеть: »Аще же убо разлееться по отнятии показано жрьцу в ризе прокажение, или в кожи, или въ сине, или въ утъце прокажение, пребыточно есть прокажение, нечистъ есть, и съжьжеть ризу или синъ или утокъ«, и прочая ­– cе же убо о прокажени в законе сказание."
+        },
+        {
+            "id1": "s-40",
+            "text1": "So ist nämlich der Wortlaut des Gesetzes über den Aussatz.",
+            "id2": "s-79",
+            "text2": "Пакы же убо проходя въ \t\t\t\t \t\t\t\tсловеси, прилагаеть: »Аще же убо разлееться по отнятии показано жрьцу в ризе прокажение, или в кожи, или въ сине, или въ утъце прокажение, пребыточно есть прокажение, нечистъ есть, и съжьжеть ризу или синъ или утокъ«, и прочая ­– cе же убо о прокажени в законе сказание."
+        },
+        {
+            "id1": "s-41",
+            "text1": "Nun meine ich, dass der Prophet diese Worte wie eine Art Hülle oder mit einem ver­bor­ge­nem Sinn gebraucht hat, denn auf diese Weise wollte Gott uns zum wahren Licht heranführen.",
+            "id2": "s-81",
+            "text2": "Мню бо азъ, яко и покровы некыми и с тенми пророка сими требовати словесы, сице убо хотящу ны Богу на истинныи привести светъ."
+        },
+        {
+            "id1": "s-42",
+            "text1": "Deswegen sagt meines Erach­tens auch der selige Paulus: »Wenn unser Evangelium auch verhüllt ist, so ist es nur für die Verlorenen verhüllt, denn unter ihnen, den Ungläubigen, hat der Gott dieser Welt den Verstand verblendet, sodass unter ihnen das Licht des Evangeliums nicht aufleuchte, der Herrlichkeit Christi, der selbst das Abbild des Unsichtbaren ist«, indem er deutlich sagt, dass »das Evangelium den Glaubenden und denen, die gerettet werden, enthüllt, denen, die verlorengehen, aber verhüllt ist«, als ob es von außen mit ehernen Klammern befestigt wäre.",
+            "id2": "s-82",
+            "text2": "Сего деля мню и блаженому Павлу глаго­лати: »Аще же есть и покровено евангелие наше, но въ по­гыбшиихъ есть покровено, в нихже Богъ века сего ослепи разумы неверныихъ, якоже не въсияти в нихъ свету еванге­лиа, славы Христовы, иже есть образъ невидимааго«, яве глаголющюму, якоже »верующиимъ и спасающиимъся наго есть евангелие; погыбающимъ же покровено есть«, яко \t\t\t\t \t\t\t\tи медяны извьну утвержено скобами."
+        },
+        {
+            "id1": "s-43",
+            "text1": "Denn wer die Schrift nur äußerlich versteht, geht des geistigen Ver­ständnis­ses verlustig, als hätte er bloß leere, aus Steinen errichtete Außenmauern ge­se­hen.",
+            "id2": "s-83",
+            "text2": "Изъвьну бо разумевая книгы, тощь отходить духовнаго разума, яко и стены тъща камениемь създаны видевъ."
+        },
+        {
+            "id1": "s-44",
+            "text1": "Sist.",
+            "id2": "s-84a",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-45",
+            "text1": "Derjenige aber, der kräftig eingedrungen und den geistigen Vorhang zerrissen hat, wird, mit dem Geist Gottes beflügelt, wie ein Vogel im Flug, zum inneren Verständnis der Schrift gelangen, welches das Allerheiligste ist; und wenn er zum großen Lichte gelangt ist, wird er sich von den Blitzen der wahren Güte nähren.",
+            "id2": "s-84",
+            "text2": "Ударивыи же рамяне и раздравъ же препону умовеную, Божиимь духомь вперивъся, яко и птица в лете, въ утрении книгъ, разумъ доиде, иже святая святыхъ; и дошедъ света великааго, питается доброты истинныя мълни­ями."
+        },
+        {
+            "id1": "s-46",
+            "text1": "Denn wie auch die Bäume sich im Winter von der Anmut der Früchte entblößen, im Frühling aber wieder Blätter treiben und ihre Schönheit zurückerlangen, so meine ich, dass auch die Worte des Propheten, werden sie einfach verstanden, als etwas Dürres und Nichts­sa­gen­des erscheinen; werden sie da­ge­gen mit Weisheit verstanden, als etwas er­schei­nen, das gute Früchte und Blätter hat und Blüten reicher Verstandesfülle trägt.",
+            "id2": "s-86",
+            "text2": "Якоже бо и древеса зиме обнажаются красоты плодьныя, весне же пакы лиственеюща, свою приемлють лепоту, тако мню и пророчьскыимь словесемъ, просте разумеемомъ, яко и сухомъ мнетися, не смысленыимъ; с мудростию же разуме­емомъ ­– благоплодьномь и лиственомь ся видети, целоумиа многоличнааго имущемъ цветы."
+        },
+        {
+            "id1": "s-47",
+            "text1": "Eub.",
+            "id2": "s-89",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-48",
+            "text1": "So lass uns denn, o Sistelius, auch uns von dem vordergründigen Verstehen lossagen und die Schrift auf das sorgfältigste geistig verste­hen!",
+            "id2": "s-90",
+            "text2": "Темже и мы,  \t\t\t\t \t\t\t\tотрекшеся просте разумевати, духовне разумеваимъ испытне книгы, о Систелие!"
+        },
+        {
+            "id1": "s-49",
+            "text1": "3",
+            "id2": "s-91",
+            "text2": "3"
+        },
+        {
+            "id1": "s-50",
+            "text1": "1. Wir sagen aber mit Christus, der uns unterweist: »Vier unterschiedliche Arten des Aussatzes lehrte uns der Prophet zu meiden: den weißen, den gelben, den grünen und den roten.",
+            "id2": "s-93",
+            "text2": "1. \t\t\tГлаголемъ же убо Христу, наставляющю ны: »Четырь намъ убегатипророкъустави ...прокажении, различны суще: белаи желтаи зеленаи черъвлена«."
+        },
+        {
+            "id1": "s-51",
+            "text1": "« Der weiße aber und der gelbe, der am gesunden Leib auftrete, lasse den Menschen raschverfaulen; der grüne aber und der rote, der in Wunden oder Ge­schwul­sten auftrete, verderbe den ganzen Leib.",
+            "id2": "s-94,s-95",
+            "text2": "Желтеиже убо и белеи, ...изъ съдраваго тела исъшедъши, скоро чловека гноити. Зеленому же и черъвленому, ...въ язвахъ ...или ... струпехъ показавшуся, все прокуждяеть тело."
+        },
+        {
+            "id1": "s-52",
+            "text1": "Und diese entsprechen den vier Aussatzarten, die die Seele verderben: Denn der weiße, der halbgelbe, entspreche der Unzucht, weil sich der Schaum wegen der Unzucht in gelbesBlut verwandelt.",
+            "id2": "s-96,s-97",
+            "text2": "Подобна же си четыремъ душетленныимъ прокажени­емъ... : Белому бо,  полы желтому, подобитися любодеи­ству, отъ любодеиства въ кровь жльтуюприменяющюся пену ...."
+        },
+        {
+            "id1": "s-53",
+            "text1": "Der gelbe aber muss wiederum mit dem Schrecken und der Furcht in Verbindung gebracht werden, die der Herr uns auftrug zu vernichten, indem er sagte: »Fürchtet nicht diejenigen, die den Leib töten, die Seele aber nicht töten können!«",
+            "id2": "s-98,s-98",
+            "text2": "Желтоеже пакы къ страху  къ боязни приложити, ...юже намъ попрати повеле Господь, глаголя: »Не боитеся убивающихъ тела, а душа не могущиихъ убити«. Чръвле­ное же пакы гневу, егоже де \t\t\t\t \t\t\t\tля възръдетися гневливы­имъ."
+        },
+        {
+            "id1": "s-54",
+            "text1": "Der rote aber wiederum mit dem Zorn, weswegen die Zornigen erröten.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-55",
+            "text1": "Der grüne aber wieder mit dem Neid und der Trauer, weil man davon verdorrt und eine grünliche Blässe bekommt.",
+            "id2": "s-99",
+            "text2": "Зеленое же пакы к зависти и к печяли, якоже сох­нути и бледость зеленуимети отъ сего."
+        },
+        {
+            "id1": "s-56",
+            "text1": "Deswegen erwähnt die Schrift die Schwester des Moses, die den Aussatz hatte, weswegen sie dem Bruder übel redete.",
+            "id2": "s-99b",
+            "text2": "Отсюду  сестру Моисиину, имевшую прокажение, егоже деля зле рече брату."
+        },
+        {
+            "id1": "s-57",
+            "text1": "Diese alle aber sind für den Menschen schäd­lich, etwa so wie der Teufel das menschliche Wesen aus einer Art trüber Quelle heraus mit dem Bösen übergießt.",
+            "id2": "s-101",
+            "text2": "Си бо вся пакостьна суть чловекомъ, яко и отъ некоего мутнааго источника неприязнь злыими чловека поливающа естество."
+        },
+        {
+            "id1": "s-58",
+            "text1": "Denn auch der Prophet, der selige Jeremias, spricht: »Säet nicht in die Dornen, sondern beschneidet euch eurem Herrn, und werft die Unbeschnittenheit eurer Herzen ab!«, d. h. beschneidet die bösen Leiden­schaf­ten, damit wir die Unbeflecktheit an Gott herantragen.",
+            "id2": "s-103",
+            "text2": "Глаголеть же убо и пророкъ блаженыи Иеремиа: »Не сеите на терънии, но обрезаитеся Господу вашему, и отврьзете необрезание срдць вашихъ«, страсти рекъ злыя обрежете, да бескверньство къ Богу принесемъ."
+        },
+        {
+            "id1": "s-59",
+            "text1": "Diese Gebote hat der Herr meines Erachtens seinen Schülern gegeben, nämlich ohne Stab und ohne zwei Kleider zu gehen.",
+            "id2": "s-104",
+            "text2": "Сия же бо мню и Господу своимъ ученикомъ даяти заповеди, »без жьзла и без дъвою ходити« ризу."
+        },
+        {
+            "id1": "s-60",
+            "text1": "Denn für die, die verkünden und eine unauslöschliche Freude haben, ziemt es sich, gute und nützliche Taten zu vollbringen.",
+            "id2": "s-105",
+            "text2": "Лепо бо есть благовестьствующиимъ, неугаса­ющую имущемъ радость, благия и потребьныя делеса творити."
+        },
+        {
+            "id1": "s-61",
+            "text1": "SisT.",
+            "id2": "s-108",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-62",
+            "text1": "Ihretwegennennt er den Menschen auch ‚neu‘; wegen der bösen und unnützenHandlungen aber ‚alt‘.",
+            "id2": "s-109",
+            "text2": "Ихъже ради и ‚нова‘ взывае чловека."
+        },
+        {
+            "id1": "s-63",
+            "text1": "Eub.",
+            "id2": "s-112",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-64",
+            "text1": "Deswegen gebietet der Herr, allein das Gewand der Keuschheitzu gebrauchen, damit wir uns nicht wieder mit jenenzusammen zu den Frevlern gesellen.",
+            "id2": "s-113",
+            "text2": "Темже да не  \t\t\t\t \t\t\t\tпакы, съ онеми ся съвъкупляюще, общьствуемъ неподобныимъ, Господь единою целомудрия ризою велить требовати."
+        },
+        {
+            "id1": "s-65",
+            "text1": "Und er weist die Schüler an, nicht den Gedanken der Verführten zu verfallen, und bittet, sich nur mit dem einen himmlischen und einfachen Gewand zu bekleiden.",
+            "id2": "s-114",
+            "text2": "И, не веля ученикомъ мчьтеныихъ приимати помыслъ, и единою токмо небесною и простою одеятися ризою молить."
+        },
+        {
+            "id1": "s-66",
+            "text1": "Das von totem Leder gemachte und drücken­de Schuhwerk vergleicht er aber mit der Trauer, die der Seele Schaden zufügt, und verbietet zudem, ‚sich mit dem Kummer dieses Lebens zu bekleiden‘und einfach zu sagen: »Einmal durch den Herrn abgewaschen, werden wir auch nicht in die Verwesung im Tode gehen.«",
+            "id2": "s-115",
+            "text2": "Кожами же мерътвыми сътвореную обущю и клещащую к пакости деющи и души печяли при­ложи, не веля к тому ‚обуватися житиа сего скорьбьми‘ и просте рещи: »Омъвени единою Господомь и не поступаимъ въ тлю смрътьную«."
+        },
+        {
+            "id1": "s-67",
+            "text1": "So lasst uns deshalb die lüsternde Begierde und die leidenschaftlichen Gelüste des Leibes meiden, denn das ist der weiße Aussatz!",
+            "id2": "s-116",
+            "text2": "Темже бежимъ сласти и страстолюб­ныихъ, бежиимъ страстьныихъ телеси устремлении, белое бо есть прокажение."
+        },
+        {
+            "id1": "s-68",
+            "text1": "Meiden wir den Zorn, den Hochmut und die Verleum­dung, denn das ist der rote Aussatz!",
+            "id2": "s-117",
+            "text2": "Бежимъ гнева и величиа и клеветы, черъмное бо есть прокажение."
+        },
+        {
+            "id1": "s-69",
+            "text1": "Meiden wir die Heuchelei und die Furcht während der Verfolgung, denn das ist der gelbe Aus­satz!",
+            "id2": "s-118",
+            "text2": "Бежимъ лицеме­риа и страхъ въ время гонениа, желтоебо есть прокаже­ние."
+        },
+        {
+            "id1": "s-70",
+            "text1": "Halten wir uns fern von Kummer und Neid, denn es ist der grüne Aussatz!",
+            "id2": "s-119",
+            "text2": "Убегаимъ скорбии зависти, зеленое \t\t\t\t \t\t\t\tбо есть прока­жение."
+        },
+        {
+            "id1": "s-71",
+            "text1": "Denn wenn sich auch nur das Geringste von diesen Übeln in unserem Verstand ansiedelt und wir es nicht schnell vertreiben und durch Buße heilen, vernichtet es uns Seele und Leib.",
+            "id2": "s-120",
+            "text2": "Аще бо сихъ и хуждье вселится въ умъ нашь, ...истьлить ны и душю  плоть, аще не скоро ...отвержемъ его и пока­аниемь исцелимь."
+        },
+        {
+            "id1": "s-72",
+            "text1": "So mögen auch wir keiner bösen Lust gestatten, sich in unserem Verstand einzu­nisten, sondern sie sogleich den Priestern zeigen, so wie auch die Alten den Aussatz dem Priester zeigten.",
+            "id2": "s-121",
+            "text2": "Темже не моземъ дати никакои же зле похоти въгнеждатися въ умъ нашь, но яко и дъревнии жерцу показаху, тако и мы иереомъ."
+        },
+        {
+            "id1": "s-73",
+            "text1": "Auf das Wort",
+            "id2": "s-122",
+            "text2": "Множаише бо ны есть ныне блюдение по Христову словеси, глагола бо Господь: »Слышасте, яко речеся преднимъ ‚не любодеиствуи!‘."
+        },
+        {
+            "id1": "s-74",
+            "text1": "Christi wollen wir aber nun verstärkt achtgeben, denn der Herr sprach: »Ihr habt gehört, wie zu den Alten gesagt worden ist: Du sollst nicht ehebrechen!",
+            "id2": "s-124",
+            "text2": "Но азъ глаголю вамъ: Весь зряи на жену помышлениа деля, сьи любодеиствоваю въ срдци своемъ.«"
+        },
+        {
+            "id1": "s-75",
+            "text1": "Aber ich sage Euch: Jeder, der eine Frau nur lüstern ansieht, begeht schon Ehebruch mit ihr in seinem Herzen.«",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-76",
+            "text1": "Den Lüsternden hat er Ehebrecher genannt, und nicht den, der Ehebruch began­gen hat, denn das ist Werk und Frucht des Ehebruchs.",
+            "id2": "s-125",
+            "text2": "Страстьнааго любодеица нарече, а не створшаго, се бо дело и плодъ любодеиства есть."
+        },
+        {
+            "id1": "s-77",
+            "text1": "Daher sagt er auch, dass nicht derjenige ganz und gar rein sei, der die Begierde straft, sondern derjenige, der ihr überhaupt keine Beachtung schenkt.",
+            "id2": "s-126",
+            "text2": "Темже ни мучащему помыслъ бохмо быти глаголеть чисту, но не внемълющу ему бохмо."
+        },
+        {
+            "id1": "s-78",
+            "text1": "Denn er fordert auf, nicht die Frucht der Begierde auszumerzen, sondern den Samen, vergleich­bar einem Feigenbaum, der vertrocknet ist, bevor er Früchte getragen hat.",
+            "id2": "s-127",
+            "text2": "Не плода бо любодеиственааго велитъ истьрзати, но семя, еже есть подобно смоквине, \t\t\t\t \t\t\t\t''древле плода и-сушене."
+        },
+        {
+            "id1": "s-79",
+            "text1": "Wie auch der törichte Zorn auf den Bruder Same des Totschlags ist, so hat Johannes ihndeswegen mit der Axt verglichen, die die bösartige Wurzel abhaut.",
+            "id2": "s-128",
+            "text2": "Яко и безум­ныи на брата гневъ семя есть убою, и сего деля Иоанъ брадъви сподоби и рубящи злобьное корение."
+        },
+        {
+            "id1": "s-80",
+            "text1": "Denn die Alten hauten die Frucht des Ehebruchs ab, der Erlöseraber die Samen, weil er das Böse wie irgendeinen Aussatz ganz und gar vernichten will.",
+            "id2": "s-129",
+            "text2": "Прежьнии бо плодъ любодеиства сечааху, а спаситель семена, бъхмо хотя потребити злобь, яко и прокажение кое."
+        },
+        {
+            "id1": "s-81",
+            "text1": "Wie lautete aber nun die Schrift?",
+            "id2": "s-131",
+            "text2": "Что же убо книгы реша?"
+        },
+        {
+            "id1": "s-82",
+            "text1": "»Und der Priester soll die Erscheinung auf seiner Haut sehen.",
+            "id2": "s-132",
+            "text2": "»И узритъ жрець образъ на кожине его."
+        },
+        {
+            "id1": "s-83",
+            "text1": "Sind die Haare an dieser Stelle weiß geworden und liegt die Haut dort tiefer als die Haut des übrigen Leibes, so ist es eine Er­schei­nung des Aussatzes« usw.",
+            "id2": "s-133",
+            "text2": "И власи по образу пременишася бели, и образъ плоть­ныи съмеренъ отъ кожа телесныя ­– образъ прокажениа есть«, и прочая."
+        },
+        {
+            "id1": "s-84",
+            "text1": "So wie die Schönheit eine Frucht unseres Leibes ist, so ist die Besonnenheit eine Frucht unserer Seele.",
+            "id2": "s-134",
+            "text2": "Яко бо есть плоти нашеи краса плодъ, тако и души ­– целоумие."
+        },
+        {
+            "id1": "s-85",
+            "text1": "Wenn sie sich nun aber zur Schwäche und Begierde verändert ­– denn das bedeutet der weiße Aussatz ­–, senkt sie sich ab.",
+            "id2": "s-135",
+            "text2": "Аще же убо пременится на слабость и помыслъ ­– cе бо знаменуеть белое прокажение ­– смерятися начнеть."
+        },
+        {
+            "id1": "s-86",
+            "text1": "Du bedenke aber, dass Paulus dem inneren Menschen gebietet, nicht zu altern, sondern sich zu erneuern; wie er denn auch im Hosea über Ephraim, den schwach gewordenen, spricht: »Ephraim war ein Brot, unverändert.",
+            "id2": "s-136",
+            "text2": "Помысли бо ты, яко утренему чловеку не велить ся Павель старяти но понавляти; якоже бо и въ Осие глаголе о Ефреме изнемогшая: »Ефремъ бысть пресньць, не пременя себе."
+        },
+        {
+            "id1": "s-87",
+            "text1": "Fremde ver­zehrten seine Stärke und er erkannte es nicht.",
+            "id2": "s-137",
+            "text2": "Щюжии пояша силу его, и онъ не уведе."
+        },
+        {
+            "id1": "s-88",
+            "text1": "Und graue Haare wuchsen ihm und er verstand es nicht.«",
+            "id2": "s-138",
+            "text2": "И седины ему изи­доша, и онъ не разуме«."
+        },
+        {
+            "id1": "s-89",
+            "text1": "Wenn sich einer nun aber nicht verjüngt und durch bösartige Leidenschaften alt und grau wird, [...].",
+            "id2": "s-140",
+            "text2": "Аще же убо [не] поюняяися старяе и оседее злыми страстьми, ."
+        },
+        {
+            "id1": "s-90",
+            "text1": "2. [...] so soll er mit dem Bekenntnis zum Priester kommen, damit er von der Gemeinde getrennt werde und unter Tränen Buße tue.",
+            "id2": "s-141",
+            "text2": "2. ... да приде къ иерею исповеданиемъ, ... отлу­чится обьщьства и слезами да кается."
+        },
+        {
+            "id1": "s-91",
+            "text1": "Und nach einer oder zwei Wochen soll er  besucht werden: ob er sich wohl gesorgt, ob er wohl geweint hat.",
+            "id2": "s-142",
+            "text2": "... И по недели или по двою посетится, ели ся попека, ели ся поплака."
+        },
+        {
+            "id1": "s-92",
+            "text1": "Und so soll er durch die Barm­herzigkeit Gottes wieder an seinen Bestim­mungs­ort zurück­kom­men.",
+            "id2": "s-143",
+            "text2": "И сице милосердиемь Божиимъ на свои пакы придеть чинъ, ...."
+        },
+        {
+            "id1": "s-93",
+            "text1": "3. Wenn er aber nicht über seine Bos­heit trauert und ohne Buße verbleibt, dann soll er aus der Kirche ausgeschlossen werden.",
+            "id2": "s-145",
+            "text2": "3. \t\t\tАще ли не поскоръбитъ о своемъ зле и пребываетъ бес покаяниа, ...да отлучяется црькве."
+        },
+        {
+            "id1": "s-94",
+            "text1": "Denn »jeder Aus­sät­zige«, heißt es, »soll zerrissene Kleider haben, und das Haupt soll ihm unbedeckt sein, und seinen Mund soll er verbergen, und er soll all die Tage unrein sein, solange der Aussatz an ihm ist; und er soll außerhalb der Sied­lung ver­weilen«.",
+            "id2": "s-146",
+            "text2": "»Весь« бо, рече, »прокаженъ да имать раздраны ризы, и глава ему да будетъ непокровена, и уста си да закрыеть, и да будетъ нечистъ въ вся дьни, донде же на немъ есть прокажение; и въне въплъчениа да ему будетъ животъ«."
+        },
+        {
+            "id1": "s-95",
+            "text1": "Dabei wird hier die Leidenschaft als bösartigeKleidung bezeichnet, mit dem unbedeckten Haupt wird jedoch der innere Mensch in Verbindung gebracht.",
+            "id2": "s-147",
+            "text2": "...страстолюбие/злыми/знаменуя ризами, непо­кровеною же главою ­– утре \t\t\t\t \t\t\t\tняаго чловека ..."
+        },
+        {
+            "id1": "s-96",
+            "text1": "Aber der Sünder muss dieser Hilfe beraubt werden, ist doch der, der in Sünden verbleibt, es nicht wert, dass ihm diese Heilsmysterien zuteil werden.",
+            "id2": "s-148",
+            "text2": "Сея бо нужа лишатися помощи съгрешающему,  бо пребывающему въ гресехъ спасеныимъ симъ сподобитися таинамъ."
+        },
+        {
+            "id1": "s-97",
+            "text1": "Das nämlich steht im Gesetz von den sichtbaren Dingen.",
+            "id2": "s-149",
+            "text2": "И си убо о видимыихъ."
+        },
+        {
+            "id1": "s-98",
+            "text1": "4. Aber unsere Geheimnisse und Herzens­dinge, näm­lich unseren inneren Menschen mit Sorgfalt aufzusuchen, trägt er einem Engel auf, dem Bevoll­mäch­tigten jener Kirche.",
+            "id2": "s-152",
+            "text2": "4.Таины же и серъдечная наша поручнику црькве оноя, аггелу поручаетъ, утреняго ны чловека съ испытаниемь посещати."
+        },
+        {
+            "id1": "s-99",
+            "text1": "Daher entblößt uns jener durch das Schwert des Geistes, auch wenn wir meinen, im Ver­bor­genen sündigen zu können und an­schließend in die Kirche hineingehen.",
+            "id2": "s-153",
+            "text2": "Темже аще и мыслимъ утаятися съгрешающе и входи***мъ в***ъ цръквь, онъ ны обнажаеть отъ духовнааго оружиа."
+        },
+        {
+            "id1": "s-100",
+            "text1": "Das ‚Verbergen des Mundes‘ aber ist das Schweigen des Sünders.",
+            "id2": "s-154",
+            "text2": "‚Закрывание‘ же ‚устомъ‘ ­– молчание грешнааго."
+        },
+        {
+            "id1": "s-101",
+            "text1": "Denn zu dem Sün­der sprach Gott: »Warum verkündestdu eigentlich meine Gebote« usw.",
+            "id2": "s-155",
+            "text2": "Грешному бо рече Богъ: »Въскую ты поведаеши правъды моя«, и прочая."
+        },
+        {
+            "id1": "s-102",
+            "text1": "Und sein Leben ‚außerhalb der Siedlung‘ bedeutet außerhalb des Himmelsreichs, denn »draußen«, so der Apostel, »ist ein jeder, der sündigt«.",
+            "id2": "s-156",
+            "text2": "Житие же его ‚вне въплчениа‘, рекше, вне царcтва небеснаго, »кроме бо вьсь«, рече апостолъ, »съгрешаяи«."
+        },
+        {
+            "id1": "s-103",
+            "text1": "Und wenn er sich auch täuscht und meint, drinnen zu sein, so ist er doch draußen, er ist außerhalb;so wie er auch drinnen ist, sobald er sich bessert, auch wenn er draußen zu sein meint.",
+            "id2": "s-157",
+            "text2": "И бо аще мнится утре, себе прельщая, кроме есть, вне есть; яко исправъляаи утре есть, аще и вне мнится сыи."
+        },
+        {
+            "id1": "s-104",
+            "text1": "Dann hat er schöne Kleider, ein bedecktes Haupt und den »Helm des Heils« auf dem Haupt, und den Mund enthüllt, um die Schrift zu erforschen, und die Zunge mit Weisheit geöffnet.",
+            "id2": "s-158",
+            "text2": "И ризы имать красны, главу покровену, и »шлемъ« на главе »спасеныи« и у \t\t\t\t \t\t\t\tста отврьста на пытание книжное, и языкъ мудъростию отверстъ."
+        },
+        {
+            "id1": "s-105",
+            "text1": "So lasst uns uns vor all diesen Dingen hüten!",
+            "id2": "s-159",
+            "text2": "Темже съблюдемся  всехъ сихъ ...."
+        },
+        {
+            "id1": "s-106",
+            "text1": "Welches Interesse hat aber Gott, von Kleidern oder dem Kettfaden oder vom Schussfaden oder dem Übrigen zu sprechen?",
+            "id2": "s-161",
+            "text2": "Кая бо Богу скорбь о ризахъ, или о сине, или о клъцехъ, или о иномъглаго­лати? ..."
+        },
+        {
+            "id1": "s-107",
+            "text1": "4",
+            "id2": "s-163",
+            "text2": "4"
+        },
+        {
+            "id1": "s-109",
+            "text1": "1.Das wollen wir aber sorgfältig erklären und ‚das Festgewordene‘, sage ich, mit dem Verstand vergleichen, ‚den Schussfaden‘ aber mit der Seele und ‚das Leder‘ mit dem Leib.",
+            "id2": "s-164",
+            "text2": "1. \t\t   Се же убо да съ испытаниемъ толкуемъ и ‚утверъжьшему‘, реку, умъ ...сподобимъ, ‚утъку‘ же ­– душу, и ‚кожи‘ ­– тело."
+        },
+        {
+            "id1": "s-110",
+            "text1": "Und ‚die Kleidung‘ mit dem ganzen Menschen: den Mann mit ‚der Wolle‘ und die Frau mit ‚dem Leinen‘.",
+            "id2": "s-165",
+            "text2": "‚Ризе‘ же ­– чловека всего: къ ‚вълне‘ ­– мужа, ко ‚льну‘ ­– жену."
+        },
+        {
+            "id1": "s-111",
+            "text1": "»Und wenn sich an der Kleidung eine Er­schei­nung des Aussatzes zeigt, an der wolle­nen Klei­dung oder an der flachsenen Kleidung...« und kurz darauf: »und die Erscheinung am Leder oder an der Kleidung oder am Kett- oder Schussfaden oder am Schussfaden wird grünlich sein«.",
+            "id2": "s-166",
+            "text2": "»И в ризе аще будетъ образъ прокажениа ­– в ризе въльнене или в ризе изгребне«,  помале »и будетъ образъ зеленуяисяна кожи, или на ризе, или на сину, или на утъце,  на клъ­цехъ.«"
+        },
+        {
+            "id1": "s-112",
+            "text1": "Den Kettfaden aber hat er bildlich als die Festigkeiten der Seele bezeichnet.",
+            "id2": "s-168",
+            "text2": "Синъ бо преобразъне  душевныя ...нарече."
+        },
+        {
+            "id1": "s-113",
+            "text1": "Denn der Mensch ist ein zusammengesetztes Lebewesen aus Seele und Leib.",
+            "id2": "s-169",
+            "text2": "Съло­жьнъ бо есть животъ ...чловекъ ...отъ душа и плоти ...."
+        },
+        {
+            "id1": "s-114",
+            "text1": "Er zeigt aber auf, dass das erste Empfangen des Sündhaften von einem äußeren Trugbild durch die Augen und das Gehör eindringt, so wie auch irgendein Aussatz zum Verstand vorstößt.",
+            "id2": "s-170",
+            "text2": "Прь­вому же греховному зачятию отъ внешняго мечта очима и слухомъ ... входити, яко и некоему прокажению ...къ уму припадати кажеть."
+        },
+        {
+            "id1": "s-115",
+            "text1": "Folgendes nämlich sprach der Herr in Bezug auf den Sün­den­erlass über die Ungläubigen: »Was denkt Ihr in Euren Herzen?",
+            "id2": "s-527",
+            "text2": "Се же убо Господь о неверующиихъ оставъ \t\t\t\t \t\t\t\tлениа деля греховнааго глагола: »Что помышляете въ сръдциихъ вашихъ?«."
+        },
+        {
+            "id1": "s-116",
+            "text1": "« Es war dies nämlich der Aussatz des Unglaubens in ihren Sinnen.",
+            "id2": "s-173",
+            "text2": "Се бо прокажение неверованиа въ умехъ беаше."
+        },
+        {
+            "id1": "s-117",
+            "text1": "»Denn Krankheit«, sagt er »wurde in ihnen empfangen und Gesetzlosigkeit geboren«.",
+            "id2": "s-174",
+            "text2": "»Зачят бо«, рече, »болезнь и роди безаконие« ."
+        },
+        {
+            "id1": "s-118",
+            "text1": "Denn der Schussfaden bedeute die Neigung zu den Leiden­schaf­ten, denn die Leiden­schaft wird mit dem wachsenden Willen gewebt.",
+            "id2": "s-175",
+            "text2": "Прилюбление же убо страстии утокъ мнети, тъчеть бо ся растущи изволениемь страсть."
+        },
+        {
+            "id1": "s-119",
+            "text1": "Was sagte die Schrift aber hierauf über diejenigen, die sich losgesagt haben, und was über die  Boshaften?",
+            "id2": "s-176",
+            "text2": "Таче что реша книгы по нетемъ бо и порочьныихъ?"
+        },
+        {
+            "id1": "s-120",
+            "text1": "2. »Wenn sich der Aussatz aber«, nachdem er den Priestern gezeigt wurde, »auf der Kleidung oder am Kettfaden oder im Leder oder am Schussfaden nichtausbreitet, dann ist es ein einmaligerAussatz und dann ist nur das Leder unrein, dann soll er die Kleidung oder den Kettfaden mit der betroffenen wol­le­nen Stelleoder in jeglichem ledernen Gerät verbrennen.",
+            "id2": "s-178",
+            "text2": "2. \t\t\t»Аще же неразливается по явлении жерчьсцемъ прокажение на ризе, или на сине, или на кожи, или на утъце ­– прокаже­ние единоесть ... и  нечиста, и съжьжеть ризу ...или утокъ въ волнохъ ...или въ всемъ съсуде кожне ...."
+        },
+        {
+            "id1": "s-121",
+            "text1": "Und weil es ein einmaliger Aussatz ist, soll er mit Feuer verbrannt werden.",
+            "id2": "s-179",
+            "text2": "И якоже прокажение /едино/есть, огнемъ да иждежеться.«"
+        },
+        {
+            "id1": "s-122",
+            "text1": "«Dieses aber zeigt er wiederum über die­jeni­gen an, die Buße getan und sich von den Sünden ganz und gar losgesagt haben: er befielt, dass die Kleidung, d.h. die ‚sündige Hülle‘ verbrannt werde.",
+            "id2": "s-179,s-179b",
+            "text2": "И якоже прокажение /едино/есть, огнемъ да иждежеться.« Се же убо о покающиихъся пакы знаменуеть и  бъхмо грехы: ...  вели иждещися, рекше ‚грешному покрову‘. ..."
+        },
+        {
+            "id1": "s-123",
+            "text1": "[...]",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-124",
+            "text1": "3. [...] Darüber spricht aber auch ein anderer Prophet: »Jerusalem, heilige Stadt, fortan wird keiner durch Dich durchgehen können, der unbeschnitten oder unrein ist, sondern nur jemand, der beschnitten und also rein ist«, nämlich von dem alten Trug.",
+            "id2": "s-181",
+            "text2": "3.  Сего бо деля инъ же глаголеть пророкъ: »Иерусалиме, святыи градеСего, не имать к то \t\t\t\t \t\t\t\tму сквозе тя проити не обре­занъ или нечистъ, но обрезанъ и чистъ«, рекше яко отъ древъняа прельсти. ..."
+        },
+        {
+            "id1": "s-125",
+            "text1": "Denn eben dieses Wort und der Herr selbst hört nicht auf, uns bezüglich unserer Vernunft zu beschneiden.",
+            "id2": "s-183",
+            "text2": "Само бо оно слово и Господь не престаеть, обрезая ны цело­умии."
+        },
+        {
+            "id1": "s-126",
+            "text1": "Was aber Du, Herr, Deinen Knechten als Gesetz aufträgst, das sage auch uns!",
+            "id2": "s-184",
+            "text2": "Что же убо, Господи, своимъ законуеши рабомъ, рци и намъ!"
+        },
+        {
+            "id1": "s-127",
+            "text1": "Dass, »wenn Ihr den Willen meines Vaters tut«, dann »werdet Ihr wie Leuchter sein«, voll des ewigen Lebens.",
+            "id2": "s-185",
+            "text2": "Яко »аще сътворите волю отьца моего«, »будете яко и светилници«, житиа суще исполнь вечнааго."
+        },
+        {
+            "id1": "s-128",
+            "text1": "Nun gebt aber Acht, auf dass Ihr fähig seid, mit mir in die Tiefe der Unvergänglichkeit einzu­gehen.",
+            "id2": "s-186",
+            "text2": "Бдите же убо, да мочни будете съ мною в пучину нетлениа внити."
+        },
+        {
+            "id1": "s-129",
+            "text1": "Daher »bewahrt Eure Kerzen unver­löscht«, auf dass Ihr in das ewige Braut­gemach eintretet.",
+            "id2": "s-187",
+            "text2": "Темъ »съ­блюдаите свеща своя не угасъны«, да въ вечныи внидете черътожьникъ."
+        },
+        {
+            "id1": "s-130",
+            "text1": "(Und als ich dieses gesagt hatte, sprach Euthymius: „Du sprichst wahre Worte!",
+            "id2": "s-189",
+            "text2": "(И яко мне си рекшу, Еуфимии рече: „Поистине о сиихъ!"
+        },
+        {
+            "id1": "s-131",
+            "text1": "So ist es auch bei mir, wenn ich von den Höchsten höre ­– und mit ‚den Höchsten‘ meine ich die Worte Christi ­–, dann freue ich mich sehr, als würde ich durch sie belebt; ich bin ehrfürchtig, dass ich, indem ich das Auge mit Hilfe der Himmlischen selbst dorthin ausstrecke, auch selbst meine, aus der Welt hinausgegangen zu sein, als hätte ich verges­sen.“",
+            "id2": "s-190",
+            "text2": "Сице, о мъне смыслуя, якоже и азъ о врьховъниихъ егда послушаю ­– ‚верховьняя‘ же меню словеса Христова ­–, зело радуюся, яко оживляася имь; чтую, яко и небесными онамо простеръ око, и, яко забывая, и мню ся из мира изшедъ.“"
+        },
+        {
+            "id1": "s-132",
+            "text1": "Und ich sagte: „Deshalb lasst uns zu dem zurückkehren, womit die wei­te­re Argumentation bestrittenwerden kann und die  Verhandlung dort fortführen.",
+            "id2": "s-192,s-193",
+            "text2": "И азъ: „Темже имиже, ле \t\t\t\t \t\t\t\tпо прочему истъкатися словеси, пакы възвратившеся, съвъкупимъ къ прочимъ. Глаголахомъ убо, добре устремьшеся на слово, но не довольне его конча­хомъ.“)"
+        },
+        {
+            "id1": "s-133",
+            "text1": "Denn wir haben mit der Argumentation einen guten Anlauf ge­nom­men, haben sie aber nicht zu­frie­den­stel­lend zuendegeführt.“)",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-134",
+            "text1": "5",
+            "id2": "s-195",
+            "text2": "5"
+        },
+        {
+            "id1": "s-135",
+            "text1": "Sist.",
+            "id2": "s-197",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-136",
+            "text1": "Erinnern wir uns aber, dass wir gesagt haben, der Mensch sei eine Zu­sam­men­­stel­lung von Seele und Leib.",
+            "id2": "s-198",
+            "text2": "Помнемъ бо, яко съставление глаголахомъ отъ душа и плоти быти чловеку."
+        },
+        {
+            "id1": "s-137",
+            "text1": "Daher heißen die Gesetze auch ‚Schussfaden‘ und ‚Leder‘, mit denen er anordnet, weder in Hinsicht auf den Verstand, noch nach dem Leib noch nach der Begierde zu sündigen.",
+            "id2": "s-199",
+            "text2": "Темже и законы  ‚утокъ‘ и ‚кожа‘, законуютъ, ни по уму, ни по плоти, ни по помыслу съгрешати."
+        },
+        {
+            "id1": "s-138",
+            "text1": "Denn entweder ist man, so wie viele Menschen, am Verstand aussätzig, aber gesund an Seele und Leib, oder wiederum am Verstand gesund und an Leib und Seele krank.",
+            "id2": "s-200",
+            "text2": "Или неции, яко мнози, умомъ прокажени суть, а съдравующе и душею и теломъ; или пакы умомъ съдравующе, а плотию и душею боляще."
+        },
+        {
+            "id1": "s-139",
+            "text1": "Denn wollen wir in Bezug auf die Worte der Häretiker nicht sagen, dass sie nach dem Verstand sündigen, denn indem auch sie Christus bekennen, verpflichten sie sich der Gerechtigkeit und der Wahrheit, indem sie den Schussfaden selbst und das Leder rein halten, am Verstand aber durch Heterodoxie aussätzig sind: dass sie nämlich entweder jenes Wesen selbst lästern, sprich den Vater, oder sein immer­währen­des Wort oder den Heiligen Geist.",
+            "id2": "s-201",
+            "text2": "Се бо еретичьскы­ихъ не глаголемъ словесъ, яко по уму съгрешити, исповеда­юще бо убо и они Христа, о правде и о истине обещава­ютъся, яко и утокъ и кожю храняше чисту, а умъ имуще прокаженъ кривовериемь: или бо в само оно естество, рекше отьца охуляюще, или въ слово его превечное,  \t\t\t\t \t\t\t\tили въ прествятыи духъ."
+        },
+        {
+            "id1": "s-140",
+            "text1": "Deshalb sagen wir mit Wahrheit von den Häretikern, dass sie an schlimmem Aussatz kranken.",
+            "id2": "s-202",
+            "text2": "Темже въ истину еретикомъ рече ... зломъ прокажениемь болети."
+        },
+        {
+            "id1": "s-141",
+            "text1": "(Und ich sagte:)",
+            "id2": "s-203",
+            "text2": "(И азъ рехъ:)"
+        },
+        {
+            "id1": "s-142",
+            "text1": "Eub.",
+            "id2": "s-205",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-143",
+            "text1": "Das ist auch Kindern klar, dass sie alle hochmütig sind und hohen Stolz haben.",
+            "id2": "s-206",
+            "text2": "Яве се есть и детемъ, яко вси величяви и  имуще высоку."
+        },
+        {
+            "id1": "s-144",
+            "text1": "Denn sie bewahren ihren Leib rein in Heiligkeit, weil sie am Geist gesund sind und die richtige Vernunft haben;",
+            "id2": "s-207",
+            "text2": "Си бо смысломъ съдравующе и словоправо имуще, телочисто хранять въ святыни; но болятьдушею любовъчальствомь, яко и съ небесе на братию глядающе и презрениемь тем ся величяюще, иже разумети книгы и учительскыи предрьжати столъ."
+        },
+        {
+            "id1": "s-145",
+            "text1": "aber in ihrer Seele kranken sie an Herrschsucht, als schauten sie vom Himmel auf ihre Brüder herab und brüsteten sich mit Verachtung mit dem Schriftverständnis und dem Innehaben des Lehrstuhls.",
+            "id2": "s-207",
+            "text2": "Си бо смысломъ съдравующе и словоправо имуще, телочисто хранять въ святыни; но болятьдушею любовъчальствомь, яко и съ небесе на братию глядающе и презрениемь тем ся величяюще, иже разумети книгы и учительскыи предрьжати столъ."
+        },
+        {
+            "id1": "s-146",
+            "text1": "Deshalb kommen sie einem auch zuerst mit den Händen entgegen, weil sie es verachten, dem Armen den Mund anzubieten.",
+            "id2": "s-207b",
+            "text2": "Темже и рукама преже съретають, обидящеубогу уста подати."
+        },
+        {
+            "id1": "s-147",
+            "text1": "Daher ist es berechtigt, den Aussatz für ‚geistigen Hochmut‘  zu halten, denn auch in den Sprichwörtern heißt es: »Der Herr widersetzt sich den Übermütigen, den Demütigen aber gibt er Gnade«.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-148",
+            "text1": "Aber was heißt das denn?",
+            "id2": "s-208,s-208b",
+            "text2": "Темже по правде лепо имети ...прокажение ...‚ духовное‘ \t\t\t, глаголеть бо и въ притчахъ Господь: »Презоривыимъ противляеться, смиреныимъ же даеть благодарие«, ... Что убо?"
+        },
+        {
+            "id1": "s-149",
+            "text1": "Wird sich die Erde und der Staub Gott widersetzen oder demütig sein?",
+            "id2": "s-209",
+            "text2": "Имать противитися Богу земля и прьсть или смирити?"
+        },
+        {
+            "id1": "s-150",
+            "text1": "So lasst uns demütig sein vor den für uns leidenden Menschen.",
+            "id2": "s-210",
+            "text2": "Но смиряимся то \t\t\tчиюстрастьныимъ намъ чловекомъ ...,  с похвалою будемъ отъ Бога."
+        },
+        {
+            "id1": "s-151",
+            "text1": "Und Lob werden wir von Gott erhalten.",
+            "id2": "s-210",
+            "text2": "Но смиряимся то \t\t\tчиюстрастьныимъ намъ чловекомъ ...,  с похвалою будемъ отъ Бога."
+        },
+        {
+            "id1": "s-152",
+            "text1": "Soviel nun zu diesem.",
+            "id2": "s-211",
+            "text2": "И о сихъ убо сице."
+        },
+        {
+            "id1": "s-153",
+            "text1": "Aber viele, die an Verstand und Seele gesund sind, wie auch dort gesagt ist: ‚am Kett- und am Schussfaden‘, sind ‚am Leder‘, d.h. wegen der fleischlichen Gelüste unrein, weil sie durch diese Trugbilder verführt sind.",
+            "id2": "s-213",
+            "text2": "Но мнози умомъ и душею съдравующе, яко и онуде ‚синомь и утъкомъ‘, ‚кожею‘ ­– рекше сластьми плотьными ­– нечис­тують, прельщаеми мечтеными сими вещьми."
+        },
+        {
+            "id1": "s-154",
+            "text1": "Daher ist es geboten, sich zu schützen, damit wir nicht in jenem großen Sturm versinken.",
+            "id2": "s-214",
+            "text2": "Темже лепо съблюдатися, да не въ велицеи онои погрязнемъ бури."
+        },
+        {
+            "id1": "s-155",
+            "text1": "So beschaffen ist nämlich unsere Heilung, o Sistelius.",
+            "id2": "s-215",
+            "text2": "Си убо, о Систелие, наша врачьба."
+        },
+        {
+            "id1": "s-156",
+            "text1": "(Und als ich diese Worte gesprochen hatte, stand ich auf und ging.",
+            "id2": "s-217",
+            "text2": "(И кде си рехъ, въставъ, поидохъ."
+        },
+        {
+            "id1": "s-157",
+            "text1": "Und er stand auf und fasste mich von hinten am Kleid: „Komm zurück“, sagte er, „damit auch ich dir eine Argumentation einer Frau  schildere, die ich einst in Lykien gehört habe.)",
+            "id2": "s-219",
+            "text2": "И онъ, въставъ и имъ мя съзади за котыгу, „поиди“, рече, „да и азъ ти скажю слово женьско, иже некогда в Лукии слышахъ.“ .)"
+        },
+        {
+            "id1": "s-158",
+            "text1": "Sist.",
+            "id2": "s-223",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-159",
+            "text1": "Denn sie war sowohl schriftkundig als auch enthalt­sam, und lehrte denn auch das Gesetz des Herrn in philosophischer Weise.",
+            "id2": "s-224",
+            "text2": "Я же и книжна бе и целоумна, и убо и любомуд­рене учаша Господьская."
+        },
+        {
+            "id1": "s-160",
+            "text1": "Und das, was ich von ihr gehört habe, das offenbare ich nun Euch.",
+            "id2": "s-225",
+            "text2": "И еже убо слышахъ отъ нея, обаву предъ вами."
+        },
+        {
+            "id1": "s-161",
+            "text1": "Und so sprach sie, die Eifrigeund Verständige, ­denn auch sie sah in allem geistige Bedeutung:",
+            "id2": "s-226",
+            "text2": "Глаголаша же убо любощющая она и целоумъна ­– все же и она зрящи разумъ ­–, яко:"
+        },
+        {
+            "id1": "s-162",
+            "text1": "6",
+            "id2": "s-227",
+            "text2": "6"
+        },
+        {
+            "id1": "s-163",
+            "text1": "1.",
+            "id2": "s-229",
+            "text2": "1. Благонравие: „Лепо есть древле всехъ ищющему истин­нааго не острашатися, \t\t\t\t \t\t\t\tни возмущати противу разумнеи высости."
+        },
+        {
+            "id1": "s-164",
+            "text1": "Arete: „Vor allem derjenige, der die Wahrheit sucht, soll sich weder fürchten, noch sich gegen die Höhe der Vernunft auflehnen.",
+            "id2": "s-229",
+            "text2": "1. Благонравие: „Лепо есть древле всехъ ищющему истин­нааго не острашатися, \t\t\t\t \t\t\t\tни возмущати противу разумнеи высости."
+        },
+        {
+            "id1": "s-165",
+            "text1": "Wenn aber jemand darüber hinaus urteilt, dann werde er in die Tiefe und in armselige Gedanken stürzen, weil er ­– verzweifelt und wie mitten auf dem Weg umgekehrt ­– träger wird, weil er die Erkenntnis nicht erlangt habe und, nach dem Wort des Evangeliums, »mit dem Turmbau nach der Hälfte aufgehört« habe.",
+            "id2": "s-230",
+            "text2": "Егда же мени паче кто, въ глубину и бедьныя впаде разумы, отчаявъ бо ся и ­акы посреде пути объративъ, лени­веи будетъ, не получивъ разума, и ­– по евангельскому слове­си... ­– »в полы дело оставивъ суновьное«."
+        },
+        {
+            "id1": "s-166",
+            "text1": "Daher soll man Geduld haben und sich nicht plagen.",
+            "id2": "s-231",
+            "text2": "Темже трьпети есть лепо и не сътужати."
+        },
+        {
+            "id1": "s-167",
+            "text1": "Denn wer geduldig die Voll­kom­men­heit der Schrift sucht, wird sie umso klarer erblicken.",
+            "id2": "s-232",
+            "text2": "Терпениемъ бо ища книжныя доб­роты, яснее узрить."
+        },
+        {
+            "id1": "s-168",
+            "text1": "Wie auch der Prophet Elias nach jenem Wind, der Berge und Felsen zerstört hatte, nach dem Erdbeben und dem Feuer schließlich die Stimme jenes zarten, d.h. leisen Geistes erkannt hat, indem er stufenweise von dem einen zum anderen überging, bis er zur Wahrheit gelangt ist. Denn »indem wir die Finsternis abtun und erleuchtet sind an der Seele«, steigen wir wie von Stufe zu Stufe hinauf von Erkenntnis zu Erkenntnis.",
+            "id2": "s-233,s-234",
+            "text2": "Яко и пророкъ Илиа по дусе ономь, орящиимъ горы и камение, по трусе и по огни, после же тонъкааго, рекше тихааго оного духа узре гласъ, отъ сихъ в си преходя, дондеже приде въ истинъное. »Отъврьгше« бо »мракъ и освящени душею«, яко и съ степене на степень, отъ разума в разумъ въсходимъ."
+        },
+        {
+            "id1": "s-169",
+            "text1": "Das heißt: So wie wir vom Bergwind, der dem Unglauben gleicht, zum Erforschen der Schrift wie zum Erdbeben hineingehen, und von diesem aus ins Feuer, d.h., »ins unauslöschliche Feuer der Liebe«, so schreiten wir von diesem angefeuert zum jeweils Größeren fort, bis wir zum Gipfel gelangen, d.h. bis zur Erleuchtung des heiligen Geistes.“",
+            "id2": "s-235",
+            "text2": "Рекше: акы отъ горьняаго духа, подобна неверию, въ исканиа книжная, яко и въ трусъ вхо­дити, и отъ оного на огнь, рекше »на не \t\t\t\t \t\t\t\tугасныи огнь любъве«, имже поспешени, на вящьщиихъ поспешение по­ступимъ, дондеже верха доидемъ, рекше освящение святаго духа.“"
+        },
+        {
+            "id1": "s-170",
+            "text1": "Und ich wunderte mich und sprach: „Nun, Du Weise, ich war erstaunt über Deine Enthalt­samkeit, Liebenswürdigkeit und Bescheiden­heit.",
+            "id2": "s-237",
+            "text2": "И азъ, почюдивъся, рехъ: „Се убо, о премудрая, дивяахъ ти ся о целоумии, и тихости, и съпрятании; се же убо и о муд­ро­сти!“"
+        },
+        {
+            "id1": "s-171",
+            "text1": "Und nun bin ich ebenso erstaunt über Deine Weisheit!“",
+            "id2": "s-237",
+            "text2": "И азъ, почюдивъся, рехъ: „Се убо, о премудрая, дивяахъ ти ся о целоумии, и тихости, и съпрятании; се же убо и о муд­ро­сти!“"
+        },
+        {
+            "id1": "s-172",
+            "text1": "Und sie schmunzelte wie es gewisse weise Schrifterklärer tun.",
+            "id2": "s-238",
+            "text2": "И она, осклабивъшися, яко и неции премудрии толци книжнии, „отъ сихъ“, рече, „показая яве, не лепо стужати си въницающему в писаниа Господня.“"
+        },
+        {
+            "id1": "s-173",
+            "text1": "„Hierdurch“, sprach sie, „wurde klar gezeigt, dass derjenige, der in die Schriften des Herrneindringt, sich hierüber nicht bekümmern muss.",
+            "id2": "s-238",
+            "text2": "И она, осклабивъшися, яко и неции премудрии толци книжнии, „отъ сихъ“, рече, „показая яве, не лепо стужати си въницающему в писаниа Господня.“"
+        },
+        {
+            "id1": "s-174",
+            "text1": "“ Und ich sprach zu ihr: „Ich verlange, erschöpfend darüber zu hören.",
+            "id2": "s-239",
+            "text2": "К неи же азъ: „Исполнь о сихъ слышати требую."
+        },
+        {
+            "id1": "s-175",
+            "text1": "Denn nachdem wir dieses",
+            "id2": "s-240",
+            "text2": "Елма же убо о сихъ рехомъ, се и о предлежащимъ видимь испытьне!"
+        },
+        {
+            "id1": "s-176",
+            "text1": "Thema abgehandelt haben, wollen wir nun auch das vorliegende Themasorgfältig ansehen!",
+            "id2": "s-240",
+            "text2": "Елма же убо о сихъ рехомъ, се и о предлежащимъ видимь испытьне!"
+        },
+        {
+            "id1": "s-177",
+            "text1": "Es heißt nämlich: »Und wenn auf der Kleidung ein Zeichen des Aussatzes erscheint ­– auf dem härenen oder flachesenen Kleid, am Schuss- oder Kettfaden oder Leinen oder an jeglichem Leder« usw.“",
+            "id2": "s-242",
+            "text2": "И »на ризе аще будеть образъ прокажениа, на ризе сукняне, или изъгребне, или на утьце, или на сине, или на льне, или въ всеи кожи«, и прочяа.“"
+        },
+        {
+            "id1": "s-179",
+            "text1": "2. „Mit dem Wundmal auf der Wolle meint er den sich erneuernden inneren Menschen, denn »wie ein Schaf wurde er zur Schlachtbank geführt«; wie er auch die Kleidung, die aus dessen Frucht gewebt ist, »wollen« nennt.",
+            "id2": "s-245",
+            "text2": "2. „Язву вълньну ­– понавляемааго утреняаго глаголетъ чловека, »яко и овча« бо »на заколение ... приведеся«; яко и \t\t\t\t \t\t\t\tотъ оного плодъ истъкана ризу «вълньну» нарече."
+        },
+        {
+            "id1": "s-180",
+            "text1": "Mit dem linnenen Kleid aber bezeichnet er den aus Staub gemachten Menschen, denn dieserkommt aus der Erde hervor.",
+            "id2": "s-246",
+            "text2": "Платьненую же ­– прьстию створенааго чловека знаменуеть, изъ земля бо си идеть."
+        },
+        {
+            "id1": "s-181",
+            "text1": "Du musst nämlich verstehen, dass auch Paulus im zweiten Send­schreiben an die Korinther Ähnliches sagt: »Ich fürchte, dass, wie auch die Schlange in ihrer Arglist Eva verführt hat...« usw.",
+            "id2": "s-247",
+            "text2": "Разумеи бо, яко подобно симъ и Павелъ рече въ второмъ коринфьсцемъ послании: »Боюся, еда, яко и змия Евъгу прельсти въ проказьстве своемъ«, и прочая."
+        },
+        {
+            "id1": "s-182",
+            "text1": "Und an anderer Stelle: »Weil wir diese wahren Ver­heißun­gen haben, reinigen wir uns von aller Unreinheit des Leibes und des Geistes«.",
+            "id2": "s-248",
+            "text2": "И пакы: »Сия же, имуще обеты вернии, очистимся отъ всея нечис­тоты плоти и духа«."
+        },
+        {
+            "id1": "s-183",
+            "text1": "Es gibt aber gewisse Häresien, die den äußeren Menschen nicht aussätzig, den inneren aber verweslich machen an Sinn und Verstand.",
+            "id2": "s-249",
+            "text2": "Суть бо некыя ереси, яже внешняаго чловека не прокажена имуть, но утреняаго ­– тлена умомь и разумомъ."
+        },
+        {
+            "id1": "s-184",
+            "text1": "Im Leben sehen wir viele als rein und im Glauben als verweslich.",
+            "id2": "s-250",
+            "text2": "Житиемь видимъ многы чисты, и верою ­– тлены."
+        },
+        {
+            "id1": "s-185",
+            "text1": "»Und wenn sich auf der Kleidung ein Merkmal des Aussatzes zeigt, auf der härenen oder wergenen Kleidung oder am Kett- oder Schussfaden«: Die fleischlichen Juden sollen uns antworten, wie dieses Gebot bei ihnen erfüllt wird; oder wie bei ihnen die Schrift erfüllt wird, wenn sie im Wortsinne verstanden wird und wie es denn möglich ist, den Aussatz des Kettfadens oder des Schussfadens oder des Leders, also nicht beseelter Dinge zu sehen.",
+            "id2": "s-251",
+            "text2": "»И на ризе аще будеть образъ прокажениа, на ризе сукняне, или изгребьне, или на сину, или на утце« – да отрекуть ны плотянии июдеи, како ся свершаеть си заповедь в нихъ, или како ся съвръшаетъ в нихъ писа \t\t\t\t \t\t\t\tние по простому; яко же мощи видети сина прокажение, или утка, или кожа ­– без­душныихъ вещеи."
+        },
+        {
+            "id1": "s-186",
+            "text1": "Denn diese teilt Gott gleichsam in Vernünftige und Selbstmächtige ein: Wenn aber in Bezug auf den Aussatz, ‚der länger als sieben Tage bleibt‘, aufgetragen ist, ‚dass der Kett- oder Schussfaden und das Kleid vernichtet werden sollen, weil sie sich der Unreinheit nicht entledigthaben‘, dann ist offenbar, dass er hier von Beseeltem spricht und nicht von Unbeseeltem.",
+            "id2": "s-252,s-253",
+            "text2": "Си бо яко и въ словесныихъи самовласть­ныихъ Богъ разделяеть. Аще бо ...‚по седми дьнии ...пребыва­ющю‘ прокажению ‚казнитися‘ велитъ ‚сино, и утъкъ, и риза, яко не пременяющиися отъ нечистоты‘, яве же, яко о душевныихъ, а не ...о бездушныихъ глаголеть. ..."
+        },
+        {
+            "id1": "s-187",
+            "text1": "Wohlan nun, lasst uns daran nicht vorübergehen, sondern die »Decke« von unseren Augen nehmen und »die Herrlichkeit Gottes schauen«!",
+            "id2": "s-255",
+            "text2": "Се же убо, да не минуемь, открывше очныи »покровъ«, »Божию славу узримъ«."
+        },
+        {
+            "id1": "s-188",
+            "text1": "Denn das Gesetz enthält nichts Unnützes, wenn es uns zuerst die Gebote für die Sünde des Verstandes und dann für die des Leibes erteilt und dann in der gleichen Reihenfolge auch über das Leder und den Kettfaden spricht: Derjenige aber, der das härene und leinene Gewand rein hält, hält sozusa­gen ‚den Glauben und die Tat‘ rein.",
+            "id2": "s-256",
+            "text2": "Не имуть бо ничего же праздьна книгы, заповедавъ бо ны о разумнемь и плотьнемь гресе, по чину пакы и о кожи, и о сине глаголеть: сукняное бо и льня­ное одение имущему чисто, рекше ‚веру и дело‘."
+        },
+        {
+            "id1": "s-189",
+            "text1": "Denn das Kleid ist die Kirche des Herrn, aus vielen Völkern zusammengestellt, gleichsam zusammengeknüpft, damit wir Schwächsten, so wie der Schussfaden, von Größeren gehalten werden.",
+            "id2": "s-257",
+            "text2": "Риза бо есть Господу церьковь, отъ многыихъ събрана странъ, истъкана, да немощнеишии мы, яко и утокъ, бол­шими дрьжимся."
+        },
+        {
+            "id1": "s-190",
+            "text1": "Daher zeigt auch der Prophet, indem er durch die Worte, dass »er sich wie in Brautschmuck kleidet«, den Bund Christi anspricht, die Vereinigung in Liebe an: denn den Kettfaden nennt er den festen Rang der Kirche, d.h. die Bischöfe und Lehrer, den Schussfaden aber die Unter­ge­be­nen und gehütetenLeute; und das Leder die Katechumenen als solche, die die Lederkleider noch nicht durch die Taufe abgeschüttelt haben.",
+            "id2": "s-258",
+            "text2": "Темже и пророкъ, глаголя, яко »облечется \t\t\t\t \t\t\t\tяко и вътварь невестьну«, съвузъ показая Христовъ, глаго­леть и любовьное единение: Синъ бо наричетъ крепли и чинъ церковныи, рекше епископы и учителя; утокъ же ­– повинныя и пасомыя люди; кожю же ­– оглашеныя, якоже не отвръгше еще кожьныихъ ризъ крещениемь."
+        },
+        {
+            "id1": "s-191",
+            "text1": "Daher sagt auch Paulus: »Ich habe Euch einem einzigen Mann anvertraut, um Christus eine reine Jungfrau darzubringen«, so wie es auch im Levitikus heißt: »Als Frau soll er eine Jungfrau von seinem Stamm nehmen; eine Witwe aber oder eine Dirne soll er nicht nehmen, sondern eine Jungfrau von seinem Geschlecht« usw.",
+            "id2": "s-260",
+            "text2": "Темже и Павелъ: »Съвъкупихъ вы«, рече, »единому мужю, девицю чисту представити Христу«, яко и в Левитице глаго­леть: »Жену отъ рода своего, девицю поиметь; вдовица же и любодеица да не поемлеть, но девицю отъ колена своего«, и прочая."
+        },
+        {
+            "id1": "s-192",
+            "text1": "Denn wenn ein jeder von uns »sich von Tag zu Tag erneuert«, dann werden wirden Aussatz, d.h. die Unzucht, abwerfen, die schuld ist an unserer Vertreibung; so wird er sich verjungfräulichen und durch die Weisheit Gottes zur ersten Güte gelangen, gleichsam mit goldenen Fransen geschmückt, d.h. mit Liebe, Glauben, Reinheit und Geduld wird er sich mit Christus vereinigen, nachdem er gereinigt worden ist.",
+            "id2": "s-261",
+            "text2": "Аще бо кождо насъ »понавляемъ ... въ дьнь и въ дьнь«, прокажение, рекъше любодеиство, отврьжемъ, винная изгна­нию нашему; удевичится и в первую доброту Божиею пре­мудростию приидеть, яко и златыми трьснъми украшенъ, рекше любовию, верою, чистотою, \t\t\t\t \t\t\t\tтерпениемь въединится къ Христу, очистив ся."
+        },
+        {
+            "id1": "s-193",
+            "text1": "Daher »lieben Dich die Jungfrauen« und er liebt die Jungfrauen, wie es im Hohelied geschrieben ist, die jungen und am Geist reinen Seelen.",
+            "id2": "s-262",
+            "text2": "Темже »девиця любять и девиця любить«, яко въ Пениихъ Пении пишетъ ­– уныя и чистыя духомь душя."
+        },
+        {
+            "id1": "s-194",
+            "text1": "Ist es nicht so, o Sistelius?“",
+            "id2": "s-263",
+            "text2": "То или не сице есть, о Систелие?“"
+        },
+        {
+            "id1": "s-195",
+            "text1": "Und ich antwortete: „Das ist sehr verständig.“ Und sie sprach: „Deshalb ist es so, wie wir anfangs besprochen hatten: Nämlich wenn wir alle unsere Glieder gereinigt haben, werden wir das Kleid Christi sein, wie vom Propheten Jesaja gesagt ist: »Meine Seele soll sich über den Herrn freuen, denn er hat mich in ein Kleid des Heils gekleidet« usw.“",
+            "id2": "s-265,s-266",
+            "text2": "И азъ отрехъ: „Зело се есть разумно.“ И она рече: „Темже, яко исперва глаголахомъ: аще бо вся уды очистимъ, риза будемъ Христова, яко о пророце Исаии глаголеть: »Да възра­дуется душа моя о Господи, облече бо мя в ризу спасеную«, и прочая.“"
+        },
+        {
+            "id1": "s-196",
+            "text1": "7",
+            "id2": "s-267",
+            "text2": "7"
+        },
+        {
+            "id1": "s-197",
+            "text1": "Eub.",
+            "id2": "s-269",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-198",
+            "text1": "Wer aber muss diese denn reinigen?",
+            "id2": "s-270",
+            "text2": "Кто же убо сии паче очистити имать?"
+        },
+        {
+            "id1": "s-199",
+            "text1": "Der Prophet Sacharia spricht: »Und Gott zeigte mir Josua, den Erzpriesterwie er vor dem Engel des Herrn stand.",
+            "id2": "s-271",
+            "text2": "Захариа пророкъ глагола: »И показа ми Богъ Иисуса, жрьца вели­кааго, стояща предъ ангеломъ Господнемь, и дияволъ стояше о десную противлятися ему."
+        },
+        {
+            "id1": "s-200",
+            "text1": "Und der Teufel stand zu seiner Rechten, um ihm zu widersprechen.",
+            "id2": "s-271",
+            "text2": "Захариа пророкъ глагола: »И показа ми Богъ Иисуса, жрьца вели­кааго, стояща предъ ангеломъ Господнемь, и дияволъ стояше о десную противлятися ему."
+        },
+        {
+            "id1": "s-201",
+            "text1": "Und der Herr sprach zum Teufel: Eine Rüge soll dir, Teufel, der Herr erteilen, der Jerusalem auserwählt hat!",
+            "id2": "s-272",
+            "text2": "И рече Господь къ дияволу: »Да попретить тебе Господь, дияволе, изъбравыи Иерусалмь!"
+        },
+        {
+            "id1": "s-202",
+            "text1": "­– Ist dieser nicht wie ein Feuerbrand, der aus dem Feuer herausgerissen ist?",
+            "id2": "s-273",
+            "text2": "­– Не сели есть, яко и главьня исторжена изъ огня ­– Иисусъ бе облеченъ в ризы нечисты.«"
+        },
+        {
+            "id1": "s-203",
+            "text1": "­–  Josua war in unreine Kleider gekleidet«.",
+            "id2": "s-273",
+            "text2": "­– Не сели есть, яко и главьня исторжена изъ огня ­– Иисусъ бе облеченъ в ризы нечисты.«"
+        },
+        {
+            "id1": "s-204",
+            "text1": "Und kurz darauf: »Und er sprach zu den Engeln, die vor seinem Antlitz standen: Nehmt ihmdie befleckten Kleider ab!« Und kurz darauf: »Und sie hüllten ihn in ein reines Gewand.«",
+            "id2": "s-274,s-275",
+            "text2": "И помале: »И рече къ стоящимъ ангеломъ пред \t\t\t\t \t\t\t\tлицемъ его: Отимете отъ него сквернавыя ризы! И помале: »И облекоша и в ризу чисту.«"
+        },
+        {
+            "id1": "s-205",
+            "text1": "Nun musst du verstehen, dass die ‚unreinen Kleider‘ die Menschheit vor dem Glauben symbolisieren.",
+            "id2": "s-276",
+            "text2": "Разумеи бо, яко ‚ризы нечистыя‘ ­– чловечьство есть древле верованиа."
+        },
+        {
+            "id1": "s-206",
+            "text1": "Und indem dieserden alten Menschen entblößt hat, hat er die Menschheit mit seinem Leib wie eine Sonne erleuchtet.",
+            "id2": "s-277",
+            "text2": "И сь ветхааго чловека обънаживъ чловечьство, просвети, акы слънце, своею плотию."
+        },
+        {
+            "id1": "s-207",
+            "text1": "Beachteaber, dass Gott den Zöllner mit folgenden Worten schalt, als er sagte: »Warum ist dein Bett unrein?",
+            "id2": "s-279",
+            "text2": "Попытаи бо ты, яко сии мытаря Богъ свари, глаголя: »Почто ти есть постеля нечиста?"
+        },
+        {
+            "id1": "s-208",
+            "text1": "Weil es aus Byssus und ägyptischem Purpur gemacht ist« ­– also nicht aus der »Fülle der göttlichen Weis­hei­ten«, sondern aus der der Ägypti­schen.",
+            "id2": "s-280",
+            "text2": "Отъ висъса бо и порфиры беаше египетьскы створена«­ – не »отъ мечтеныя Божиа мудрости«, но отъ египетьскыя."
+        },
+        {
+            "id1": "s-209",
+            "text1": "Wie jener Reiche, der sich in Purpur hüllte, Gott missfällig war.",
+            "id2": "s-281",
+            "text2": "Яко богатыи онъ, облачааися въ багря­ницю, негоденъ бысть Богу."
+        },
+        {
+            "id1": "s-210",
+            "text1": "Denn er ist Gott damit missfällig, dass er sich mit diesen zeitlichen Dingen schmückt, und nicht mit geistigen und glänzenden Taten.",
+            "id2": "s-282",
+            "text2": "Темъ бо есть негоденъ, имже сими временными красуется, а не духовными и светлыми делесы."
+        },
+        {
+            "id1": "s-211",
+            "text1": "Nämlich so wie jener Lazarus sich nicht um Äußeres kümmerte, sondern sich vielmehr um Seelisches bemüh­te.",
+            "id2": "s-283",
+            "text2": "Яко и Лазорь­ – онъ не брежааше о внешниихъ, но о душевныихъ прилежааше паче."
+        },
+        {
+            "id1": "s-212",
+            "text1": "Deshalb »ruhte er auch im Schoße Abrahams«.",
+            "id2": "s-284",
+            "text2": "Темже »в пазусе аврамли почивааше« ."
+        },
+        {
+            "id1": "s-213",
+            "text1": "Aber auch Hiob werden wir finden, der für seine Leiden und sein Martyrium berühmt war.",
+            "id2": "s-285",
+            "text2": "Обрящемъ же убо и Иова, болезньми и муче­нии прославлена."
+        },
+        {
+            "id1": "s-214",
+            "text1": "Daher ist auch jener Pharisäer unverrichte­ter Dinge vom Gebet gegangen.",
+            "id2": "s-286",
+            "text2": "Темже бо и онъ фарисеи не съвръшивъ отиде молитвы."
+        },
+        {
+            "id1": "s-215",
+            "text1": "Denn er hatte sich über einen ihm gleichen Menschen erhöht.",
+            "id2": "s-287",
+            "text2": "На такого же бо ся възвышаше чловека."
+        },
+        {
+            "id1": "s-216",
+            "text1": "Es war aber geboten, einen gewissen Sinn zu haben, der der Lehre Christi entspricht, die weder zornig noch hochmütig ist.",
+            "id2": "s-288",
+            "text2": "Лепо бо бе, нравъ некыи по учению Христову имети, не яростьному, ни величавому."
+        },
+        {
+            "id1": "s-217",
+            "text1": "Denn wir finden oftmals solche Menschen, die im Überfluss leben und sich in feine Kleider kleiden.",
+            "id2": "s-290",
+            "text2": "Обретаемъ бо многажды сицевыя, питаниемь живуща и в ризахъ тонкахъ одеющася."
+        },
+        {
+            "id1": "s-218",
+            "text1": "Deshalb sagte Christus, als er über die Reichen sprach: »Es ist leichter, für ein Seildurch das Nadelöhr zu gehen, als für einen Reichen ins Himmelsreich zu gelangen.",
+            "id2": "s-291",
+            "text2": "Темже и Христосъ, о богатыихъ глаголя, рече: „Удобее есть южу сквозе иголнии проити уши, или богату въ царство небесное внити«."
+        },
+        {
+            "id1": "s-219",
+            "text1": "« Es ziemt sich aber vielmehr, den Fremden und Armen Ehre zu erweisen, mit denen sich Christus identifiziert hat.",
+            "id2": "s-292",
+            "text2": "Лепо бо, паче чюжаа и нищая чеести, имиже ся нарече Христосъ."
+        },
+        {
+            "id1": "s-220",
+            "text1": "Stattdessengehen sie aber zu den überaus Wohlhabenden und ehren diese viel mehr ­– die einen um einer besseren Position willen, die anderen tun das aus irgendwelchen anderen Gründen.",
+            "id2": "s-293",
+            "text2": "Въ онехъ же место къ много златьныимъ преходятъ и тыхъ паче чтутъ ­– ови бо санъ деля, ови же инехъ некыихъ винъ се творять."
+        },
+        {
+            "id1": "s-221",
+            "text1": "Daher wären wir nicht barmherzig, wenn wir unseren Brüdern das Almosen verweigerten.",
+            "id2": "s-294",
+            "text2": "Отсюду не милосерди быхомъ, затворяюще братии нашеи милость."
+        },
+        {
+            "id1": "s-222",
+            "text1": "Daher schämen wir uns der Armut, der Gefährtin des Prophetentums und der Schöpferinder Besonnenheit.",
+            "id2": "s-295",
+            "text2": "Отсюду ся стыдимъ нищеты ­– съжильница проро­чьскыя, целоумия творца."
+        },
+        {
+            "id1": "s-223",
+            "text1": "O weh!",
+            "id2": "s-297",
+            "text2": "У, горе!"
+        },
+        {
+            "id1": "s-224",
+            "text1": "Was gibt uns Anlass, uns über andereMenschen zu stellen, wo uns doch aufgetragen ist, eine Gerechtigkeit zu üben, die besser ist als die der Schriftgelehrten und der Pharisäer, und wo wir doch gemäß dem Befehl, das Zeitliche zu vernachlässigen, durch diese lernen sollen!",
+            "id2": "s-298",
+            "text2": "Чимь преимамы инехъ чловекъ, повелени имети правду паче граммотикъ и \t\t\t\t \t\t\t\tфарисеи, по повелении о времень­ныихъ небрежении учити сими!"
+        },
+        {
+            "id1": "s-225",
+            "text1": "Selbst wenn ein",
+            "id2": "s-299",
+            "text2": "Аще и океанъ сребромь потечетъ и вся земля златомъ, не насыщаемся!"
+        },
+        {
+            "id1": "s-226",
+            "text1": "Ozean voll von Silber flöße und die ganze Erde voll von Gold, würden wir nicht satt werden!",
+            "id2": "s-299",
+            "text2": "Аще и океанъ сребромь потечетъ и вся земля златомъ, не насыщаемся!"
+        },
+        {
+            "id1": "s-227",
+            "text1": "Wer von uns liebt eigentlich heute noch aufrichtig seinen Bruder?",
+            "id2": "s-300",
+            "text2": "Кто насъ ныне брата своего истиною любитъ?"
+        },
+        {
+            "id1": "s-228",
+            "text1": "Wer denkt denn nicht Böses von seinem Nächsten?",
+            "id2": "s-301",
+            "text2": "Кто ли не помысляи зла ближице?"
+        },
+        {
+            "id1": "s-229",
+            "text1": "Wer neidet denn nicht den Anderen?",
+            "id2": "s-302",
+            "text2": "Кто ли не завидяи другу?"
+        },
+        {
+            "id1": "s-230",
+            "text1": "Denn dort, wo die Bischöfe ihren Gewinn vermehren, da ist auch unser Schussfadenvon Aussatz befallen.",
+            "id2": "s-303",
+            "text2": "Кде бо епискупи прику­помь глождють, ту и утокънашь опрокажененъ."
+        },
+        {
+            "id1": "s-231",
+            "text1": "Dort, wo die Laien sind, da ist auch der Schussfaden [...?].",
+            "id2": "s-304",
+            "text2": "Кде бельци, ту и утокъ ."
+        },
+        {
+            "id1": "s-232",
+            "text1": "Denn sie tadelt auch der Heilige Geist: »Müssen denn die Hirten«, sagt er »eher sich selbst weiden?",
+            "id2": "s-306",
+            "text2": "Сия бо и Духъ Святыи охуляеть: »Себе болии«, речеть, »лепо, пасти пастухомъ?"
+        },
+        {
+            "id1": "s-233",
+            "text1": "Und nicht vielmehr die Schafe?",
+            "id2": "s-307",
+            "text2": "А не ли овець?"
+        },
+        {
+            "id1": "s-234",
+            "text1": "Seht her, Ihr esst die Milch und kleidet Euch in Wolle...«",
+            "id2": "s-308",
+            "text2": "Се бо, млеко изидаете и во лною ся одеваете«."
+        },
+        {
+            "id1": "s-235",
+            "text1": "Und kurz darauf: »Und Ihr habt mir die Schafe vertrieben!",
+            "id2": "s-309",
+            "text2": "И помале: »И разъгнасте ми овца!"
+        },
+        {
+            "id1": "s-236",
+            "text1": "Und sie wurden zur Speise für alle anderen Tiere!« Und an anderer Stelle vergleicht der Herr den Reichtum mit den Dornen: Der Herr befahl dem, der gefragt hatte, welches Gebot das höhere sei, sein Vermögen zu verteilen.",
+            "id2": "s-310,s-311,s-312",
+            "text2": "И быша вь ядь всемъ зверемь! «И Господь пакы бо­гатьство къ тернию приложи. Господь молившюму, кая заповедь больши, имениа раздаяти повеле."
+        },
+        {
+            "id1": "s-237",
+            "text1": "Und der Apostel bezeichnet den Reichtum als einen tödlichen Strick.",
+            "id2": "s-313",
+            "text2": "И апостолъ богатьство пругло наричеть смрътное."
+        },
+        {
+            "id1": "s-238",
+            "text1": "Der Herr sprach: »Liebt Eure Feinde!",
+            "id2": "s-314",
+            "text2": "Господь глагола: »Любите врагы своя!"
+        },
+        {
+            "id1": "s-239",
+            "text1": "« Wir aber sind selbst Freunden gegenüber feindselig.",
+            "id2": "s-315",
+            "text2": "«, а мы и другомъ враждуемъ."
+        },
+        {
+            "id1": "s-240",
+            "text1": "Es ist aber Sache eines guten Menschen, nicht nur die ihn Liebenden zu lieben, sondern vielmehr die Feindseligen ins Herz zu schließen.",
+            "id2": "s-316",
+            "text2": "Благаго бо есть, не еже любящая любити, но враждущая паче прилю­бляти."
+        },
+        {
+            "id1": "s-241",
+            "text1": "Der Herr sagte: »Gib einem Jeden, der bittet!",
+            "id2": "s-317",
+            "text2": "Господь рече: »Всему просящему даждь!"
+        },
+        {
+            "id1": "s-242",
+            "text1": "« Wir aber denken nicht einmal daran, wenn wir unsere Brüder entblößt sehen!",
+            "id2": "s-318",
+            "text2": "«, а мы, свою братию видяще нагу, ни помыслимъ на то."
+        },
+        {
+            "id1": "s-243",
+            "text1": "Es ziemt sich aber für uns alle, das Zeitliche zu verachten, erst recht für die Bischöfe!",
+            "id2": "s-320",
+            "text2": "Лепо бо намъ всемъ презрети временная, паче же еписко­помъ!"
+        },
+        {
+            "id1": "s-244",
+            "text1": "Denn was vermag Gold oder Silber oder Perlen?",
+            "id2": "s-321",
+            "text2": "Что бо успе злато, или сребро, или бисеръ?"
+        },
+        {
+            "id1": "s-245",
+            "text1": "Wann konnten sie etwa Hunger verhindern oder Kindersterblichkeit been­den?",
+            "id2": "s-322",
+            "text2": "Егда бо могоша глады въспятити или чадъ смръти ставити?"
+        },
+        {
+            "id1": "s-246",
+            "text1": "Es ist nämlich nichts anderes als Trug, weil es an sich unnütz ist. Denn weil niemand sich selbst auch nur ein Haar hinzuzufügen vermag, bemüht er sich umsonst um diese Dinge.",
+            "id2": "s-323,s-324",
+            "text2": "Ино бо се ничто же, но прелесть, о себе бо не полезно. Не могыи бо приложити к себе никто же ни единого власа, въсуе о онехъ подвижется."
+        },
+        {
+            "id1": "s-247",
+            "text1": "Aber wenn auch die Vögel satt werden, ohne zu säen und zu ernten, und die Blumen so prächtig geboren werden, wo doch niemand Kleidung für sie webt, jedoch weil Gott es so will, ­– wieviel mehr werden wir bekom­men?",
+            "id2": "s-325",
+            "text2": "Аще же убо и птица не сеюща, ни жнуща сы­тятся, и цвету, не ткущю имъ одежа никому же, обаче Богу хотящю такова ражаються ­– колико паче мы?"
+        },
+        {
+            "id1": "s-248",
+            "text1": "Denn der himmlische Vater weiß, dass wir all dieser Dinge bedürfen!",
+            "id2": "s-326",
+            "text2": "Весть бо не­бесныи отьць, яко требуемъ всехъ сихъ!"
+        },
+        {
+            "id1": "s-249",
+            "text1": "Denn selbst Salomo, der weiser und reicher war als alle Könige, sündigte durch übermäßigen Prunk.",
+            "id2": "s-327",
+            "text2": "И Соломонъ бо, ...мудреи и богатеи бывъ всехъ цареи, многыимъ /питаниемь/съгреши."
+        },
+        {
+            "id1": "s-250",
+            "text1": "Daher lasst uns rechtzeitig erwachen, auf dass auch unsere Herzen nicht durch Fressen und Saufen beschwert werden!",
+            "id2": "s-328",
+            "text2": "Темже убуди \t\t\t\t \t\t\t\tмъся, и да не отяжьцають ны сръдца упитаниемь и пияньствомъ!"
+        },
+        {
+            "id1": "s-251",
+            "text1": "Denn nun sind wir betrunken von den weltlichen Sorgen, und durch all die Bosheit ist die Liebe ganz und gar verdorrt.",
+            "id2": "s-329",
+            "text2": "Ныне бо пияни есмы скорбьми мирьскыми, и злобою всею и...-съше любы бохмо."
+        },
+        {
+            "id1": "s-252",
+            "text1": "Daher zweifeln wir, suchen Streit, lästern mehr noch als die Ungetauften.",
+            "id2": "s-330",
+            "text2": "Темже пыта­емъ, ревнуемъ, охуляемъ паче некрещеныихъ."
+        },
+        {
+            "id1": "s-253",
+            "text1": "All diese Sittenverdorbenheithaben wir an uns.",
+            "id2": "s-331",
+            "text2": "Вся си имамы злонравиа."
+        },
+        {
+            "id1": "s-254",
+            "text1": "Nun sagt aber der Heilige Geist unseretwegen durch den Propheten Micha, der sprach: »O Wehe, Seele, dass der von der Erde gegangen ist, der sich enthalten hatte!",
+            "id2": "s-332",
+            "text2": "Ныне бо насъ деля Святыи Духъ глаго­летъ Михеемь пророкомъ: »О горе, душе, глаголавъшу, яко оскуде, въздержаися отъ земля!"
+        },
+        {
+            "id1": "s-255",
+            "text1": "Und es gibt keinen mehr unter den Menschen, der den rechten Weg wiese;",
+            "id2": "s-333",
+            "text2": "Исправляющааго въ члове­цехъ несть; вси въ крови котораються, кождо брата своего печялить, вси на зло готовятъ руце«, и прочая."
+        },
+        {
+            "id1": "s-256",
+            "text1": "alle streiten sich bis auf’s Blut, ein jeder kränkt seinen Bruder, alle richten ihre Hände auf das Böse« usw.",
+            "id2": "s-333",
+            "text2": "Исправляющааго въ члове­цехъ несть; вси въ крови котораються, кождо брата своего печялить, вси на зло готовятъ руце«, и прочая."
+        },
+        {
+            "id1": "s-257",
+            "text1": "Sist.",
+            "id2": "s-336",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-258",
+            "text1": "Nun hat sich das erfüllt: Zum Gott wurde für uns der Bauch, denn nur um den bemühen wir uns.",
+            "id2": "s-337",
+            "text2": "Ныне ся се събы: Богъ бысть намъ наше чрево, о немь же ся единомъ поспешаемъ."
+        },
+        {
+            "id1": "s-259",
+            "text1": "Indem wir uns wie das Vieh zur Erde bücken, können wir zu dem Vater und Schöpfer aller nicht aufschauen.",
+            "id2": "s-338",
+            "text2": "На землю поклоньшеся, яко и скотъ, ни можемъ възрети на всяческыихъ отьца и творца."
+        },
+        {
+            "id1": "s-260",
+            "text1": "Es ist nämlich wahrlich schwierig, heute jemanden zu finden, der nach dem Vorbild des Gottessohnes geformt ist ­– mit Geduld und Demut und Liebe und den übrigen Tugenden ­– und also einen, der sich nach dem Ausgang aus dieser Welt sehnt, und daher mit Sanftmut belehrt und bestraft, einen, der durch seinen Leib auf der Erde sichtbar ist, mit dem Geiste jedoch im Himmel weilt und sich durch heilige Erkenntnisnährt ­– ein Solcher soll nämlich der wahre Hirte und Lehrer sein!",
+            "id2": "s-339",
+            "text2": "Поистине убо бедно ныне обрести образившагося Божиемь Сыномь ­– терпениемь, и смерениемь, и любовию, и прочиими ­– и и-шествиа ... сего мира пожаждя ...,  \t\t\t\t \t\t\t\tсъ крото­стию поучая и обличая, видимъ на земли теломь, умъмь же на небеси сы и питаяся святыми разумы ­– сицему бо есть лепо быти истинному пастуху и учителю."
+        },
+        {
+            "id1": "s-261",
+            "text1": "Eub.",
+            "id2": "s-342",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-262",
+            "text1": "»Was schaust Du denn auf den Holzsplitter im Auge deines Bruders, erkennst aber den Balken in Deinem eingenen Auge nicht?!«",
+            "id2": "s-343",
+            "text2": "»Что бо зриши на сукъ, сущии въ братнем ти оце, а въ твоемъ очеси сущаго бръвна не разумееши?!«"
+        },
+        {
+            "id1": "s-262b",
+            "text1": "Es ist nämlich geboten, zuerst sich selbst auf den rechten Weg zu bringen und daraufhin seinen Nächsten.",
+            "id2": "s-344",
+            "text2": "Прьвое бо есть лепо себе направити, и потомъ своего ближику."
+        },
+        {
+            "id1": "s-263",
+            "text1": "Denn was für einen Nutzen hat das Wort, wenn keine Taten folgen?",
+            "id2": "s-345",
+            "text2": "Кая бо есть польза въ глаголе, егда делесъ не будеть?"
+        },
+        {
+            "id1": "s-264",
+            "text1": "Denn es heißt: »Arzt, heile Dich selbst!«",
+            "id2": "s-346",
+            "text2": "Врачю бо рече: »Изъврачюися самъ!«"
+        },
+        {
+            "id1": "s-265",
+            "text1": "SisT.",
+            "id2": "s-349",
+            "text2": "Сист."
+        },
+        {
+            "id1": "s-266",
+            "text1": "Aber an anderer Stelle sagt er doch, dass er möchte, dass wir andere tadeln: »Wenn Dein Bruder sündigt, dann weise ihn zurecht!«",
+            "id2": "s-350",
+            "text2": "Якоже хощеть, да обличаемь, ино же рече: »Аще съгрешить братъ, ти попрети ему.«"
+        },
+        {
+            "id1": "s-267",
+            "text1": "Eub.",
+            "id2": "s-353",
+            "text2": "Евв."
+        },
+        {
+            "id1": "s-268",
+            "text1": "Gemeint ist derjenige, der Buße tut ­– diesen befielt er, aufzunehmen und als Bruder anzu­se­hen.",
+            "id2": "s-354",
+            "text2": "Кающааго же ся приимати велить и брата имети."
+        },
+        {
+            "id1": "s-269",
+            "text1": "Für den Tadelnden gehört es sich dagegen, selbst völlig tadellos zu sein.",
+            "id2": "s-355",
+            "text2": "Но обличающему лепо есть, всюду бес порока быти."
+        },
+        {
+            "id1": "s-270",
+            "text1": "Daher, Mensch, schreite erst zur Bestrafung anderer über, nachdem Du dich selbst eingehend geprüft und das Deinige erkannt hast!",
+            "id2": "s-356",
+            "text2": "Темже, попытавъся, чловече, древле, и разумевъ о своихъ, на обли­чение инехъ приходи!"
+        }
+    ]
+}

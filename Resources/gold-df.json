@@ -1,0 +1,1628 @@
+{
+    "version1": "xmlfiles/delepra/cte-chu-deu.xml",
+    "version2": "xmlfiles/delepra/delepra-bo.xml",
+    "method": "Gold standard",
+    "script": "makegold.py",
+    "sentences": [
+        {
+            "id1": "s-1",
+            "text1": "Des heiligen Methodius, des Bischofs von Philippi",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-2",
+            "text1": "an Sisteliusüber den Aussatz",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-3",
+            "text1": "1",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-4",
+            "text1": "Sist.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-5",
+            "text1": "Woher kommst du, Eubulius?",
+            "id2": "s-1",
+            "text2": "Von wo, o Eubulius?"
+        },
+        {
+            "id1": "s-6",
+            "text1": "Eub.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-7",
+            "text1": "Ist es denn nicht offensichtlich, dass von der Jagdnach der Verständnisweise der göttlichen Schrift?",
+            "id2": "s-2",
+            "text2": "Nicht offenbar von der Jagd nach der Eigenart des Verständnisses der göttlichen Schrift?"
+        },
+        {
+            "id1": "s-8",
+            "text1": "(In der Frühe klopfte nämlich jemand von den Leuten des Sistelius an die Tür; und als ein Diener ihm öffnete und berichtete, Sistelius rufe uns zu sich, stand ich auf und ging sogleich hin.",
+            "id2": "s-3,s-4",
+            "text2": "In der Frühe nämlich klopfte jemand von denen des Sistelius an die Tür, und als ihm ein Knabe öffnete, meldete er, Sistelius rufe zu sieh. Und nachdem ich aufgestanden, ging ich sofort."
+        },
+        {
+            "id1": "s-9",
+            "text1": "Und als wir uns seinem Hof näherten, kam Sistelius mir entgegen, umarmte mich und sprach: „Seit du von uns gegangen bist, hast du uns des Schrift­ver­ständnis­ses beraubt; denn wie eine Wolke, die sich vor die Sonne stellt, nicht gestattet, die Sonne klar zu sehen, so sind auch, wo sich die rechte Unter­wei­sung entfernt, die Seelen dunkel und der Verstand verfinstert.“",
+            "id2": "s-5,s-6,s-5,s-6,s-5,s-6",
+            "text2": "Und als wir nahe der Wohnung waren, kam mir Sistelius entgegen, umarmte mich und sprach: Zeitweilig von uns gegangen, hast du uns des Verständnisses  der Schrift beraubt. Denn wie eine Wolke, welche die Sonne überzogen, nicht deutlich die Sonne zu sehen gestattet, so auch, wo die gute Unterweisung sich entfernt, werden die Seele dunkel und der Sinn verfinstert. Und als wir nahe der Wohnung waren, kam mir Sistelius entgegen, umarmte mich und sprach: Zeitweilig von uns gegangen, hast du uns des Verständnisses  der Schrift beraubt. Denn wie eine Wolke, welche die Sonne überzogen, nicht deutlich die Sonne zu sehen gestattet, so auch, wo die gute Unterweisung sich entfernt, werden die Seele dunkel und der Sinn verfinstert. Und als wir nahe der Wohnung waren, kam mir Sistelius entgegen, umarmte mich und sprach: Zeitweilig von uns gegangen, hast du uns des Verständnisses  der Schrift beraubt. Denn wie eine Wolke, welche die Sonne überzogen, nicht deutlich die Sonne zu sehen gestattet, so auch, wo die gute Unterweisung sich entfernt, werden die Seele dunkel und der Sinn verfinstert."
+        },
+        {
+            "id1": "s-10",
+            "text1": "Und ich antwortete ihm: „Das hast du schön gesagt!“ Und wir gingen ins Haus und setzten uns.",
+            "id2": "s-7,s-9",
+            "text2": "— Und ich antwortete ihm: Gut hast du gesagt (»benachrichtigt«?). Und nachdem wir ins Haus gegangen, setzten wir uns."
+        },
+        {
+            "id1": "s-11",
+            "text1": "Und Sistelius sprach: „Nun können wir nämlich aus der Wahrheit der Schrift selbst ersehenund diesen schlim­men Aussatz mit Heilkraut vertreiben, indem wir mit Worten, wie mit Medizin den Schaden lindernd, sagen: »Erhebe dich, der du schläfst, und stehe auf von den Toten, und Christus wird dich erleuchten.«",
+            "id2": "s-10,s-11",
+            "text2": "Und Sistelius sprach: Wohlan nun, sehen wir aus der Schrift der Wahrheit selbst! Durch ein Heilkraut tun wir ab diesen schlimmen Aussatz, mit Worten wie mit Medicamenten stillend den Schaden, sprechend: »Stehe auf, der du schlafest, und stehe auf von den Toten, und es wird  Christus dich erleuchten«."
+        },
+        {
+            "id1": "s-12",
+            "text1": "Jetzt ist es aber an der Zeit, dass du das Wort ergreifst“, sagte er. „Wohlan denn, erläutere uns den Aussatz, der im Gesetz steht, denn der Herr legt nahe, vieles allegorisch aus­zu­le­gen, indem er im Gesetz dazu auffordert, demjenigen eine reichliche Gabe mitzuteilen, der nach Gottes Gabe dürstet.“",
+            "id2": "s-12,s-13",
+            "text2": "Wohlan, nun ist Zeit, sagte er, deine Stimme  zu vorlautbaren, nämlich Erklärung gobend von dem Aussatz, der im Gesetz ist, indem der Herr befiehlt, vieles im Gesetz allegorisch zu deuten, . . eine neidlose Gabe mitzuteilen dem nach der Gabe Gottes Dürstenden."
+        },
+        {
+            "id1": "s-13",
+            "text1": "Eub.",
+            "id2": "s-14",
+            "text2": "Eubulius."
+        },
+        {
+            "id1": "s-14",
+            "text1": "Aber glaube doch nicht, dass ich den zurückweisen würde, der diese Gna­den­ga­be zu empfangen wünscht, wenn ich auch schwach bin in Tat und Wort.",
+            "id2": "s-14b",
+            "text2": "Gleichwohl meine niclit, daß ich den, Gnadengabe zu empfangen wünscht, zurückweisen werde, wenn ich auch schwach bin in Tat und Wort; der aber, der die Worte (Gedanken (?) in die Seele eines jeden von uns pflanzt, der wird die bösen Wurzeln herausziehen aus unseren Herzen und einpflanzen alle Tugenden in  unsere Seelen."
+        },
+        {
+            "id1": "s-15",
+            "text1": "Es muss aber derjenige, der die Logoi in die Seele eines jeden von uns einpflanzt, die bösen Wurzeln aus unseren Herzen heraus­reißen und alle Tugenden in unsere Seelen einpflanzen.",
+            "id2": "s-14b",
+            "text2": "Gleichwohl meine niclit, daß ich den, Gnadengabe zu empfangen wünscht, zurückweisen werde, wenn ich auch schwach bin in Tat und Wort; der aber, der die Worte (Gedanken (?) in die Seele eines jeden von uns pflanzt, der wird die bösen Wurzeln herausziehen aus unseren Herzen und einpflanzen alle Tugenden in  unsere Seelen."
+        },
+        {
+            "id1": "s-16",
+            "text1": "Wenn aber das nesselartige Unkraut verdorrt ist, dann wird die Blume der Gottesfurcht erblühen.",
+            "id2": "s-16",
+            "text2": "Denn wenn verdorrt das nesselartige Unkraut, dann üht auf die Blume der Tugend."
+        },
+        {
+            "id1": "s-17",
+            "text1": "Das aber schreibt Christus selbst allegorisch dem »Samen des Senfkorns« zu, nämlich das Gesagte zur vollen Entfaltung zu bringen.",
+            "id2": "s-17,s-18",
+            "text2": "Was nun auch Christus allegorisierend dem »Samen des Senfkorns« vergleicht, sagend, daß großen Bestand den Vögeln des Himmels bringe."
+        },
+        {
+            "id1": "s-18",
+            "text1": "Denn zunächst verkleinert sich der göttliche Same des Glaubens, indem er sich zu unserem Unvermögen herablässt.",
+            "id2": "s-19",
+            "text2": "Denn es wird zuerst herabsteigend zu unseren Schwachheiten der göttliche Same des  Glaubens klein; wenn er einmal in die Furchen der Seele fällt, wächst er heran zur Größe, er schreitet vorwärts zur Höhe der durch das Nachsinnen des Geistes."
+        },
+        {
+            "id1": "s-19",
+            "text1": "Aber einmal in die Furchen der Seele gelangt, wächst er zu voller Größe empor und schreitet mit Hilfe der geistigen Kontemp­lation weiter voran zur vollen Höhe der Frömmigkeit.",
+            "id2": "s-19",
+            "text2": "Denn es wird zuerst herabsteigend zu unseren Schwachheiten der göttliche Same des  Glaubens klein; wenn er einmal in die Furchen der Seele fällt, wächst er heran zur Größe, er schreitet vorwärts zur Höhe der durch das Nachsinnen des Geistes."
+        },
+        {
+            "id1": "s-20",
+            "text1": "Mit Recht bezeichnet der Herr somit seinen Vater als den Pflanzer dieser Pflanzung.",
+            "id2": "s-20",
+            "text2": "Und mit Recht nennt der Herr als den Pflanzer einer solchen Pflanzung seinen Vater, denn »eine jede Pflanze«, spricht er, »die nicht mein Vater gepflanzt hat, wird  werden«."
+        },
+        {
+            "id1": "s-21",
+            "text1": "»Denn eine jede Pflanze«, sagt er, »die nicht mein Vater gepflanzt hat, wird ausgerissen werden«.",
+            "id2": "s-20",
+            "text2": "Und mit Recht nennt der Herr als den Pflanzer einer solchen Pflanzung seinen Vater, denn »eine jede Pflanze«, spricht er, »die nicht mein Vater gepflanzt hat, wird  werden«."
+        },
+        {
+            "id1": "s-22",
+            "text1": "Du musst nämlich verstehen, dass er das nicht sagt, weil die Seelen, wie einige das meinen, mannigfaltig sind, sondern er spricht hier von der rechten Lehre und den gottesfürchtigen Worten, die der fleißige Pflanzer unbemerkt in unsere Herzen ein­pflanzen ließ, indem er die unnützen Pflanzen, d. h. die bösen Gedanken und Taten, aus unseren Herzen ausriss.",
+            "id2": "s-21",
+            "text2": "Denn verstehe, daß nicht wegen der Seelen, wie einige meinten, er redet, sondern von der rechten Lehre und von gottesfürchtigen Gedanken (Worten), welche in unsere Herzen der fleißige Pflanzer eingepflanzt hat, ausreutend die ungehórige Pflanzung aus unseren Herzen, d.h. die bösen  und Taten."
+        },
+        {
+            "id1": "s-23",
+            "text1": "Wenn wir aber nicht dergestalt glauben, dann werden wir zu Nachfolgern des überaus gesetzlosen Markion, der annimmt, dass über dem wirklich seienden Gott noch ein anderes Gutes existiere, und dass aus diesem Grunde die Seelen des Weltschöpfers das verheißene Leben des Guten nicht zu emp­fangen vermögen und der Pflanzung des Guten nicht teilhaftig seien.",
+            "id2": "s-24,s-24",
+            "text2": "Denn wenn wir nicht so glauben, werden wir -Nachfolger des sehr gesetzlosen Markion, welcher sagt, daß ein anderer guter des wirklichen Gottes sei, und deshalb könnten die Seelen Weltschöpfers das verheißene Leben des Guten nicht empfangen, seien entbehrend der Pflanzung des Guten. Denn wenn wir nicht so glauben, werden wir -Nachfolger des sehr gesetzlosen Markion, welcher sagt, daß ein anderer guter des wirklichen Gottes sei, und deshalb könnten die Seelen Weltschöpfers das verheißene Leben des Guten nicht empfangen, seien entbehrend der Pflanzung des Guten."
+        },
+        {
+            "id1": "s-24",
+            "text1": "Aber das wollen wir jetzt nicht beachten, denn es ist nicht der Moment für diese Argumentation.",
+            "id2": "s-25",
+            "text2": "Dieses wollen wir aber  jetzt nicht beachten, denn es ist nicht für diese Verhandlung die Zeit."
+        },
+        {
+            "id1": "s-25",
+            "text1": "Sist.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-26",
+            "text1": "Zurecht sagst du, dass das jetzt nicht beachtet werden soll.",
+            "id2": "s-26,s-26",
+            "text2": "Denn du sagst mit Recht, daß mau nicht zögern und, indem nun von Gott das geistige Besitztum bereitet wird, man haben soll kräftige Früchte der Weisheit nach dem Worte des Apostels, welcher spricht: »Wir sind Gottes Ackerfeld«. Denn du sagst mit Recht, daß mau nicht zögern und, indem nun von Gott das geistige Besitztum bereitet wird, man haben soll kräftige Früchte der Weisheit nach dem Worte des Apostels, welcher spricht: »Wir sind Gottes Ackerfeld«."
+        },
+        {
+            "id1": "s-27",
+            "text1": "Denn jetzt geht es um den geistigen Besitz, der von Gott beackert wird und der kräftige Früchte der Weisheit tragen sollte nach dem Worte des Apostels, das da lautet: »Wir sind Gottes Acker«.",
+            "id2": "s-26,s-26",
+            "text2": "Denn du sagst mit Recht, daß mau nicht zögern und, indem nun von Gott das geistige Besitztum bereitet wird, man haben soll kräftige Früchte der Weisheit nach dem Worte des Apostels, welcher spricht: »Wir sind Gottes Ackerfeld«. Denn du sagst mit Recht, daß mau nicht zögern und, indem nun von Gott das geistige Besitztum bereitet wird, man haben soll kräftige Früchte der Weisheit nach dem Worte des Apostels, welcher spricht: »Wir sind Gottes Ackerfeld«."
+        },
+        {
+            "id1": "s-28",
+            "text1": "Denn es ist uns aufgetragen ­– damit sich die Krankheit nicht ausbreitet und alle befällt­– mit Hilfe der evangelischen Gesänge »zu heilen« und »achtzuhaben, dass es niemanden gibt, der der Gnade Gottes entbehrt, dass nicht irgendwo eine heraufwachsende Wurzel Schaden bringt und viele befleckt werden«, sagt der Apostel in seinem Brief an die Hebräer.",
+            "id2": "s-27",
+            "text2": "Denn es  gebührt uns, damit nicht die Krankheit sich mehre und allen offenbar werde, durch die Gesänge des Evangeliums »zu heilen«, und zu sehen, »ob jemand ist, der entbelirt der Gnade Gottes, ob wo eine Wurzel heraufwachsend schadet und viele befleckt werden«, spricht an Juden schreibend der Apostel."
+        },
+        {
+            "id1": "s-29",
+            "text1": "2",
+            "id2": "s-27",
+            "text2": "Denn es  gebührt uns, damit nicht die Krankheit sich mehre und allen offenbar werde, durch die Gesänge des Evangeliums »zu heilen«, und zu sehen, »ob jemand ist, der entbelirt der Gnade Gottes, ob wo eine Wurzel heraufwachsend schadet und viele befleckt werden«, spricht an Juden schreibend der Apostel."
+        },
+        {
+            "id1": "s-30",
+            "text1": "Das Gesetz selbst lehrt uns aber, indem es sagt: »Und es redete der Herr zu Mose und Aaron und sprach: Wenn ein Mensch ein Zeichen des Aussatzes auf seiner Haut hat, dann soll er zu Aaron, dem Priester, kommen oder zu einem seiner Söhne.",
+            "id2": "s-28",
+            "text2": "Und das Gesetz aber lehrt uns also: »Und es redete der Herr zu Mose und Aaron und sprach: Wenn einem Menschen auf der Haut ein Zeichen des Aussatzes sein wird, so soll er kommen zu Aaron dem Priester oder zu einem von seinen Söhnen."
+        },
+        {
+            "id1": "s-31",
+            "text1": "Und der Priester wird den Aussatz auf seiner Hautals ein schädliches Zeichen erkennen, oder der Aussatz muss auf der Haut seines Fleisches offensichtlich sein«.",
+            "id2": "s-29",
+            "text2": "Und es wird sehen Priester den Aussatz auf seiner Haut, ein Zeichen des Aussatzes ist es;  und wenn offenbar, daß der Aussatz sein wird auf der Haut Fleisches«."
+        },
+        {
+            "id1": "s-32",
+            "text1": "Und kurz darauf: »Und am siebenten Tag soll der Priester den Aussatz besehen; und wenn der Aussatz bleibt wie zuvor, und sich auf seiner Haut nicht verändert hat; so soll der Priester ihn abermals für sieben Tage absondern.",
+            "id2": "s-30",
+            "text2": "Und bald darauf: »Und es wird sehen der Priester den Aussatz am siebenten Tag; und siehe nun, der Aussatz bleibt vor ihm, nicht hat sich verändert der Aussatz in der Haut, und es soll ihn aussondern der Priester sieben Tage zum zweiten Mal."
+        },
+        {
+            "id1": "s-33",
+            "text1": "Und wenn sich der Aussatz auch dann nicht verändert hat, dann soll ihn der Priester reinsprechen, denn es ist nur ein Mal.",
+            "id2": "s-31",
+            "text2": "Und es soll ihn  der Priester sehen am siebenten Tag zum zweiten Mal, und siehe ist gleich der Aussatz, er hat sich nicht verändert, und es reinigt der Priester, denn ein Zeichen ist es; und es soll dieser seine Kleider waschen«."
+        },
+        {
+            "id1": "s-34",
+            "text1": "Und er soll seine Kleider auswaschen«.",
+            "id2": "s-31",
+            "text2": "Und es soll ihn  der Priester sehen am siebenten Tag zum zweiten Mal, und siehe ist gleich der Aussatz, er hat sich nicht verändert, und es reinigt der Priester, denn ein Zeichen ist es; und es soll dieser seine Kleider waschen«."
+        },
+        {
+            "id1": "s-35",
+            "text1": "Und kurz darauf: »Und wenn sich in der Kleidung etwas vom Aussatz festsetzt ­– in der Kleidung aus Wolle oder aus Leinen oder in bearbeitetem Leder jeglicher Art ­– und der Aussatz rot oder grün ist, ...«",
+            "id2": "s-32",
+            "text2": "Und bald darauf: »Und wenn im Kleid sein wird ein Empfangen des Aussatzes, in einem wollenen Kleid oder leinenen oder  in jedem bearbeiteten Fell und es wird der Aussatz scharlachrot oder grün«; ferner in dem Folgenden"
+        },
+        {
+            "id1": "s-36",
+            "text1": "Eub.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-37",
+            "text1": "Indem Du so wenig gesagt hast, verhinderst Du aber im Weiteren, o Sistelius, dass das Wahre, das heißt das Wort des Gesetzes selbst spricht!",
+            "id2": "s-33,s-34",
+            "text2": "wenig gesagt habend tadelst du. Aber nun, o Sistelius, ist das Wahrhafte selbst, nämlich des Gesetzes, auszusagen."
+        },
+        {
+            "id1": "s-38",
+            "text1": "Machen wir uns also an das geistige Verständnis, damit wir den Text des Gesetzes nicht im Wortsinn, sondern geistig verstehen.",
+            "id2": "s-35",
+            "text2": "Wollen wir aber nun uns daran machon, geistlich diese Verständnisse zu zeigen, damit wir nicht einfach, sondern geistig die Schrift des Gesetzes verstehen."
+        },
+        {
+            "id1": "s-39",
+            "text1": "Denn anschließendim Text fügt er hinzu: »Wenn sich aber nach der Abnahme der Kleidung der dem Prieseter gezeigte Aussatz auch in der Kleidung ausbreitet oder sich Aussatz im Leder oder am Kett- oder Schussfaden zeigt, so ist der Aussatz bleibend, dann ist der Kranke unrein und soll die Kleidung oder den Kett- oder Schussfaden, und so weiter, ver­bren­nen.«",
+            "id2": "s-36,s-37,s-38",
+            "text2": "Wieder aber nun vorwärtsschreitend ia der Verhandlung fügt er hinzu: »Wenn aber nun sich verbreitet« nach dem Wegnehmen der Priester gezeigte »Aussatz an dem Kleid oder am Fell oder am Aufzug oder am Einschlag, so ist ein bleibender Aussatz der Aussatz, er ist unrein, und er soll verbrennen das Kleid oder den Aufzug oder den Einschlag« usw. Dies aber nun ist vom Aussatz im Gesetz die Erklärung."
+        },
+        {
+            "id1": "s-40",
+            "text1": "So ist nämlich der Wortlaut des Gesetzes über den Aussatz.",
+            "id2": "s-36,s-37,s-38",
+            "text2": "Wieder aber nun vorwärtsschreitend ia der Verhandlung fügt er hinzu: »Wenn aber nun sich verbreitet« nach dem Wegnehmen der Priester gezeigte »Aussatz an dem Kleid oder am Fell oder am Aufzug oder am Einschlag, so ist ein bleibender Aussatz der Aussatz, er ist unrein, und er soll verbrennen das Kleid oder den Aufzug oder den Einschlag« usw. Dies aber nun ist vom Aussatz im Gesetz die Erklärung."
+        },
+        {
+            "id1": "s-41",
+            "text1": "Nun meine ich, dass der Prophet diese Worte wie eine Art Hülle oder mit einem ver­bor­ge­nem Sinn gebraucht hat, denn auf diese Weise wollte Gott uns zum wahren Licht heranführen.",
+            "id2": "s-39",
+            "text2": "Denn ich meinerseits meine, als gewisse Hüllen und Schatten hätte Prophet diese Worte gebraucht, indem Gott uns so nun wollte zum Licht der Wahrheit führen."
+        },
+        {
+            "id1": "s-42",
+            "text1": "Deswegen sagt meines Erach­tens auch der selige Paulus: »Wenn unser Evangelium auch verhüllt ist, so ist es nur für die Verlorenen verhüllt, denn unter ihnen, den Ungläubigen, hat der Gott dieser Welt den Verstand verblendet, sodass unter ihnen das Licht des Evangeliums nicht aufleuchte, der Herrlichkeit Christi, der selbst das Abbild des Unsichtbaren ist«, indem er deutlich sagt, dass »das Evangelium den Glaubenden und denen, die gerettet werden, enthüllt, denen, die verlorengehen, aber verhüllt ist«, als ob es von außen mit ehernen Klammern befestigt wäre.",
+            "id2": "s-40",
+            "text2": "Deshalb, meine ich auch, habe der selige Paulus gesprochen: »Wenn aber auch verborgen ist unser Evangelium, aber  unter den verloren Gegangenen ist es verborgen, in welchen der Gott dieser Welt verfinstert hat die Sinne der Ungläubigen, daß scheine in ihnen das Licht des Evangeliums der Herrlichkeit Christi, welcher ist das Bild des Unsichtbaren«, indem er deutlich sagt, den Glaubenden und »gerettet Werdenden« enthüllt ist das Evangelium,  »den verloren Gehenden« aber »verborgen ist«, wie von außen Klammern befestigt."
+        },
+        {
+            "id1": "s-43",
+            "text1": "Denn wer die Schrift nur äußerlich versteht, geht des geistigen Ver­ständnis­ses verlustig, als hätte er bloß leere, aus Steinen errichtete Außenmauern ge­se­hen.",
+            "id2": "s-41",
+            "text2": "Denn der äußerlich die Schrift Verstehende geht hinweg bar des geistigen Verständnisses, wie einer der leere von Steinen errichtet gesehen."
+        },
+        {
+            "id1": "s-44",
+            "text1": "Sist.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-45",
+            "text1": "Derjenige aber, der kräftig eingedrungen und den geistigen Vorhang zerrissen hat, wird, mit dem Geist Gottes beflügelt, wie ein Vogel im Flug, zum inneren Verständnis der Schrift gelangen, welches das Allerheiligste ist; und wenn er zum großen Lichte gelangt ist, wird er sich von den Blitzen der wahren Güte nähren.",
+            "id2": "s-42",
+            "text2": "Der aber welcher kräftig der zerrissen den geistigen Vorhang, nachdem er durch den Geist  Gottes beflügelt wie ein Vogel emporflog, gelangte er in das Verständnis der Schrift, welches ist das Ailerheiligste; und gelangt großem Licht, wird er genährt von den BHtzen der wahren Schönheit."
+        },
+        {
+            "id1": "s-46",
+            "text1": "Denn wie auch die Bäume sich im Winter von der Anmut der Früchte entblößen, im Frühling aber wieder Blätter treiben und ihre Schönheit zurückerlangen, so meine ich, dass auch die Worte des Propheten, werden sie einfach verstanden, als etwas Dürres und Nichts­sa­gen­des erscheinen; werden sie da­ge­gen mit Weisheit verstanden, als etwas er­schei­nen, das gute Früchte und Blätter hat und Blüten reicher Verstandesfülle trägt.",
+            "id2": "s-43",
+            "text2": "Denn wie die Bäume des Winters entblößt werden von dem Schmuck  der Früchte, im Frühling aber wieder Blätter wieder gewinnen, — so meine ich, daß auch die Worte einfach verstanden, wie dürr erscheinen ohne Sinn, mit Weisheit verstanden, mit guten Früchten und Blättern geschaut  Verstandes Blüten habend."
+        },
+        {
+            "id1": "s-47",
+            "text1": "Eub.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-48",
+            "text1": "So lass uns denn, o Sistelius, auch uns von dem vordergründigen Verstehen lossagen und die Schrift auf das sorgfältigste geistig verste­hen!",
+            "id2": "s-44",
+            "text2": "Daher auch wir, uns entschlageud einfach zu verstehen, wollen geistig sorgfältig die Schriften verstehen, ο Sistelius!"
+        },
+        {
+            "id1": "s-49",
+            "text1": "3",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-50",
+            "text1": "1. Wir sagen aber mit Christus, der uns unterweist: »Vier unterschiedliche Arten des Aussatzes lehrte uns der Prophet zu meiden: den weißen, den gelben, den grünen und den roten.",
+            "id2": "s-45",
+            "text2": "Wir sagen aber nun, indem Christus uns unterweist: Τέσσαρα διαλλάσσοντα ταῖς χροαῖς εἴδη λέπρας ὁ μέγας νομοθέτης, ἀπὸ τῆς  αὐτῆς ἐξανθοῦντα ἡμῖν μητρός, φυλάσσεσθαί τε καὶ φεύγειν διδάσκει· λευκαῖνον, γλαυκαῖνον, χλωρίζον καὶ πυρρίζον."
+        },
+        {
+            "id1": "s-51",
+            "text1": "« Der weiße aber und der gelbe, der am gesunden Leib auftrete, lasse den Menschen raschverfaulen; der grüne aber und der rote, der in Wunden oder Ge­schwul­sten auftrete, verderbe den ganzen Leib.",
+            "id2": "s-46,s-46",
+            "text2": "καὶ τὸ μὲν γλαυκαῖνον καὶ λευκαῖνον αἰφνιδίως ἀπὸ σαρκὸς ἀνόσου βλαστῆσαν λυμαίνεσθαι καὶ σήπειν τὸν ἄνθρωπον λέγει, τὸ δὲ χλωρίζον καὶ πυρρίζον ἀπὸ πρoüποκειμένης αἰτίας, ἐν οὐλαῖς κατὰ καυμάτων ἢ τραυμάτων  γεννώμενον, ὅλον πιβόσκεσθαι τὸ σῶμα δηλοῖ· καὶ τὸ μὲν γλαυκαῖνον καὶ λευκαῖνον αἰφνιδίως ἀπὸ σαρκὸς ἀνόσου βλαστῆσαν λυμαίνεσθαι καὶ σήπειν τὸν ἄνθρωπον λέγει, τὸ δὲ χλωρίζον καὶ πυρρίζον ἀπὸ πρoüποκειμένης αἰτίας, ἐν οὐλαῖς κατὰ καυμάτων ἢ τραυμάτων  γεννώμενον, ὅλον πιβόσκεσθαι τὸ σῶμα δηλοῖ·"
+        },
+        {
+            "id1": "s-52",
+            "text1": "Und diese entsprechen den vier Aussatzarten, die die Seele verderben: Denn der weiße, der halbgelbe, entspreche der Unzucht, weil sich der Schaum wegen der Unzucht in gelbesBlut verwandelt.",
+            "id2": "s-47,s-47",
+            "text2": "ταῖς ἀρχεκάκοις καὶ βλαβοποιοῖς τέτρασιν ἀπεικάζων νόσοις τῆς ψυχῆς τὰς λέπρας, ὥσπερ ἀπὸ μιᾶς ἐκχεομένης πηγῆς ἐπικρατήσαντος καὶ πλημμυρίσαντος τοῦ πονηροῦ. ταῖς ἀρχεκάκοις καὶ βλαβοποιοῖς τέτρασιν ἀπεικάζων νόσοις τῆς ψυχῆς τὰς λέπρας, ὥσπερ ἀπὸ μιᾶς ἐκχεομένης πηγῆς ἐπικρατήσαντος καὶ πλημμυρίσαντος τοῦ πονηροῦ."
+        },
+        {
+            "id1": "s-53",
+            "text1": "Der gelbe aber muss wiederum mit dem Schrecken und der Furcht in Verbindung gebracht werden, die der Herr uns auftrug zu vernichten, indem er sagte: »Fürchtet nicht diejenigen, die den Leib töten, die Seele aber nicht töten können!«",
+            "id2": "s-49",
+            "text2": "γλαυκαίνουσαν δὲ τὸν φόβον, πτόησιν καὶ κατάπληξιν δεινὴν ἐξεγείροντα τῇ ψυχῇ ἀπὸ τοῦ πονηροῦ· »άπὸ φόβου« γάρ φησιν »ἐχθροῦ« ὁ Δαυίδ »ἐξελοῦ τὴν ψυχήν μου« . ."
+        },
+        {
+            "id1": "s-54",
+            "text1": "Der rote aber wiederum mit dem Zorn, weswegen die Zornigen erröten.",
+            "id2": "s-50",
+            "text2": "χλωρίζουσαν δὲ τὸν φθόνον καὶ τὴν λύπην ἀπὸ τοῦ τήκεσθαι καὶ μεταβάλλεσθαι εἰς τὸ ὠχρότερον τοῦ προσώπου τὴν ἔμφυτον εἰδέαν."
+        },
+        {
+            "id1": "s-55",
+            "text1": "Der grüne aber wieder mit dem Neid und der Trauer, weil man davon verdorrt und eine grünliche Blässe bekommt.",
+            "id2": "s-51",
+            "text2": "πυρρίζουσαν δὲ πάλιν καλεῖ τὴν  ὀργὴν παρὰ τὸ τὸν ἐκκαιόμενον ἐρυθραίνεσθαι τῷ θυμῷ καὶ εἰς πυρρῶδες μεταβάλλειν τοῦ προσώπου τὴν ἐπιφάνειαν."
+        },
+        {
+            "id1": "s-56",
+            "text1": "Deswegen erwähnt die Schrift die Schwester des Moses, die den Aussatz hatte, weswegen sie dem Bruder übel redete.",
+            "id2": "s-52",
+            "text2": "Daher erzählt die Schrift, daß die Schwester des Moses den Aussatz hatte, weil dem Bruder übel redete."
+        },
+        {
+            "id1": "s-57",
+            "text1": "Diese alle aber sind für den Menschen schäd­lich, etwa so wie der Teufel das menschliche Wesen aus einer Art trüber Quelle heraus mit dem Bösen übergießt.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-58",
+            "text1": "Denn auch der Prophet, der selige Jeremias, spricht: »Säet nicht in die Dornen, sondern beschneidet euch eurem Herrn, und werft die Unbeschnittenheit eurer Herzen ab!«, d. h. beschneidet die bösen Leiden­schaf­ten, damit wir die Unbeflecktheit an Gott herantragen.",
+            "id2": "s-53",
+            "text2": "Es spricht aber nun auch der Prophet, der selige Jeremias: »Säet nicht in die Dornen, sondern beschneidet euch  eurem Herrn und werfet ab die Unbeschnittenheit eurer «, sagend: Die bösen Leidenschaften beschneidet, damit wir zu Gott bringen."
+        },
+        {
+            "id1": "s-59",
+            "text1": "Diese Gebote hat der Herr meines Erachtens seinen Schülern gegeben, nämlich ohne Stab und ohne zwei Kleider zu gehen.",
+            "id2": "s-54",
+            "text2": "Denn diese Gebote, meine ich, habe auch der Herr  nicht verlöschende Freude haben und unnütz . . . ."
+        },
+        {
+            "id1": "s-60",
+            "text1": "Denn für die, die verkünden und eine unauslöschliche Freude haben, ziemt es sich, gute und nützliche Taten zu vollbringen.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-61",
+            "text1": "SisT.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-62",
+            "text1": "Ihretwegennennt er den Menschen auch ‚neu‘; wegen der bösen und unnützenHandlungen aber ‚alt‘.",
+            "id2": "s-55",
+            "text2": "und »neu« nennt er den Menschen, aber wieder der bösen Handlungen wegen den \"alten\"."
+        },
+        {
+            "id1": "s-63",
+            "text1": "Eub.",
+            "id2": "s-56",
+            "text2": "Daher, damit wir nicht wieder mit jenen uns vereinend Gemeinschaft haben mit Ungeziemendem, befiehlt der Herr nur das Eine Gewand  der Besonnenheit zu gebrauchen, und den Jüngern verbietend Begierden der Gelüsten, [und] zu bitten, nur mit dem Einen und einfachen Gewand bekleidet zu werden."
+        },
+        {
+            "id1": "s-64",
+            "text1": "Deswegen gebietet der Herr, allein das Gewand der Keuschheitzu gebrauchen, damit wir uns nicht wieder mit jenenzusammen zu den Frevlern gesellen.",
+            "id2": "s-56",
+            "text2": "Daher, damit wir nicht wieder mit jenen uns vereinend Gemeinschaft haben mit Ungeziemendem, befiehlt der Herr nur das Eine Gewand  der Besonnenheit zu gebrauchen, und den Jüngern verbietend Begierden der Gelüsten, [und] zu bitten, nur mit dem Einen und einfachen Gewand bekleidet zu werden."
+        },
+        {
+            "id1": "s-65",
+            "text1": "Und er weist die Schüler an, nicht den Gedanken der Verführten zu verfallen, und bittet, sich nur mit dem einen himmlischen und einfachen Gewand zu bekleiden.",
+            "id2": "s-56",
+            "text2": "Daher, damit wir nicht wieder mit jenen uns vereinend Gemeinschaft haben mit Ungeziemendem, befiehlt der Herr nur das Eine Gewand  der Besonnenheit zu gebrauchen, und den Jüngern verbietend Begierden der Gelüsten, [und] zu bitten, nur mit dem Einen und einfachen Gewand bekleidet zu werden."
+        },
+        {
+            "id1": "s-66",
+            "text1": "Das von totem Leder gemachte und drücken­de Schuhwerk vergleicht er aber mit der Trauer, die der Seele Schaden zufügt, und verbietet zudem, ‚sich mit dem Kummer dieses Lebens zu bekleiden‘und einfach zu sagen: »Einmal durch den Herrn abgewaschen, werden wir auch nicht in die Verwesung im Tode gehen.«",
+            "id2": "s-57",
+            "text2": "Die von toten Fellen aber gemachten und drückenden Schuhe vergleicht er der der Schaden tuenden Trauer, verbietend fernerhin anzuziehen die Kümmernisse  dieses Lebens und einfach zu sagen: Abgewaschen zu einem Mal durch den Herrn werden wir nicht in die Verwesung des Todes gehen."
+        },
+        {
+            "id1": "s-67",
+            "text1": "So lasst uns deshalb die lüsternde Begierde und die leidenschaftlichen Gelüste des Leibes meiden, denn das ist der weiße Aussatz!",
+            "id2": "s-58",
+            "text2": "Διὸ φύγωμεν τὰς ἐνθυμήσεις τὰς φιληδόνους καὶ τὰς ἐμπαθεῖς  τοῦ  ἡδονάς, λευκαθίζουσα λέπρα τὸ όργίζεσθαι καὶ τὸν τύφον, φύγωμεν τὸ καταλαλεῖν, πυρρίζουσα  > λέπρα ἐστίν· ἀπελαύνωμεν τὴν ὑπόκρισιν καὶ τὴν δειλίαν ἐν καιρῷ διωγμοῦ, γλαυκίζουσα > λέπρα ἐστίν· ἀπελαύνωμεν τὴν λύπην καὶ τὸν φθόνον, χλωρίζουσα γὰρ λέπρα ἐστίν."
+        },
+        {
+            "id1": "s-68",
+            "text1": "Meiden wir den Zorn, den Hochmut und die Verleum­dung, denn das ist der rote Aussatz!",
+            "id2": "s-58",
+            "text2": "Διὸ φύγωμεν τὰς ἐνθυμήσεις τὰς φιληδόνους καὶ τὰς ἐμπαθεῖς  τοῦ  ἡδονάς, λευκαθίζουσα λέπρα τὸ όργίζεσθαι καὶ τὸν τύφον, φύγωμεν τὸ καταλαλεῖν, πυρρίζουσα  > λέπρα ἐστίν· ἀπελαύνωμεν τὴν ὑπόκρισιν καὶ τὴν δειλίαν ἐν καιρῷ διωγμοῦ, γλαυκίζουσα > λέπρα ἐστίν· ἀπελαύνωμεν τὴν λύπην καὶ τὸν φθόνον, χλωρίζουσα γὰρ λέπρα ἐστίν."
+        },
+        {
+            "id1": "s-69",
+            "text1": "Meiden wir die Heuchelei und die Furcht während der Verfolgung, denn das ist der gelbe Aus­satz!",
+            "id2": "s-58",
+            "text2": "Διὸ φύγωμεν τὰς ἐνθυμήσεις τὰς φιληδόνους καὶ τὰς ἐμπαθεῖς  τοῦ  ἡδονάς, λευκαθίζουσα λέπρα τὸ όργίζεσθαι καὶ τὸν τύφον, φύγωμεν τὸ καταλαλεῖν, πυρρίζουσα  > λέπρα ἐστίν· ἀπελαύνωμεν τὴν ὑπόκρισιν καὶ τὴν δειλίαν ἐν καιρῷ διωγμοῦ, γλαυκίζουσα > λέπρα ἐστίν· ἀπελαύνωμεν τὴν λύπην καὶ τὸν φθόνον, χλωρίζουσα γὰρ λέπρα ἐστίν."
+        },
+        {
+            "id1": "s-70",
+            "text1": "Halten wir uns fern von Kummer und Neid, denn es ist der grüne Aussatz!",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-71",
+            "text1": "Denn wenn sich auch nur das Geringste von diesen Übeln in unserem Verstand ansiedelt und wir es nicht schnell vertreiben und durch Buße heilen, vernichtet es uns Seele und Leib.",
+            "id2": "s-59",
+            "text2": "ὅτι τούτων κἂν τὸ βραχύτατον αἰφνιδίως ἐὰν ἔλθῃ καὶ γενγθῇ περὶ τὴν διάνοιαν ἡμῶν καὶ μὴ εὐθέως ἐκ ῥιζῶν κοπὲν ἐκβληθῇ, μακρὰν χεῖται  δίκην πυρὸς ἢ ὕδρας πολυκεφάλου καὶ ἐπιβόσκεται τὴν ψυχήν, ἔστ ἂν καὶ εἰς τὸ σῶμα διαδοθὲν λωβήσηται καὶ κατασήψῃ τὸν ἄνθρωπον ὅλον."
+        },
+        {
+            "id1": "s-72",
+            "text1": "So mögen auch wir keiner bösen Lust gestatten, sich in unserem Verstand einzu­nisten, sondern sie sogleich den Priestern zeigen, so wie auch die Alten den Aussatz dem Priester zeigten.",
+            "id2": "s-60",
+            "text2": "Daher können wir gar keiner bösen Lust gestatten einzunisten in unsern Sinn, sondern wie die Alten dem Priester zeigten, so  auch wir den Priestern."
+        },
+        {
+            "id1": "s-73",
+            "text1": "Auf das Wort",
+            "id2": "s-60",
+            "text2": "Daher können wir gar keiner bösen Lust gestatten einzunisten in unsern Sinn, sondern wie die Alten dem Priester zeigten, so  auch wir den Priestern."
+        },
+        {
+            "id1": "s-74",
+            "text1": "Christi wollen wir aber nun verstärkt achtgeben, denn der Herr sprach: »Ihr habt gehört, wie zu den Alten gesagt worden ist: Du sollst nicht ehebrechen!",
+            "id2": "s-61,s-62",
+            "text2": "— Denn größeres Achthaben ist jetzt uns nach dem Worte Christi."
+        },
+        {
+            "id1": "s-75",
+            "text1": "Aber ich sage Euch: Jeder, der eine Frau nur lüstern ansieht, begeht schon Ehebruch mit ihr in seinem Herzen.«",
+            "id2": "s-63",
+            "text2": "Denn es sprach der Herr: »Ihr habt gehört, daß gesagt wurde zu den Alten: Du sollst nicht ehebrechen; ich aber sage euch: ein jeder der sieht auf ein AYeib der Begierde halber, der hat schon mit ihr die Ehe gebrochen in seinem «."
+        },
+        {
+            "id1": "s-76",
+            "text1": "Den Lüsternden hat er Ehebrecher genannt, und nicht den, der Ehebruch began­gen hat, denn das ist Werk und Frucht des Ehebruchs.",
+            "id2": "s-64",
+            "text2": "Den Leidenschaftlichen  nannte er Ehebrecher, aber nicht den, der vollbracht hat, denn deren (der Leidenschaft) Werk und Frucht ist der Ehebruch."
+        },
+        {
+            "id1": "s-77",
+            "text1": "Daher sagt er auch, dass nicht derjenige ganz und gar rein sei, der die Begierde straft, sondern derjenige, der ihr überhaupt keine Beachtung schenkt.",
+            "id2": "s-65",
+            "text2": "Daher sagt er auch nicht, der, welcher die Begierde kreuzigt (züchtigt), sei durchaus fromm, sondern der ihrer durchaus nicht acht haben will, denn nicht die Frucht des Ehebruchs befiehlt er auszureuten,  sondern den Samen, welcher ist gleich einem vor der Frucht vertrockneten Feigenbaum."
+        },
+        {
+            "id1": "s-78",
+            "text1": "Denn er fordert auf, nicht die Frucht der Begierde auszumerzen, sondern den Samen, vergleich­bar einem Feigenbaum, der vertrocknet ist, bevor er Früchte getragen hat.",
+            "id2": "s-65",
+            "text2": "Daher sagt er auch nicht, der, welcher die Begierde kreuzigt (züchtigt), sei durchaus fromm, sondern der ihrer durchaus nicht acht haben will, denn nicht die Frucht des Ehebruchs befiehlt er auszureuten,  sondern den Samen, welcher ist gleich einem vor der Frucht vertrockneten Feigenbaum."
+        },
+        {
+            "id1": "s-79",
+            "text1": "Wie auch der törichte Zorn auf den Bruder Same des Totschlags ist, so hat Johannes ihndeswegen mit der Axt verglichen, die die bösartige Wurzel abhaut.",
+            "id2": "s-66",
+            "text2": "Wie auch der unvernünftige Zorn auf den Bruder Same ist dem Totschlag, und deshalb Johannes ihn der »die Wurzel« Bösen abhauenden »Axt« würdig erachtet."
+        },
+        {
+            "id1": "s-80",
+            "text1": "Denn die Alten hauten die Frucht des Ehebruchs ab, der Erlöseraber die Samen, weil er das Böse wie irgendeinen Aussatz ganz und gar vernichten will.",
+            "id2": "s-67",
+            "text2": "Denn die Alten die Frucht des Ehebruchs, aber der Erlöser die Samen, völlig  vernichten wollend, wie irgendeinen Aussatz."
+        },
+        {
+            "id1": "s-81",
+            "text1": "Wie lautete aber nun die Schrift?",
+            "id2": "s-68",
+            "text2": "ἕκαστος οὖν τῶν ἐχόντων σημασίαν ἢ σπίλον ἢ ἁφήν, τουτέστιν ὁ ἐλαυνόμενος ὑπὸ θυμοῦ ἢ ἔρωτος γυναικὸς ἢ φιλαργυρίας ἢ φθόνου εὐθέως προσίτω τῷ ἀρχιερεῖ, λέγω διὰ προσευχῆς, οὑ δὴ ἀπεικασία καὶ τύπος ἐτύγχανεν Ἀαρών, καὶ δεικνύτω αὐτῷ »τὰ κρύφια  τῆς καρδίας«, κρατήσας ἑαυτὸν τῆς προσφορᾶς, πρὸ τοῦ τὸ πάθος τῆς ἁμαρτίας σκιρρῶσαι."
+        },
+        {
+            "id1": "s-82",
+            "text1": "»Und der Priester soll die Erscheinung auf seiner Haut sehen.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-83",
+            "text1": "Sind die Haare an dieser Stelle weiß geworden und liegt die Haut dort tiefer als die Haut des übrigen Leibes, so ist es eine Er­schei­nung des Aussatzes« usw.",
+            "id2": "s-71",
+            "text2": "und die Haare in dem Bild haben sich verändert in Weiß und das Bild ist niedriger als die Haut des Leibes, das Bild des Aussatzes ist es« usw."
+        },
+        {
+            "id1": "s-84",
+            "text1": "So wie die Schönheit eine Frucht unseres Leibes ist, so ist die Besonnenheit eine Frucht unserer Seele.",
+            "id2": "s-72",
+            "text2": "Denn wie die Schönheit unseres Fleisches Frucht ist, so auch die der  Seele die Besonnenheit."
+        },
+        {
+            "id1": "s-85",
+            "text1": "Wenn sie sich nun aber zur Schwäche und Begierde verändert ­– denn das bedeutet der weiße Aussatz ­–, senkt sie sich ab.",
+            "id2": "s-73,s-74",
+            "text2": "AYenn aber nun sie »sich verändert« Schwachheit und Begierde — denn das bedeutet der »weiße« —, fängt sie an niedrig zu werden."
+        },
+        {
+            "id1": "s-86",
+            "text1": "Du bedenke aber, dass Paulus dem inneren Menschen gebietet, nicht zu altern, sondern sich zu erneuern; wie er denn auch im Hosea über Ephraim, den schwach gewordenen, spricht: »Ephraim war ein Brot, unverändert.",
+            "id2": "s-75,s-76",
+            "text2": "Denn bedenke du, daß dem »inwendigen Menschen« Paulus nicht gebietet »alt« zu werden, »sich zu erneuen«. Wie denn er auch im Hosea spricht von  dem schwach Gewordenen: »Ephraim ward ein Kuchen, nicht sich ändernd."
+        },
+        {
+            "id1": "s-87",
+            "text1": "Fremde ver­zehrten seine Stärke und er erkannte es nicht.",
+            "id2": "s-77",
+            "text2": "Es verzehrten Fremde seine Stärke und er, er erkannte nicht; und graue Haare kamen ihm heraus, und er, er erkannte es nicht«."
+        },
+        {
+            "id1": "s-88",
+            "text1": "Und graue Haare wuchsen ihm und er verstand es nicht.«",
+            "id2": "s-79",
+            "text2": "καὶ τοῖς σωφρονισμοῖς πρὸ τοῦ κρατυνθῆναι."
+        },
+        {
+            "id1": "s-89",
+            "text1": "Wenn sich einer nun aber nicht verjüngt und durch bösartige Leidenschaften alt und grau wird, [...].",
+            "id2": "s-80",
+            "text2": "καὶ ὡς ἐπιστήμων ἰατρὸς ὁ ἐπίσκοπος ἀπὸ τῆς ὑγιαινούσης διαίτης τὸν πυρεταίνοντα ἐπέχων, ὅπως ἀνασφῆλαι δυνηθῇ, ἀφορισάτω αὐτὸν εἰς τὴν  ἐξομολόγησιν, μιανάτω αὐτὸν τῆς κοινωνίας ἐπισχών, κλαυσάτω, παρακαλεσάτω ὑπὲρ αὐτοῦ κατὰ τὸ γεγραμμένον· »τίς ἀσθενεῖ, καὶ οὐκ άσθεῶ;"
+        },
+        {
+            "id1": "s-90",
+            "text1": "2. [...] so soll er mit dem Bekenntnis zum Priester kommen, damit er von der Gemeinde getrennt werde und unter Tränen Buße tue.",
+            "id2": "s-80",
+            "text2": "καὶ ὡς ἐπιστήμων ἰατρὸς ὁ ἐπίσκοπος ἀπὸ τῆς ὑγιαινούσης διαίτης τὸν πυρεταίνοντα ἐπέχων, ὅπως ἀνασφῆλαι δυνηθῇ, ἀφορισάτω αὐτὸν εἰς τὴν  ἐξομολόγησιν, μιανάτω αὐτὸν τῆς κοινωνίας ἐπισχών, κλαυσάτω, παρακαλεσάτω ὑπὲρ αὐτοῦ κατὰ τὸ γεγραμμένον· »τίς ἀσθενεῖ, καὶ οὐκ άσθεῶ;"
+        },
+        {
+            "id1": "s-91",
+            "text1": "Und nach einer oder zwei Wochen soll er  besucht werden: ob er sich wohl gesorgt, ob er wohl geweint hat.",
+            "id2": "s-81",
+            "text2": "τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;« καὶ εἰ μὲν παύοιτο, μίαν καὶ δευτέραν ἑβδομάδα τοῦ συναγελάζεσθαι κρατηθείς, ἐπισκεφθήσεται πάλιν, εἰ ἐπένθησεν ἢ ἐλυπήθη »λύπην« τὴν »κατὰ  θεόν«, ἥτις μετάμελον »εἰς σωτηρίαν κατεργάζεται«, εὔελπίς ἐστιν, καθαρός ἐστιν· οὐ γὰρ διεδόθη τὸ κακόν."
+        },
+        {
+            "id1": "s-92",
+            "text1": "Und so soll er durch die Barm­herzigkeit Gottes wieder an seinen Bestim­mungs­ort zurück­kom­men.",
+            "id2": "s-81",
+            "text2": "τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;« καὶ εἰ μὲν παύοιτο, μίαν καὶ δευτέραν ἑβδομάδα τοῦ συναγελάζεσθαι κρατηθείς, ἐπισκεφθήσεται πάλιν, εἰ ἐπένθησεν ἢ ἐλυπήθη »λύπην« τὴν »κατὰ  θεόν«, ἥτις μετάμελον »εἰς σωτηρίαν κατεργάζεται«, εὔελπίς ἐστιν, καθαρός ἐστιν· οὐ γὰρ διεδόθη τὸ κακόν."
+        },
+        {
+            "id1": "s-93",
+            "text1": "3. Wenn er aber nicht über seine Bos­heit trauert und ohne Buße verbleibt, dann soll er aus der Kirche ausgeschlossen werden.",
+            "id2": "s-82",
+            "text2": "εἰ δὲ ἐπιμένοι ῥαθυμῶν  καὶ αφροντιστῶν, λέπραν παλαιουμένην ἔχει, ἀπὸ πολλῶν τε καὶ ἀκαθάρτων ἠθροισμένην κακῶν· »λεπρός ἐστιν, ἀκάθαρτός ἐστιν«, ἐκβαλλέσθω τῆς ἐκκλησίας."
+        },
+        {
+            "id1": "s-94",
+            "text1": "Denn »jeder Aus­sät­zige«, heißt es, »soll zerrissene Kleider haben, und das Haupt soll ihm unbedeckt sein, und seinen Mund soll er verbergen, und er soll all die Tage unrein sein, solange der Aussatz an ihm ist; und er soll außerhalb der Sied­lung ver­weilen«.",
+            "id2": "s-83",
+            "text2": "πᾶς γὰρ ὁ »λεπρός«, φησὶν ἡ γραφή, »ἐν ᾧ ἐστὶν ἡ ἁφή, ἐχέτω τὰ ἱμάτια παραλελυμένα, καὶ ἡ κεφαλὴ  ἔστω ἀκατακάλυπτος καὶ περὶ τὸ στόμα περιβαλλέσθω καὶ ἀκάθαρτος κληθήσεται πάσας τὰς ἡμέρας, ὅσας ἂν ᾖ ἡ ἁφὴ ἐπ' αὐτῶ̣· ἀκάθαρτος ὢν ἀκάθαρτος ἔσται· κεχωρισμένος καθήσεται· καθήσεται· τῆς παρεμβολῆς ἔσται αὐτοῦ ἡ διατριβή«."
+        },
+        {
+            "id1": "s-95",
+            "text1": "Dabei wird hier die Leidenschaft als bösartigeKleidung bezeichnet, mit dem unbedeckten Haupt wird jedoch der innere Mensch in Verbindung gebracht.",
+            "id2": "s-84",
+            "text2": "τὸ ἀγενὲς καὶ τεθηλυμμένον ὡς οἶμαι τῶν ἀκολάστων ἱμάτιον παραλελυμένον καλῶν, τὴν δὲ κεφαλὴν  ἀκατακάλυπτον οἷον τὸν ἔσω ἄνθρωπον αὐτὸ τὸ τῆς σκέπης ἐξωπλισμένον τοῦ θεοῦ."
+        },
+        {
+            "id1": "s-96",
+            "text1": "Aber der Sünder muss dieser Hilfe beraubt werden, ist doch der, der in Sünden verbleibt, es nicht wert, dass ihm diese Heilsmysterien zuteil werden.",
+            "id2": "s-85",
+            "text2": "Denn dieser Hilfe muß werden der Sündigende, denn nicht ist würdig der gewürdigt zu werden dieser Mysterien des Heils."
+        },
+        {
+            "id1": "s-97",
+            "text1": "Das nämlich steht im Gesetz von den sichtbaren Dingen.",
+            "id2": "s-86",
+            "text2": "Und dies nun von dem Sichtbaren."
+        },
+        {
+            "id1": "s-98",
+            "text1": "4. Aber unsere Geheimnisse und Herzens­dinge, näm­lich unseren inneren Menschen mit Sorgfalt aufzusuchen, trägt er einem Engel auf, dem Bevoll­mäch­tigten jener Kirche.",
+            "id2": "s-87",
+            "text2": "Das Geheime aber und  das unseres Herzens überträgt er dem bevollmächtigten Engel Kirche, unsern inwendigen Menschen mit Sorgfalt zu besuchen."
+        },
+        {
+            "id1": "s-99",
+            "text1": "Daher entblößt uns jener durch das Schwert des Geistes, auch wenn wir meinen, im Ver­bor­genen sündigen zu können und an­schließend in die Kirche hineingehen.",
+            "id2": "s-88",
+            "text2": "Daher wenn wir auch sündigend uns verbergen können und gehen in die Kirche, entblößt jener uns durch das »Schwert des Geistes«."
+        },
+        {
+            "id1": "s-100",
+            "text1": "Das ‚Verbergen des Mundes‘ aber ist das Schweigen des Sünders.",
+            "id2": "s-89",
+            "text2": "Die Verhüllung aber des Mundes ist das Schweigen des Sünders."
+        },
+        {
+            "id1": "s-101",
+            "text1": "Denn zu dem Sün­der sprach Gott: »Warum verkündestdu eigentlich meine Gebote« usw.",
+            "id2": "s-90,s-91",
+            "text2": "»zu dem Sünder sprach Gott: Wozu bokennst du meine Rechte« usw."
+        },
+        {
+            "id1": "s-102",
+            "text1": "Und sein Leben ‚außerhalb der Siedlung‘ bedeutet außerhalb des Himmelsreichs, denn »draußen«, so der Apostel, »ist ein jeder, der sündigt«.",
+            "id2": "s-92",
+            "text2": "Sien »Leben aber ist außerhalb des Lagers«, das heißt denn »draußen ist«, sagt der Apostel, »ein jeder, Denn auch wenn er scheint drinnen zu sein, sich selbst täuschend,  draußen ist er, außerhalb ist er, wie er gerecht handelnd wenn er auch draußen zu sein scheint."
+        },
+        {
+            "id1": "s-103",
+            "text1": "Und wenn er sich auch täuscht und meint, drinnen zu sein, so ist er doch draußen, er ist außerhalb;so wie er auch drinnen ist, sobald er sich bessert, auch wenn er draußen zu sein meint.",
+            "id2": "s-92",
+            "text2": "Sien »Leben aber ist außerhalb des Lagers«, das heißt denn »draußen ist«, sagt der Apostel, »ein jeder, Denn auch wenn er scheint drinnen zu sein, sich selbst täuschend,  draußen ist er, außerhalb ist er, wie er gerecht handelnd wenn er auch draußen zu sein scheint."
+        },
+        {
+            "id1": "s-104",
+            "text1": "Dann hat er schöne Kleider, ein bedecktes Haupt und den »Helm des Heils« auf dem Haupt, und den Mund enthüllt, um die Schrift zu erforschen, und die Zunge mit Weisheit geöffnet.",
+            "id2": "s-93",
+            "text2": "Und er hat schöne Kleider, das Haupt bedeckt und auf dem Haupt den »Helm des Heils« und Mund geöffnet zum Forschen in der Schrift und die Zunge aufgetan."
+        },
+        {
+            "id1": "s-105",
+            "text1": "So lasst uns uns vor all diesen Dingen hüten!",
+            "id2": "s-94",
+            "text2": "Διὸ δὴ φυλάξωμεν καθαροὺς ἑαυτοὺς τῷ θεῷ — ταῦτα γὰρ κανόνες εἰσὶν καὶ θεσμοὶ τῆς ἐκκλησίας — τῷ όξυδορκεῖν κατὰ τὰς γραφὰς δυναμένῳ· ἐπεὶ παρελθὼν ἀποκρινάσθω μοί τις — ἴνα καὶ τῶν ἑξῆς ἐπιμνησθῶ· τίς ἡ τοσαύτη φροντὶς τῷ »τῷ καὶ σπουδὴ περὶ ἐρεῶν ἱματίων διαλέγεσθαι καὶ λινῶν καὶ κρόκης καὶ στήμονος  καὶ δερμάτων; ἢ »πάντως« προεφητεύσατο ταῦτα »δι' ἡμᾶς‘;"
+        },
+        {
+            "id1": "s-106",
+            "text1": "Welches Interesse hat aber Gott, von Kleidern oder dem Kettfaden oder vom Schussfaden oder dem Übrigen zu sprechen?",
+            "id2": "s-94",
+            "text2": "Διὸ δὴ φυλάξωμεν καθαροὺς ἑαυτοὺς τῷ θεῷ — ταῦτα γὰρ κανόνες εἰσὶν καὶ θεσμοὶ τῆς ἐκκλησίας — τῷ όξυδορκεῖν κατὰ τὰς γραφὰς δυναμένῳ· ἐπεὶ παρελθὼν ἀποκρινάσθω μοί τις — ἴνα καὶ τῶν ἑξῆς ἐπιμνησθῶ· τίς ἡ τοσαύτη φροντὶς τῷ »τῷ καὶ σπουδὴ περὶ ἐρεῶν ἱματίων διαλέγεσθαι καὶ λινῶν καὶ κρόκης καὶ στήμονος  καὶ δερμάτων; ἢ »πάντως« προεφητεύσατο ταῦτα »δι' ἡμᾶς‘;"
+        },
+        {
+            "id1": "s-107",
+            "text1": "4",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-109",
+            "text1": "1.Das wollen wir aber sorgfältig erklären und ‚das Festgewordene‘, sage ich, mit dem Verstand vergleichen, ‚den Schussfaden‘ aber mit der Seele und ‚das Leder‘ mit dem Leib.",
+            "id2": "s-95",
+            "text2": "φέρε γὰρ ἀκριβῶς διακρίωαντες τὰς ἑρμηνείας ἑκάστῳ γένει πρόσφορον παρα- λάβωμεν εἰκόνα, καὶ τῷ μὲν στήμονι τὸν ἰσχυρότερον καὶ πρῶτον νοῦν ἁρμοστέον, κρόκῃ δὲ τὴν ψυχήν, καὶ δέρματι τὸ σῶμα, ἱματίῳ δὲ τὸν ἄνθρωπον ὅλον· ἐρεῶ̣ μὲν τὸν ἄνδρα, τὴν δὲ γυναῖκα λινῷ."
+        },
+        {
+            "id1": "s-110",
+            "text1": "Und ‚die Kleidung‘ mit dem ganzen Menschen: den Mann mit ‚der Wolle‘ und die Frau mit ‚dem Leinen‘.",
+            "id2": "s-95",
+            "text2": "φέρε γὰρ ἀκριβῶς διακρίωαντες τὰς ἑρμηνείας ἑκάστῳ γένει πρόσφορον παρα- λάβωμεν εἰκόνα, καὶ τῷ μὲν στήμονι τὸν ἰσχυρότερον καὶ πρῶτον νοῦν ἁρμοστέον, κρόκῃ δὲ τὴν ψυχήν, καὶ δέρματι τὸ σῶμα, ἱματίῳ δὲ τὸν ἄνθρωπον ὅλον· ἐρεῶ̣ μὲν τὸν ἄνδρα, τὴν δὲ γυναῖκα λινῷ."
+        },
+        {
+            "id1": "s-111",
+            "text1": "»Und wenn sich an der Kleidung eine Er­schei­nung des Aussatzes zeigt, an der wolle­nen Klei­dung oder an der flachsenen Kleidung...« und kurz darauf: »und die Erscheinung am Leder oder an der Kleidung oder am Kett- oder Schussfaden oder am Schussfaden wird grünlich sein«.",
+            "id2": "s-96",
+            "text2": "καὶ ἐν ἱματίῳ ἐὰν γένηται ἐν αὐτῷ ἁφὴ λέπρας, ἐν ἱματίῳ ἐρεῷ ἢ  ἐν ἱματίῳ στιππυίνῳ, ἢ ἐν στήμονι, ἢ ἐν κρόκῃ, ἢ ἐν τοῖς λινοῖς ἢ ἐν τοῖς ἐρεοῖς ἢ ἐν  ἢ ἐν παντὶ ἐργασίμῳ δέρματι; καὶ ἡ ἁφὴ πυρρίζουσα ἢ χλωρίζουσα ἢ] ἐν τῷ δέρματι, ἢ ἐν τῷ ἱματίῳ, ἢ ἐν τῷ στήμονι, ἢ ἐν τῇ κρόκῃ«."
+        },
+        {
+            "id1": "s-112",
+            "text1": "Den Kettfaden aber hat er bildlich als die Festigkeiten der Seele bezeichnet.",
+            "id2": "s-97",
+            "text2": "στήμονα γὰρ τροπικῶς τοὺς τόνους τῆς ψυχῆς, τὸν νοῦν ἡμῶν, ὁ νόμος ἐκάλεσεν· σύνθετον  γὰρ ζῷον οἰα πλέγμα καὶ ὕφος ἐκ πολλῶν συμπαγὲν ὸ ἄνθρωπος εἶναι παρεδόθη."
+        },
+        {
+            "id1": "s-113",
+            "text1": "Denn der Mensch ist ein zusammengesetztes Lebewesen aus Seele und Leib.",
+            "id2": "s-97",
+            "text2": "στήμονα γὰρ τροπικῶς τοὺς τόνους τῆς ψυχῆς, τὸν νοῦν ἡμῶν, ὁ νόμος ἐκάλεσεν· σύνθετον  γὰρ ζῷον οἰα πλέγμα καὶ ὕφος ἐκ πολλῶν συμπαγὲν ὸ ἄνθρωπος εἶναι παρεδόθη."
+        },
+        {
+            "id1": "s-114",
+            "text1": "Er zeigt aber auf, dass das erste Empfangen des Sündhaften von einem äußeren Trugbild durch die Augen und das Gehör eindringt, so wie auch irgendein Aussatz zum Verstand vorstößt.",
+            "id2": "s-98",
+            "text2": "εἰ γὰρ ἐκ ψυχῆς σαρκός τε καὶ πνεύματος ὡς ἐν κεφαλαίῳ φάναι τὴν σύστασιν ἀπεδείχθη λαχών, τεθεωρημένως ὁ νομοθέτης τὴν πρώτην σύλληψιν τῶν ἁμαρτημάτων ἀπὸ τῆς ἔξωθεν φαντασίας δι᾿ ὀφθαλμῶν ἢ δι᾿ ὤτων ῥέουσαν εἰς τὸν  ὥσπερ ἐν στήμονι φύεσθαι χρησμωδιῖ."
+        },
+        {
+            "id1": "s-115",
+            "text1": "Folgendes nämlich sprach der Herr in Bezug auf den Sün­den­erlass über die Ungläubigen: »Was denkt Ihr in Euren Herzen?",
+            "id2": "s-99",
+            "text2": "Dies nämlich sprach der in betreff der wegen des Erlasses der Sünden Ungläubigen: denket ihr in euren Herzen!"
+        },
+        {
+            "id1": "s-116",
+            "text1": "« Es war dies nämlich der Aussatz des Unglaubens in ihren Sinnen.",
+            "id2": "s-100",
+            "text2": "« Denn siehe Aussatz des Unglaubens in den Sinnen."
+        },
+        {
+            "id1": "s-117",
+            "text1": "»Denn Krankheit«, sagt er »wurde in ihnen empfangen und Gesetzlosigkeit geboren«.",
+            "id2": "s-101",
+            "text2": "Denn, sagt er, »er hat empfangen Schwäche und geboren Gesetzlosigkeit«."
+        },
+        {
+            "id1": "s-118",
+            "text1": "Denn der Schussfaden bedeute die Neigung zu den Leiden­schaf­ten, denn die Leiden­schaft wird mit dem wachsenden Willen gewebt.",
+            "id2": "s-102",
+            "text2": "Die Liebe aber nun der Leidenschaften bedeute  der Einschlag; denn es wird ausgewebt wachsend durch den Willen die Leidenschaft."
+        },
+        {
+            "id1": "s-119",
+            "text1": "Was sagte die Schrift aber hierauf über diejenigen, die sich losgesagt haben, und was über die  Boshaften?",
+            "id2": "s-103,s-104",
+            "text2": "Was sagte weiter die Schrift? Denn . ."
+        },
+        {
+            "id1": "s-120",
+            "text1": "2. »Wenn sich der Aussatz aber«, nachdem er den Priestern gezeigt wurde, »auf der Kleidung oder am Kettfaden oder im Leder oder am Schussfaden nichtausbreitet, dann ist es ein einmaligerAussatz und dann ist nur das Leder unrein, dann soll er die Kleidung oder den Kettfaden mit der betroffenen wol­le­nen Stelleoder in jeglichem ledernen Gerät verbrennen.",
+            "id2": "s-105",
+            "text2": "† der »Ἐὰν δὲ διαχέηται« μετὰ τὸ ἀφορισθῆναι ὀφθεῖσα »ἡ ἁφὴ« τῷ  άρχιερεῖ »ἐν τῷ ἱματίῳ ἢ ἐν τῷ δέρματι ἢ ἐν τῷ στήμονι ἢ ἐν τῇ κρόκῃ, λέπρα ἔμμονός ἐστιν ἡ ἁφή, ἀκάθαρτός ἐστιν· καὶ κατακαύσει τὸ ἱμάτιον ἢ τὸν στήμονα ἢ τὴν κρόκην ἐν τοῖς ἐρεοῖς ἢ ἐν τοῖς λινοῖς ἢ ἐν παντὶ σκεύει δερματινῷ, ἐν ᾧ ἂν ᾖ ~ ἐν αὐτῷ ἡ  ὅτι λέπρα ἔμμονος ἐστίν, ἐν πυρὶ κατακαυθήσεται«, ὅπερ ἐστίν . ."
+        },
+        {
+            "id1": "s-121",
+            "text1": "Und weil es ein einmaliger Aussatz ist, soll er mit Feuer verbrannt werden.",
+            "id2": "s-107",
+            "text2": "ἐὰν οὐν μὴ διαχέηται ἡ ἁφή, τουτέστι μὴ ἀμβλύνηται τὸ ἁμάρτημα μετὰ τὸ προσελθεῖν καὶ συγγνώμην αἰτήσασθαι παρὰ τοῦ θεοῦ, μετὰ τὸ μετανοῆσαι καὶ ὀφθῆναι τῷ ἐπισκόπῳ·  ἐὰν μὴ διαχέηται σκορπισθὲν αὐτῷ καὶ λωφᾷ τὸ ἤδη τῷ εἰς τὸ θεραπεύεσθαι, τουτέστιν εἰς τὴν ἐξομολόγησιν"
+        },
+        {
+            "id1": "s-122",
+            "text1": "«Dieses aber zeigt er wiederum über die­jeni­gen an, die Buße getan und sich von den Sünden ganz und gar losgesagt haben: er befielt, dass die Kleidung, d.h. die ‚sündige Hülle‘ verbrannt werde.",
+            "id2": "s-107,s-107,s-108",
+            "text2": "ἐὰν οὐν μὴ διαχέηται ἡ ἁφή, τουτέστι μὴ ἀμβλύνηται τὸ ἁμάρτημα μετὰ τὸ προσελθεῖν καὶ συγγνώμην αἰτήσασθαι παρὰ τοῦ θεοῦ, μετὰ τὸ μετανοῆσαι καὶ ὀφθῆναι τῷ ἐπισκόπῳ·  ἐὰν μὴ διαχέηται σκορπισθὲν αὐτῷ καὶ λωφᾷ τὸ ἤδη τῷ εἰς τὸ θεραπεύεσθαι, τουτέστιν εἰς τὴν ἐξομολόγησιν ἐὰν οὐν μὴ διαχέηται ἡ ἁφή, τουτέστι μὴ ἀμβλύνηται τὸ ἁμάρτημα μετὰ τὸ προσελθεῖν καὶ συγγνώμην αἰτήσασθαι παρὰ τοῦ θεοῦ, μετὰ τὸ μετανοῆσαι καὶ ὀφθῆναι τῷ ἐπισκόπῳ·  ἐὰν μὴ διαχέηται σκορπισθὲν αὐτῷ καὶ λωφᾷ τὸ ἤδη τῷ εἰς τὸ θεραπεύεσθαι, τουτέστιν εἰς τὴν ἐξομολόγησιν ἐπιμοθφάζεται τὴν πίστιν· »ἔμμονός ἐστιν λέπρα«, ἀνεξάλειπτος ἡ ἁμαρτία, τῷ διαιωνίζοντι τῆς γεέννης ἀθρόως καταφλεχθήσεται πυρί·  ὅτι χρὴ τοὺς εἰς τὸ πλήρωμα τῆς οὐρανοπόλεως ἀναλγφθησομένους τῷ ἁρμοσαμένῳ Χριστῷ καὶ ἐπενδύσαντι τὴν ἀφθαρσίαν καθαροὺς προσιέναι καὶ ὑγιεῖς ."
+        },
+        {
+            "id1": "s-123",
+            "text1": "[...]",
+            "id2": "s-107",
+            "text2": "ἐὰν οὐν μὴ διαχέηται ἡ ἁφή, τουτέστι μὴ ἀμβλύνηται τὸ ἁμάρτημα μετὰ τὸ προσελθεῖν καὶ συγγνώμην αἰτήσασθαι παρὰ τοῦ θεοῦ, μετὰ τὸ μετανοῆσαι καὶ ὀφθῆναι τῷ ἐπισκόπῳ·  ἐὰν μὴ διαχέηται σκορπισθὲν αὐτῷ καὶ λωφᾷ τὸ ἤδη τῷ εἰς τὸ θεραπεύεσθαι, τουτέστιν εἰς τὴν ἐξομολόγησιν"
+        },
+        {
+            "id1": "s-124",
+            "text1": "3. [...] Darüber spricht aber auch ein anderer Prophet: »Jerusalem, heilige Stadt, fortan wird keiner durch Dich durchgehen können, der unbeschnitten oder unrein ist, sondern nur jemand, der beschnitten und also rein ist«, nämlich von dem alten Trug.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-125",
+            "text1": "Denn eben dieses Wort und der Herr selbst hört nicht auf, uns bezüglich unserer Vernunft zu beschneiden.",
+            "id2": "s-110",
+            "text2": "Denn in bezug auf jenes Wort selbst hört auch der Herr nicht auf, zu unsere Vernunft."
+        },
+        {
+            "id1": "s-126",
+            "text1": "Was aber Du, Herr, Deinen Knechten als Gesetz aufträgst, das sage auch uns!",
+            "id2": "s-111",
+            "text2": "Was aber nun, o Herr, hast du deinen Knechten als Gesetz gegeben?"
+        },
+        {
+            "id1": "s-127",
+            "text1": "Dass, »wenn Ihr den Willen meines Vaters tut«, dann »werdet Ihr wie Leuchter sein«, voll des ewigen Lebens.",
+            "id2": "s-112,s-113",
+            "text2": "Sage es auch uns! »Wenn ihr tut den Willen meines «, werdet ihr sein wie Lichter voll seiend des ewigen  Lebens."
+        },
+        {
+            "id1": "s-128",
+            "text1": "Nun gebt aber Acht, auf dass Ihr fähig seid, mit mir in die Tiefe der Unvergänglichkeit einzu­gehen.",
+            "id2": "s-114",
+            "text2": "»Wachet aber nun«, damit ihr vermögend seid, mit das Meer der Unverweslichkeit einzugehen."
+        },
+        {
+            "id1": "s-129",
+            "text1": "Daher »bewahrt Eure Kerzen unver­löscht«, auf dass Ihr in das ewige Braut­gemach eintretet.",
+            "id2": "s-115",
+            "text2": "Daher »bewahret eure Leuchten unverlöscht«, damit ihr eingehet in das ewige Brautgemach!"
+        },
+        {
+            "id1": "s-130",
+            "text1": "(Und als ich dieses gesagt hatte, sprach Euthymius: „Du sprichst wahre Worte!",
+            "id2": "s-116",
+            "text2": "Und als ich dies gesagt, sprach Euthymius: Mit Eecht, o ihr,  so bei mir denkend, wie auch ich, wenn ich von den Höchsten höre—Höchste aber nenne ich die Worte Christi — freue ich mich sehr, wie durch sie belebt werdend, ich bin ehrfürchtig, wie dorthin durch Himmlischen das Auge erstreckend und wie vergessend und scheinend aus der Welt gegangen zu sein."
+        },
+        {
+            "id1": "s-131",
+            "text1": "So ist es auch bei mir, wenn ich von den Höchsten höre ­– und mit ‚den Höchsten‘ meine ich die Worte Christi ­–, dann freue ich mich sehr, als würde ich durch sie belebt; ich bin ehrfürchtig, dass ich, indem ich das Auge mit Hilfe der Himmlischen selbst dorthin ausstrecke, auch selbst meine, aus der Welt hinausgegangen zu sein, als hätte ich verges­sen.“",
+            "id2": "s-116",
+            "text2": "Und als ich dies gesagt, sprach Euthymius: Mit Eecht, o ihr,  so bei mir denkend, wie auch ich, wenn ich von den Höchsten höre—Höchste aber nenne ich die Worte Christi — freue ich mich sehr, wie durch sie belebt werdend, ich bin ehrfürchtig, wie dorthin durch Himmlischen das Auge erstreckend und wie vergessend und scheinend aus der Welt gegangen zu sein."
+        },
+        {
+            "id1": "s-132",
+            "text1": "Und ich sagte: „Deshalb lasst uns zu dem zurückkehren, womit die wei­te­re Argumentation bestrittenwerden kann und die  Verhandlung dort fortführen.",
+            "id2": "s-117",
+            "text2": "Und ich: Daher wieder zu dem zurüchgekehrt, wodurch es passend ist die weitere ’erhandlung auszuweben, verknüpfen wir mit Folgenden."
+        },
+        {
+            "id1": "s-133",
+            "text1": "Denn wir haben mit der Argumentation einen guten Anlauf ge­nom­men, haben sie aber nicht zu­frie­den­stel­lend zuendegeführt.“)",
+            "id2": "s-118",
+            "text2": "Wir haben nun gesprochen, gut einen Anlauf zur Verhandlung nehmend, aber nicht genügend haben wir sie zu Ende geführt."
+        },
+        {
+            "id1": "s-134",
+            "text1": "5",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-135",
+            "text1": "Sist.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-136",
+            "text1": "Erinnern wir uns aber, dass wir gesagt haben, der Mensch sei eine Zu­sam­men­­stel­lung von Seele und Leib.",
+            "id2": "s-119",
+            "text2": "Denn erinnern wir uns, daß wir sagten, eine Composition von  < Seele und Fleisch sei der Mensch, daher auch, indem er die Gesetze über Aufzug und Einschlag und Fell weder nach dem Geist noch nach dem Fleisch, noch nach der Begierde sei zu sündigen."
+        },
+        {
+            "id1": "s-137",
+            "text1": "Daher heißen die Gesetze auch ‚Schussfaden‘ und ‚Leder‘, mit denen er anordnet, weder in Hinsicht auf den Verstand, noch nach dem Leib noch nach der Begierde zu sündigen.",
+            "id2": "s-119",
+            "text2": "Denn erinnern wir uns, daß wir sagten, eine Composition von  < Seele und Fleisch sei der Mensch, daher auch, indem er die Gesetze über Aufzug und Einschlag und Fell weder nach dem Geist noch nach dem Fleisch, noch nach der Begierde sei zu sündigen."
+        },
+        {
+            "id1": "s-138",
+            "text1": "Denn entweder ist man, so wie viele Menschen, am Verstand aussätzig, aber gesund an Seele und Leib, oder wiederum am Verstand gesund und an Leib und Seele krank.",
+            "id2": "s-120",
+            "text2": "Entweder nicht alle †, † , wie viele, sind aussätzig, aber gesund an Seele und Leib; oder wieder am Geist  aber an Fleisch und Seele krankend."
+        },
+        {
+            "id1": "s-139",
+            "text1": "Denn wollen wir in Bezug auf die Worte der Häretiker nicht sagen, dass sie nach dem Verstand sündigen, denn indem auch sie Christus bekennen, verpflichten sie sich der Gerechtigkeit und der Wahrheit, indem sie den Schussfaden selbst und das Leder rein halten, am Verstand aber durch Heterodoxie aussätzig sind: dass sie nämlich entweder jenes Wesen selbst lästern, sprich den Vater, oder sein immer­währen­des Wort oder den Heiligen Geist.",
+            "id2": "s-121,s-122",
+            "text2": "Denn dies sagen wir [nicht] von den Worten der Häretiker, daß sie nach dem indem auch sie Christus bekennen, geben sie in bezug auf Wahrheit und Gerechtigkeit Zusage, wie Einschlag und Fell rein bewahrend, aber indem sie den Geist aussätzig haben durch Heterodoxie. gegen jenes Wesen (Substanz) selbst, nämlich den oder gegen sein vorzeitliches Wort, oder gegen den heiligen Geist."
+        },
+        {
+            "id1": "s-140",
+            "text1": "Deshalb sagen wir mit Wahrheit von den Häretikern, dass sie an schlimmem Aussatz kranken.",
+            "id2": "s-123",
+            "text2": "ὅθεν ὀρθῶς ὁ νομοθέτης τοὺς ἐν δόγμασι πλανωμένους καὶ λόγοις βεβλάφθαι τὸν στήμονα λέγει."
+        },
+        {
+            "id1": "s-141",
+            "text1": "(Und ich sagte:)",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-142",
+            "text1": "Eub.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-143",
+            "text1": "Das ist auch Kindern klar, dass sie alle hochmütig sind und hohen Stolz haben.",
+            "id2": "s-124",
+            "text2": "Τίνες οὐν οἱ τὴν κρόκην μὲν λεπρῶντες, τὸ δὲ δέρμα καὶ τὸν στήμονα καθαροί;"
+        },
+        {
+            "id1": "s-144",
+            "text1": "Denn sie bewahren ihren Leib rein in Heiligkeit, weil sie am Geist gesund sind und die richtige Vernunft haben;",
+            "id2": "s-125,s-125",
+            "text2": "οἱ τετυφωμένοι καὶ τὰς ὀφρῦς ἀνατετακότες ὑψηλάς· αὐτοὶ γὰρ τὴν μὲν διάνοιαν ὺγιαίνοντες, αὐτὸν όρθοδόξως πρεσβεύοντες τὸν λόγον, καὶ δέρμα δὲ] καθαρὸν φυλάσσουσιν ἐν ἁγιασμῷ, οἰδῶσι τὴν ψυχὴν ὑπὸ φιλαρχίας, καὶ καθάπερ ἀπ᾿ οὐρανῶν ὑπερηφάνως τοῖς λοιποῖς, αὐτῷ ἐπηρμένοι τούτῳ τῷ γινώσκειν  γραφὰς καὶ τὸν διδασκαλικὸν κεκληρῶσθαι θρόνον. οἱ τετυφωμένοι καὶ τὰς ὀφρῦς ἀνατετακότες ὑψηλάς· αὐτοὶ γὰρ τὴν μὲν διάνοιαν ὺγιαίνοντες, αὐτὸν όρθοδόξως πρεσβεύοντες τὸν λόγον, καὶ δέρμα δὲ] καθαρὸν φυλάσσουσιν ἐν ἁγιασμῷ, οἰδῶσι τὴν ψυχὴν ὑπὸ φιλαρχίας, καὶ καθάπερ ἀπ᾿ οὐρανῶν ὑπερηφάνως τοῖς λοιποῖς, αὐτῷ ἐπηρμένοι τούτῳ τῷ γινώσκειν  γραφὰς καὶ τὸν διδασκαλικὸν κεκληρῶσθαι θρόνον."
+        },
+        {
+            "id1": "s-145",
+            "text1": "aber in ihrer Seele kranken sie an Herrschsucht, als schauten sie vom Himmel auf ihre Brüder herab und brüsteten sich mit Verachtung mit dem Schriftverständnis und dem Innehaben des Lehrstuhls.",
+            "id2": "s-125,s-125",
+            "text2": "οἱ τετυφωμένοι καὶ τὰς ὀφρῦς ἀνατετακότες ὑψηλάς· αὐτοὶ γὰρ τὴν μὲν διάνοιαν ὺγιαίνοντες, αὐτὸν όρθοδόξως πρεσβεύοντες τὸν λόγον, καὶ δέρμα δὲ] καθαρὸν φυλάσσουσιν ἐν ἁγιασμῷ, οἰδῶσι τὴν ψυχὴν ὑπὸ φιλαρχίας, καὶ καθάπερ ἀπ᾿ οὐρανῶν ὑπερηφάνως τοῖς λοιποῖς, αὐτῷ ἐπηρμένοι τούτῳ τῷ γινώσκειν  γραφὰς καὶ τὸν διδασκαλικὸν κεκληρῶσθαι θρόνον. οἱ τετυφωμένοι καὶ τὰς ὀφρῦς ἀνατετακότες ὑψηλάς· αὐτοὶ γὰρ τὴν μὲν διάνοιαν ὺγιαίνοντες, αὐτὸν όρθοδόξως πρεσβεύοντες τὸν λόγον, καὶ δέρμα δὲ] καθαρὸν φυλάσσουσιν ἐν ἁγιασμῷ, οἰδῶσι τὴν ψυχὴν ὑπὸ φιλαρχίας, καὶ καθάπερ ἀπ᾿ οὐρανῶν ὑπερηφάνως τοῖς λοιποῖς, αὐτῷ ἐπηρμένοι τούτῳ τῷ γινώσκειν  γραφὰς καὶ τὸν διδασκαλικὸν κεκληρῶσθαι θρόνον."
+        },
+        {
+            "id1": "s-146",
+            "text1": "Deshalb kommen sie einem auch zuerst mit den Händen entgegen, weil sie es verachten, dem Armen den Mund anzubieten.",
+            "id2": "s-126",
+            "text2": "ὥστε καὶ ταῖς χερσὶ μᾶλλον προϋπαντῶσιν ἐν τοῖς ἀσπασμοῖς, κενοδοξοῦντες πτωχῷ τὸ στόμα."
+        },
+        {
+            "id1": "s-147",
+            "text1": "Daher ist es berechtigt, den Aussatz für ‚geistigen Hochmut‘  zu halten, denn auch in den Sprichwörtern heißt es: »Der Herr widersetzt sich den Übermütigen, den Demütigen aber gibt er Gnade«.",
+            "id2": "s-128",
+            "text2": "»κύριος  γὰρ ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν·« ἐκείνοις τοῖς ταπεινοφρονοῦσι πρὸς τοὺς ὁμοιοπαθεῖς, καὶ οὐχὶ τοῖς πρὸς μὲν τὸν θεὸν δῆθεν ταπεινουμένοις, πρὸς δὲ τοὺς μετριωτέρους ὑπερόπτως διακειμένοις."
+        },
+        {
+            "id1": "s-148",
+            "text1": "Aber was heißt das denn?",
+            "id2": "s-129",
+            "text2": "τί γάρ; . ."
+        },
+        {
+            "id1": "s-149",
+            "text1": "Wird sich die Erde und der Staub Gott widersetzen oder demütig sein?",
+            "id2": "s-130",
+            "text2": "ταπεινωθήσεται πρὸς θεὸν »γῆ καὶ ὥσπερ"
+        },
+        {
+            "id1": "s-150",
+            "text1": "So lasst uns demütig sein vor den für uns leidenden Menschen.",
+            "id2": "s-131",
+            "text2": "ὥσπερ  καὶ τὸν ἄρτον καὶ τὸ ἱμάτιον τῷ »πεινῶντι« καὶ τῷ γυμνῷ διδόναι."
+        },
+        {
+            "id1": "s-151",
+            "text1": "Und Lob werden wir von Gott erhalten.",
+            "id2": "s-131",
+            "text2": "ὥσπερ  καὶ τὸν ἄρτον καὶ τὸ ἱμάτιον τῷ »πεινῶντι« καὶ τῷ γυμνῷ διδόναι."
+        },
+        {
+            "id1": "s-152",
+            "text1": "Soviel nun zu diesem.",
+            "id2": "s-133",
+            "text2": "Und von diesem nun so."
+        },
+        {
+            "id1": "s-153",
+            "text1": "Aber viele, die an Verstand und Seele gesund sind, wie auch dort gesagt ist: ‚am Kett- und am Schussfaden‘, sind ‚am Leder‘, d.h. wegen der fleischlichen Gelüste unrein, weil sie durch diese Trugbilder verführt sind.",
+            "id2": "s-134",
+            "text2": "Aber viele an Geist und Seele Gesunde, wie auch dort an Aufzug und Einschlag, sind am Fell, das heißt Lüste des Fleisches unrein, verfuhrt durch diese sichtbaren Dinge."
+        },
+        {
+            "id1": "s-154",
+            "text1": "Daher ist es geboten, sich zu schützen, damit wir nicht in jenem großen Sturm versinken.",
+            "id2": "s-135",
+            "text2": "Daher müssen wir uns hüten, daß wir Sturm versinken."
+        },
+        {
+            "id1": "s-155",
+            "text1": "So beschaffen ist nämlich unsere Heilung, o Sistelius.",
+            "id2": "s-136",
+            "text2": "Dieses nun, o Sistelius, ist unsere Heilung."
+        },
+        {
+            "id1": "s-156",
+            "text1": "(Und als ich diese Worte gesprochen hatte, stand ich auf und ging.",
+            "id2": "s-137",
+            "text2": "Und als ich dies gesagt, stand ich auf und ging."
+        },
+        {
+            "id1": "s-157",
+            "text1": "Und er stand auf und fasste mich von hinten am Kleid: „Komm zurück“, sagte er, „damit auch ich dir eine Argumentation einer Frau  schildere, die ich einst in Lykien gehört habe.)",
+            "id2": "s-138,s-139",
+            "text2": "Und jener stand auf und ergriff mich von hinten am Kleid. Komm, sagte er, damit auch ich dir ein Wort sage, welches ich einst in Lykien hörte."
+        },
+        {
+            "id1": "s-158",
+            "text1": "Sist.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-159",
+            "text1": "Denn sie war sowohl schriftkundig als auch enthalt­sam, und lehrte denn auch das Gesetz des Herrn in philosophischer Weise.",
+            "id2": "s-140",
+            "text2": "Die Tugend einer Frau, welche  schriftkunding war und besonnen, und nun auch philosophierend lehrend das des Herrn."
+        },
+        {
+            "id1": "s-160",
+            "text1": "Und das, was ich von ihr gehört habe, das offenbare ich nun Euch.",
+            "id2": "s-141",
+            "text2": "Und was ich nun von ihr hörte, tue ich vor euch kund."
+        },
+        {
+            "id1": "s-161",
+            "text1": "Und so sprach sie, die Eifrigeund Verständige, ­denn auch sie sah in allem geistige Bedeutung:",
+            "id2": "s-142",
+            "text2": "Es sagte aber nun jene Wißbegierige (Fremdes Liebende) und Besonnene, bei allem aber sie sehend den (geistigen) Verstand: Es muß allem der das Wahre Suchende sich nicht fürchten, noch sich  gegen die Höhe der Vernunft."
+        },
+        {
+            "id1": "s-162",
+            "text1": "6",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-163",
+            "text1": "1.",
+            "id2": "s-142",
+            "text2": "Es sagte aber nun jene Wißbegierige (Fremdes Liebende) und Besonnene, bei allem aber sie sehend den (geistigen) Verstand: Es muß allem der das Wahre Suchende sich nicht fürchten, noch sich  gegen die Höhe der Vernunft."
+        },
+        {
+            "id1": "s-164",
+            "text1": "Arete: „Vor allem derjenige, der die Wahrheit sucht, soll sich weder fürchten, noch sich gegen die Höhe der Vernunft auflehnen.",
+            "id2": "s-142",
+            "text2": "Es sagte aber nun jene Wißbegierige (Fremdes Liebende) und Besonnene, bei allem aber sie sehend den (geistigen) Verstand: Es muß allem der das Wahre Suchende sich nicht fürchten, noch sich  gegen die Höhe der Vernunft."
+        },
+        {
+            "id1": "s-165",
+            "text1": "Wenn aber jemand darüber hinaus urteilt, dann werde er in die Tiefe und in armselige Gedanken stürzen, weil er ­– verzweifelt und wie mitten auf dem Weg umgekehrt ­– träger wird, weil er die Erkenntnis nicht erlangt habe und, nach dem Wort des Evangeliums, »mit dem Turmbau nach der Hälfte aufgehört« habe.",
+            "id2": "s-143",
+            "text2": "Wenn aber jemand anders er in die Tiefe und in armselige Gedanken, denn verzweifelt und wie mitten auf dem Weg umgekehrt, wird er lässiger, der nicht (geistigen) Verstand empfangen, und nach dem Wort des Evangeliums zur Hälfte gelassen das Wrk des Turms."
+        },
+        {
+            "id1": "s-166",
+            "text1": "Daher soll man Geduld haben und sich nicht plagen.",
+            "id2": "s-144",
+            "text2": "Daher muß man Geduld  haben und sich nicht ärgern."
+        },
+        {
+            "id1": "s-167",
+            "text1": "Denn wer geduldig die Voll­kom­men­heit der Schrift sucht, wird sie umso klarer erblicken.",
+            "id2": "s-145",
+            "text2": "Denn der mit Geduld die Tugenden der Schrift Suchende wird klarer sehen."
+        },
+        {
+            "id1": "s-168",
+            "text1": "Wie auch der Prophet Elias nach jenem Wind, der Berge und Felsen zerstört hatte, nach dem Erdbeben und dem Feuer schließlich die Stimme jenes zarten, d.h. leisen Geistes erkannt hat, indem er stufenweise von dem einen zum anderen überging, bis er zur Wahrheit gelangt ist.",
+            "id2": "s-146,s-147,s-146,s-147",
+            "text2": "Denn auch der Prophet Elias nach jenem »Wind«, welcher »Berge und Felsen« zerriß, nach dem »Erdbeben« und nach dem »Feuer«, darnacli schaute er die »Stimme  jenes sanften«, das heißt stillen »Windes« »Geistes«), an vorübergehend, bis daß er kam in das Wahre. Denn abgetan habend die Finsternis und geheiligt »erleuchtet«? Denn auch der Prophet Elias nach jenem »Wind«, welcher »Berge und Felsen« zerriß, nach dem »Erdbeben« und nach dem »Feuer«, darnacli schaute er die »Stimme  jenes sanften«, das heißt stillen »Windes« »Geistes«), an vorübergehend, bis daß er kam in das Wahre. Denn abgetan habend die Finsternis und geheiligt »erleuchtet«?"
+        },
+        {
+            "id1": "s-168b",
+            "text1": "Denn »indem wir die Finsternis abtun und erleuchtet sind an der Seele«, steigen wir wie von Stufe zu Stufe hinauf von Erkenntnis zu Erkenntnis.",
+            "id2": "s-146,s-147,s-146,s-147",
+            "text2": "Denn auch der Prophet Elias nach jenem »Wind«, welcher »Berge und Felsen« zerriß, nach dem »Erdbeben« und nach dem »Feuer«, darnacli schaute er die »Stimme  jenes sanften«, das heißt stillen »Windes« »Geistes«), an vorübergehend, bis daß er kam in das Wahre. Denn abgetan habend die Finsternis und geheiligt »erleuchtet«? Denn auch der Prophet Elias nach jenem »Wind«, welcher »Berge und Felsen« zerriß, nach dem »Erdbeben« und nach dem »Feuer«, darnacli schaute er die »Stimme  jenes sanften«, das heißt stillen »Windes« »Geistes«), an vorübergehend, bis daß er kam in das Wahre. Denn abgetan habend die Finsternis und geheiligt »erleuchtet«?"
+        },
+        {
+            "id1": "s-169",
+            "text1": "Das heißt: So wie wir vom Bergwind, der dem Unglauben gleicht, zum Erforschen der Schrift wie zum Erdbeben hineingehen, und von diesem aus ins Feuer, d.h., »ins unauslöschliche Feuer der Liebe«, so schreiten wir von diesem angefeuert zum jeweils Größeren fort, bis wir zum Gipfel gelangen, d.h. bis zur Erleuchtung des heiligen Geistes.“",
+            "id2": "s-148",
+            "text2": ") an der Seele, schreiten wir wie von Stufe zu Stufe, von Erkenntnis zu Erkenntnis, das heilit wie vom  Bergwind, ähnlich dem Unglauben, in das Forschen der Schrift wie in das Erdbeben einzugehen, von jenem ins Feuer, das heißt Feuer der Liebe, durch welches angefeuert sehreiten wir fort zum Eifer um das Bessere, bis wir zum Gipfel gelangen, das heißt zur Heiligung des heiligen Geistes."
+        },
+        {
+            "id1": "s-170",
+            "text1": "Und ich wunderte mich und sprach: „Nun, Du Weise, ich war erstaunt über Deine Enthalt­samkeit, Liebenswürdigkeit und Bescheiden­heit.",
+            "id2": "s-149,s-150,s-151",
+            "text2": "— Und ich verwunderte mich und  sprach: Siehe nun, ο sehr Weise, ich staunte dich an über deine Besonnenheit und Heiterkeit »Ruhe«? ) und Bescheidenheit (Einschränkung), nun aber auch über die Weisheit."
+        },
+        {
+            "id1": "s-171",
+            "text1": "Und nun bin ich ebenso erstaunt über Deine Weisheit!“",
+            "id2": "s-149,s-150,s-151",
+            "text2": "— Und ich verwunderte mich und  sprach: Siehe nun, ο sehr Weise, ich staunte dich an über deine Besonnenheit und Heiterkeit »Ruhe«? ) und Bescheidenheit (Einschränkung), nun aber auch über die Weisheit."
+        },
+        {
+            "id1": "s-172",
+            "text1": "Und sie schmunzelte wie es gewisse weise Schrifterklärer tun.",
+            "id2": "s-152,s-152",
+            "text2": "Und sie, nachdem sie heimlich gelächelt, wie gewisse weise Erklärer der Schrift, sprach also: ward klar gezeigt, daß sich nicht ärgern muß, welcher eindringt  Worte der Schrift. Und sie, nachdem sie heimlich gelächelt, wie gewisse weise Erklärer der Schrift, sprach also: ward klar gezeigt, daß sich nicht ärgern muß, welcher eindringt  Worte der Schrift."
+        },
+        {
+            "id1": "s-173",
+            "text1": "„Hierdurch“, sprach sie, „wurde klar gezeigt, dass derjenige, der in die Schriften des Herrneindringt, sich hierüber nicht bekümmern muss.",
+            "id2": "s-152,s-152",
+            "text2": "Und sie, nachdem sie heimlich gelächelt, wie gewisse weise Erklärer der Schrift, sprach also: ward klar gezeigt, daß sich nicht ärgern muß, welcher eindringt  Worte der Schrift. Und sie, nachdem sie heimlich gelächelt, wie gewisse weise Erklärer der Schrift, sprach also: ward klar gezeigt, daß sich nicht ärgern muß, welcher eindringt  Worte der Schrift."
+        },
+        {
+            "id1": "s-174",
+            "text1": "“ Und ich sprach zu ihr: „Ich verlange, erschöpfend darüber zu hören.",
+            "id2": "s-153",
+            "text2": "Zu ihr aber ich: Voll verlange ich hiervon zu hören, da aber nun hiervon sprachen."
+        },
+        {
+            "id1": "s-175",
+            "text1": "Denn nachdem wir dieses",
+            "id2": "s-154",
+            "text2": "Wohlan sehen wir auch sorgfältig in des Vorliegenden."
+        },
+        {
+            "id1": "s-176",
+            "text1": "Thema abgehandelt haben, wollen wir nun auch das vorliegende Themasorgfältig ansehen!",
+            "id2": "s-154",
+            "text2": "Wohlan sehen wir auch sorgfältig in des Vorliegenden."
+        },
+        {
+            "id1": "s-177",
+            "text1": "Es heißt nämlich: »Und wenn auf der Kleidung ein Zeichen des Aussatzes erscheint ­– auf dem härenen oder flachesenen Kleid, am Schuss- oder Kettfaden oder Leinen oder an jeglichem Leder« usw.“",
+            "id2": "s-155,s-156",
+            "text2": "»Und wenn am Kleid sein wird das Bild des Aussatzes, an einem  Kleid von Tuch oder von Lein, oder am Einschlag oder am Aufzug, oder an der Leinwand, oder an jedem Fell« usw. —"
+        },
+        {
+            "id1": "s-179",
+            "text1": "2. „Mit dem Wundmal auf der Wolle meint er den sich erneuernden inneren Menschen, denn »wie ein Schaf wurde er zur Schlachtbank geführt«; wie er auch die Kleidung, die aus dessen Frucht gewebt ist, »wollen« nennt.",
+            "id2": "s-157,s-158",
+            "text2": "Den Aussatz des Wollenen nennt er (den) des erneuerten inwendigen Menschen. Denn »wie ein Schaf ward er zur Schlachtbank geführt«; ein wie von Frucht gewebtes Kleid nennt er ein wollenes."
+        },
+        {
+            "id1": "s-180",
+            "text1": "Mit dem linnenen Kleid aber bezeichnet er den aus Staub gemachten Menschen, denn dieserkommt aus der Erde hervor.",
+            "id2": "s-159",
+            "text2": "Mit dem Leinenen aber  bezeichnet er den aus Staub gemachten Menschen, denn von der Erde kommt dieses hervor."
+        },
+        {
+            "id1": "s-181",
+            "text1": "Du musst nämlich verstehen, dass auch Paulus im zweiten Send­schreiben an die Korinther Ähnliches sagt: »Ich fürchte, dass, wie auch die Schlange in ihrer Arglist Eva verführt hat...« usw.",
+            "id2": "s-160",
+            "text2": "Denn verstehe, wie diesem ähnlich auch Paulus sprach im zweiten Sendschreiben an die Korinther: »Denn ich fürchte,  daß wie die Schlange Eva verführte in ihrer Arglist« »Diese« gewissen »Verheißungen habend, reinigen wir uns von aller Unreinigkeit des Fleisches und des Geistes«."
+        },
+        {
+            "id1": "s-182",
+            "text1": "Und an anderer Stelle: »Weil wir diese wahren Ver­heißun­gen haben, reinigen wir uns von aller Unreinheit des Leibes und des Geistes«.",
+            "id2": "s-160",
+            "text2": "Denn verstehe, wie diesem ähnlich auch Paulus sprach im zweiten Sendschreiben an die Korinther: »Denn ich fürchte,  daß wie die Schlange Eva verführte in ihrer Arglist« »Diese« gewissen »Verheißungen habend, reinigen wir uns von aller Unreinigkeit des Fleisches und des Geistes«."
+        },
+        {
+            "id1": "s-183",
+            "text1": "Es gibt aber gewisse Häresien, die den äußeren Menschen nicht aussätzig, den inneren aber verweslich machen an Sinn und Verstand.",
+            "id2": "s-161",
+            "text2": "Denn es sind einige Häresien, welche den äußeren Menschen nicht aussätzig haben, aber  vervveslich an Sinn und Verstand."
+        },
+        {
+            "id1": "s-184",
+            "text1": "Im Leben sehen wir viele als rein und im Glauben als verweslich.",
+            "id2": "s-162",
+            "text2": "Nach dem Leben sehen wir viele rein, durch den Glauben verweslich."
+        },
+        {
+            "id1": "s-185",
+            "text1": "»Und wenn sich auf der Kleidung ein Merkmal des Aussatzes zeigt, auf der härenen oder wergenen Kleidung oder am Kett- oder Schussfaden«: Die fleischlichen Juden sollen uns antworten, wie dieses Gebot bei ihnen erfüllt wird; oder wie bei ihnen die Schrift erfüllt wird, wenn sie im Wortsinne verstanden wird und wie es denn möglich ist, den Aussatz des Kettfadens oder des Schussfadens oder des Leders, also nicht beseelter Dinge zu sehen.",
+            "id2": "s-163,s-164",
+            "text2": "»καὶ ἐν ἱματίῳ ἐὰν γένηται ἐν αὐτῶ̣ ἁφὴ λέπρας, ἐν ἱματίω̣ ἐρεῷ ἢ ἐν ἱματίῳ στιππυΐνῳ ἢ ἐν στήμονι ἢ έν κρόκῃ. « ἀποκρινέσθωσαν ἡμῖν οἱ σάρκινοι Ἰουδαῖοι, πῶς αὕτη παρ᾿ αὐτοῖς ἡ ἐντολὴ  ἢ καὶ πῶς ἀποσῴζεται παρ' αὐτοῖς ἡ γραφὴ κατὰ τὸ ψιλόν, ὥστε δύνασθαι λέπραν στήμονος ἢ δέρματος ἢ κρόκης διορᾶν πραγμάτων ἀψύχων."
+        },
+        {
+            "id1": "s-186",
+            "text1": "Denn diese teilt Gott gleichsam in Vernünftige und Selbstmächtige ein: Wenn aber in Bezug auf den Aussatz, ‚der länger als sieben Tage bleibt‘, aufgetragen ist, ‚dass der Kett- oder Schussfaden und das Kleid vernichtet werden sollen, weil sie sich der Unreinheit nicht entledigthaben‘, dann ist offenbar, dass er hier von Beseeltem spricht und nicht von Unbeseeltem.",
+            "id2": "s-165,s-166,s-167,s-165,s-166,s-167",
+            "text2": "ταῦτα γὰρ ὁ θεὸς ὡς ἐπὶ λογικῶν καὶ αὐτεξουσίων διορίζεται. εἰ γὰρ ὅλως ἐπιμενούσης τῆς λέπρας μετὰ τὸν ἀφορισμὸν τῶν ἑπτὰ ἡμερῶν κελεύεται τὸ ἱμάτιον ἢ ὁ στήμων <ἢ  > κολάζεσθαι ὡς μὴ μεταβαλλόμενον ἀπὸ τῆς ἀκαθαρσίας, δῆλον > ὑπὲρ ζῴων διαλέγεται λογικῶν, καὶ οὐχ ὡς αὐτοὶ νομίζουσιν ἀψύχων. πόσην δὲ καὶ σπουδὴν ἄρα κατ' αὐτοὺς τῶν ἐκεῖ ἀψύχων, κρόκης λέγω καὶ στήμονος, ὁ πνεύματι καὶ λόγῳ δημιουργήσας τὸ πᾶν ἐποιεῖτο νομοθετῶν; ὁπότε κατὰ τὸν ἀπόστολον οὐδὲ περὶ »τῶν  βοῶν μέλει τῷ θεῷ«, ἀλλ' »ἐγράφη« ταῦτα εἰς νουθεσίαν »ἡμῶν«. ταῦτα γὰρ ὁ θεὸς ὡς ἐπὶ λογικῶν καὶ αὐτεξουσίων διορίζεται. εἰ γὰρ ὅλως ἐπιμενούσης τῆς λέπρας μετὰ τὸν ἀφορισμὸν τῶν ἑπτὰ ἡμερῶν κελεύεται τὸ ἱμάτιον ἢ ὁ στήμων <ἢ  > κολάζεσθαι ὡς μὴ μεταβαλλόμενον ἀπὸ τῆς ἀκαθαρσίας, δῆλον > ὑπὲρ ζῴων διαλέγεται λογικῶν, καὶ οὐχ ὡς αὐτοὶ νομίζουσιν ἀψύχων. πόσην δὲ καὶ σπουδὴν ἄρα κατ' αὐτοὺς τῶν ἐκεῖ ἀψύχων, κρόκης λέγω καὶ στήμονος, ὁ πνεύματι καὶ λόγῳ δημιουργήσας τὸ πᾶν ἐποιεῖτο νομοθετῶν; ὁπότε κατὰ τὸν ἀπόστολον οὐδὲ περὶ »τῶν  βοῶν μέλει τῷ θεῷ«, ἀλλ' »ἐγράφη« ταῦτα εἰς νουθεσίαν »ἡμῶν«."
+        },
+        {
+            "id1": "s-187",
+            "text1": "Wohlan nun, lasst uns daran nicht vorübergehen, sondern die »Decke« von unseren Augen nehmen und »die Herrlichkeit Gottes schauen«!",
+            "id2": "s-168",
+            "text2": "Wohlan nun, damit wir nicht vorübergehen, schauen wir habend »die Decke« der Augen die Herrlichkeit Gottes."
+        },
+        {
+            "id1": "s-188",
+            "text1": "Denn das Gesetz enthält nichts Unnützes, wenn es uns zuerst die Gebote für die Sünde des Verstandes und dann für die des Leibes erteilt und dann in der gleichen Reihenfolge auch über das Leder und den Kettfaden spricht: Derjenige aber, der das härene und leinene Gewand rein hält, hält sozusa­gen ‚den Glauben und die Tat‘ rein.",
+            "id2": "s-169,s-170,s-171",
+            "text2": "nichts Unnützes enthält die Schrift. Denn uns Gebote gebend von der Sünde des Verstandes und des Fleisches, redet er der Reihe nach  vom Fell und vom Aufzug und vom Einschlag. Denn wer die Klei-dung von Tucli und Leinwand rein hat, das heißt den Glauben dio Tat . ."
+        },
+        {
+            "id1": "s-189",
+            "text1": "Denn das Kleid ist die Kirche des Herrn, aus vielen Völkern zusammengestellt, gleichsam zusammengeknüpft, damit wir Schwächsten, so wie der Schussfaden, von Größeren gehalten werden.",
+            "id2": "s-172",
+            "text2": "Denn das Kleid des Herrn ist die Kirche, denn von vielen Gegenden hat er nns gesammelt und uns geweht, damit wir Schwächeren  der Einschlag von Größeren gehalten werden."
+        },
+        {
+            "id1": "s-190",
+            "text1": "Daher zeigt auch der Prophet, indem er durch die Worte, dass »er sich wie in Brautschmuck kleidet«, den Bund Christi anspricht, die Vereinigung in Liebe an: denn den Kettfaden nennt er den festen Rang der Kirche, d.h. die Bischöfe und Lehrer, den Schussfaden aber die Unter­ge­be­nen und gehütetenLeute; und das Leder die Katechumenen als solche, die die Lederkleider noch nicht durch die Taufe abgeschüttelt haben.",
+            "id2": "s-173,s-174",
+            "text2": "Daher auch der also sagt: »Er kleidet sich wie in Schmuck der Braut«, zeigend Verbindung Christi und Vereinigung der Liebe spricht er. Denn Aufzug nennt er die kräftigere Ordnung der Kirche, das heißt und Lehrer, Einschlag aber die Untergebenen und das geweidete Volk,  Fell aber die Katechumenen, als die noch nicht abgetan haben die Kleider von Fellen durch die Taufe."
+        },
+        {
+            "id1": "s-191",
+            "text1": "Daher sagt auch Paulus: »Ich habe Euch einem einzigen Mann anvertraut, um Christus eine reine Jungfrau darzubringen«, so wie es auch im Levitikus heißt: »Als Frau soll er eine Jungfrau von seinem Stamm nehmen; eine Witwe aber oder eine Dirne soll er nicht nehmen, sondern eine Jungfrau von seinem Geschlecht« usw.",
+            "id2": "s-175,s-176",
+            "text2": "Daher auch Paulus sagte: »Ich habe euch verbunden Einem Mann eine reine Jungfrau darzustellen Christo«. Wie er auch im Levitikus spricht: »Er soll zum Weib seinem Stamm eine Jungfrau nehmen; eine Witwe aber und eine  Buhlerin nehme er nicht, sondern eine Jungfrau von seinem « usw."
+        },
+        {
+            "id1": "s-192",
+            "text1": "Denn wenn ein jeder von uns »sich von Tag zu Tag erneuert«, dann werden wirden Aussatz, d.h. die Unzucht, abwerfen, die schuld ist an unserer Vertreibung; so wird er sich verjungfräulichen und durch die Weisheit Gottes zur ersten Güte gelangen, gleichsam mit goldenen Fransen geschmückt, d.h. mit Liebe, Glauben, Reinheit und Geduld wird er sich mit Christus vereinigen, nachdem er gereinigt worden ist.",
+            "id2": "s-177,s-178",
+            "text2": "Denn wenn ein jeder von uns »von Tag zu Tag « — indem wir den Aussatz, das heißt die Unzucht abgetan haben, die schuldig sind an unserer Austreibung — , sich verjungfräulicht und ersten Schönheit durch die Weisheit Gottes gelangt, wie mit  Ketten geschmückt, das heißt mit Liebe, Glaube, Reinheit, eint er sich Christo, nachdem er gereinigt worden."
+        },
+        {
+            "id1": "s-193",
+            "text1": "Daher »lieben Dich die Jungfrauen« und er liebt die Jungfrauen, wie es im Hohelied geschrieben ist, die jungen und am Geist reinen Seelen.",
+            "id2": "s-179",
+            "text2": "»Daher lieben die  Jungfrauen dich « und er liebt die Jungfrauen, wie er im schreibt, die jungen und durch den Geist reinen Seelen."
+        },
+        {
+            "id1": "s-194",
+            "text1": "Ist es nicht so, o Sistelius?“",
+            "id2": "s-180",
+            "text2": "— Oder ist dies nicht so, ο Sistelius?"
+        },
+        {
+            "id1": "s-195",
+            "text1": "Und ich antwortete: „Das ist sehr verständig.“ Und sie sprach: „Deshalb ist es so, wie wir anfangs besprochen hatten: Nämlich wenn wir alle unsere Glieder gereinigt haben, werden wir das Kleid Christi sein, wie vom Propheten Jesaja gesagt ist: »Meine Seele soll sich über den Herrn freuen, denn er hat mich in ein Kleid des Heils gekleidet« usw.“",
+            "id2": "s-181,s-182,s-183",
+            "text2": "Und ich sprach: Durchaus ist dies verständig. Und sie sprach: Daher wie wir zuerst sprachen: wenn wir alle Glieder reinigen, werden wir das Kleid Christi. Wie er bei dem Propheten Jesaias spricht: »Es freue sich meine Seele über den Herrn, denn er hat mich gekleidet in ein Kleid des Heils« usw."
+        },
+        {
+            "id1": "s-196",
+            "text1": "7",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-197",
+            "text1": "Eub.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-198",
+            "text1": "Wer aber muss diese denn reinigen?",
+            "id2": "s-184",
+            "text2": "Wer aber nun wird vielmehr diese reinigen?"
+        },
+        {
+            "id1": "s-199",
+            "text1": "Der Prophet Sacharia spricht: »Und Gott zeigte mir Josua, den Erzpriesterwie er vor dem Engel des Herrn stand.",
+            "id2": "s-185,s-186",
+            "text2": "Zacharias, der Prophet, sprechend:  »Und es zeigte mir Gott Jesus, den Hohepriester, stehend vor dem Engel des Herrn. Und der Teufel stand zu seiner Rechten, ihm zu zu widerstehen."
+        },
+        {
+            "id1": "s-200",
+            "text1": "Und der Teufel stand zu seiner Rechten, um ihm zu widersprechen.",
+            "id2": "s-185,s-186",
+            "text2": "Zacharias, der Prophet, sprechend:  »Und es zeigte mir Gott Jesus, den Hohepriester, stehend vor dem Engel des Herrn. Und der Teufel stand zu seiner Rechten, ihm zu zu widerstehen."
+        },
+        {
+            "id1": "s-201",
+            "text1": "Und der Herr sprach zum Teufel: Eine Rüge soll dir, Teufel, der Herr erteilen, der Jerusalem auserwählt hat!",
+            "id2": "s-187",
+            "text2": "Und es sprach der Herr zum Teufel: Es schelte dich, Teufel, der Herr, der Jerusalem erwählt hat."
+        },
+        {
+            "id1": "s-202",
+            "text1": "­– Ist dieser nicht wie ein Feuerbrand, der aus dem Feuer herausgerissen ist?",
+            "id2": "s-188,s-189",
+            "text2": "Ist 003E; dies nicht ein Brand herausgerissen aus dem Feuer? (Und) Jesus war gekleidet in  unreine Kleider."
+        },
+        {
+            "id1": "s-203",
+            "text1": "­–  Josua war in unreine Kleider gekleidet«.",
+            "id2": "s-188,s-189",
+            "text2": "Ist 003E; dies nicht ein Brand herausgerissen aus dem Feuer? (Und) Jesus war gekleidet in  unreine Kleider."
+        },
+        {
+            "id1": "s-204",
+            "text1": "Und kurz darauf: »Und er sprach zu den Engeln, die vor seinem Antlitz standen: Nehmt ihmdie befleckten Kleider ab!« Und kurz darauf: »Und sie hüllten ihn in ein reines Gewand.«",
+            "id2": "s-190,s-191,s-190,s-191",
+            "text2": "« Und bald darauf: »Und er sprach zu den die vor seinem Antlitz standen, nehmt weg von diesem die schmutzigen Kleider«. Und bald darauf: »Und sie kleideten ihn in ein — « Und bald darauf: »Und er sprach zu den die vor seinem Antlitz standen, nehmt weg von diesem die schmutzigen Kleider«. Und bald darauf: »Und sie kleideten ihn in ein —"
+        },
+        {
+            "id1": "s-205",
+            "text1": "Nun musst du verstehen, dass die ‚unreinen Kleider‘ die Menschheit vor dem Glauben symbolisieren.",
+            "id2": "s-192",
+            "text2": "Verstehe nämlich, daß die unreinen Kleider die Menschheit ist vor dem Glauben: und von dem alten Menschen die Menschheit entblößend,  erleuchtete er sie wie die Sonne mit seinem Fleisch."
+        },
+        {
+            "id1": "s-206",
+            "text1": "Und indem dieserden alten Menschen entblößt hat, hat er die Menschheit mit seinem Leib wie eine Sonne erleuchtet.",
+            "id2": "s-192",
+            "text2": "Verstehe nämlich, daß die unreinen Kleider die Menschheit ist vor dem Glauben: und von dem alten Menschen die Menschheit entblößend,  erleuchtete er sie wie die Sonne mit seinem Fleisch."
+        },
+        {
+            "id1": "s-207",
+            "text1": "Beachteaber, dass Gott den Zöllner mit folgenden Worten schalt, als er sagte: »Warum ist dein Bett unrein?",
+            "id2": "s-193",
+            "text2": "Denn forsche du, wie auf diese Weise Gott auch Tyrus schalt sprechend: Warum ist dir das Bett unrein?"
+        },
+        {
+            "id1": "s-208",
+            "text1": "Weil es aus Byssus und ägyptischem Purpur gemacht ist« ­– also nicht aus der »Fülle der göttlichen Weis­hei­ten«, sondern aus der der Ägypti­schen.",
+            "id2": "s-194",
+            "text2": "Von »Byssus« nämlich und ägyptischem »Purpur« war es gemacht, nicht von der »Mannigfaltigkeit der Weisheit Gottes« , sondern von »ägyptischer«; wie jener Gott mißfällig war."
+        },
+        {
+            "id1": "s-209",
+            "text1": "Wie jener Reiche, der sich in Purpur hüllte, Gott missfällig war.",
+            "id2": "s-195,s-196",
+            "text2": "Denn Gott mißfällig war."
+        },
+        {
+            "id1": "s-210",
+            "text1": "Denn er ist Gott damit missfällig, dass er sich mit diesen zeitlichen Dingen schmückt, und nicht mit geistigen und glänzenden Taten.",
+            "id2": "s-197",
+            "text2": "Denn daher ist er Gott mißfällig, weil er sich mit diesen zeitlichen schmückt, aber nicht mit geistlichen und leuchtenden Wie auch jener »Lazarus« sich nicht kümmerte um die äußeren sondern sich vielmehr fleißigte um die der Seele; daher ruhte er  »im Schoß Abrahams«."
+        },
+        {
+            "id1": "s-211",
+            "text1": "Nämlich so wie jener Lazarus sich nicht um Äußeres kümmerte, sondern sich vielmehr um Seelisches bemüh­te.",
+            "id2": "s-197",
+            "text2": "Denn daher ist er Gott mißfällig, weil er sich mit diesen zeitlichen schmückt, aber nicht mit geistlichen und leuchtenden Wie auch jener »Lazarus« sich nicht kümmerte um die äußeren sondern sich vielmehr fleißigte um die der Seele; daher ruhte er  »im Schoß Abrahams«."
+        },
+        {
+            "id1": "s-212",
+            "text1": "Deshalb »ruhte er auch im Schoße Abrahams«.",
+            "id2": "s-197",
+            "text2": "Denn daher ist er Gott mißfällig, weil er sich mit diesen zeitlichen schmückt, aber nicht mit geistlichen und leuchtenden Wie auch jener »Lazarus« sich nicht kümmerte um die äußeren sondern sich vielmehr fleißigte um die der Seele; daher ruhte er  »im Schoß Abrahams«."
+        },
+        {
+            "id1": "s-213",
+            "text1": "Aber auch Hiob werden wir finden, der für seine Leiden und sein Martyrium berühmt war.",
+            "id2": "s-198",
+            "text2": "Wir werden aber nun finden durch Leiden und Marter."
+        },
+        {
+            "id1": "s-214",
+            "text1": "Daher ist auch jener Pharisäer unverrichte­ter Dinge vom Gebet gegangen.",
+            "id2": "s-199",
+            "text2": "Daher nämlich »ging« auch jener »Pharisäer« »hinweg« vom Gebet, ohne vollendet »gerechtfertgt) zu zu sein« ."
+        },
+        {
+            "id1": "s-215",
+            "text1": "Denn er hatte sich über einen ihm gleichen Menschen erhöht.",
+            "id2": "s-200",
+            "text2": "Denn er hatte sich erhöht über einen solchen  Denn es gebührte sich eine gewisse Weise zu haben, entsprechend Lehre Christi, welcher »welche«?"
+        },
+        {
+            "id1": "s-216",
+            "text1": "Es war aber geboten, einen gewissen Sinn zu haben, der der Lehre Christi entspricht, die weder zornig noch hochmütig ist.",
+            "id2": "s-201",
+            "text2": ") weder zornig noch hoffärtig."
+        },
+        {
+            "id1": "s-217",
+            "text1": "Denn wir finden oftmals solche Menschen, die im Überfluss leben und sich in feine Kleider kleiden.",
+            "id2": "s-202",
+            "text2": "Denn wir finden oftmals solche in Schwelgerei lebend und in feine Kleider sich kleidend."
+        },
+        {
+            "id1": "s-218",
+            "text1": "Deshalb sagte Christus, als er über die Reichen sprach: »Es ist leichter, für ein Seildurch das Nadelöhr zu gehen, als für einen Reichen ins Himmelsreich zu gelangen.",
+            "id2": "s-203",
+            "text2": "Daher auch Christus die Reichen meinend sprach: »Es ist leichter, daß ein Seil durch ein Nadelöhr gehe, als daß  in das Himmelreich komme«."
+        },
+        {
+            "id1": "s-219",
+            "text1": "« Es ziemt sich aber vielmehr, den Fremden und Armen Ehre zu erweisen, mit denen sich Christus identifiziert hat.",
+            "id2": "s-204",
+            "text2": "Denn man muß vielmehr die Fremden und Armen ehren, durch welche sich Christus nannte."
+        },
+        {
+            "id1": "s-220",
+            "text1": "Stattdessengehen sie aber zu den überaus Wohlhabenden und ehren diese viel mehr ­– die einen um einer besseren Position willen, die anderen tun das aus irgendwelchen anderen Gründen.",
+            "id2": "s-205",
+            "text2": "An jener Stelle aber zu denen mit vielem Gold übergehend, ehren sie aucli diese viel mehr; denn die einen tun dies der Würden halber, die wegen irgendwelcher anderer Ursachen."
+        },
+        {
+            "id1": "s-221",
+            "text1": "Daher wären wir nicht barmherzig, wenn wir unseren Brüdern das Almosen verweigerten.",
+            "id2": "s-206",
+            "text2": "Daher waren wir nicht barmherzig,  verschließend das Erbarmen gegen unsere Bruderschaft; schämen wir uns der Armut, der Gefährtin der der Besonnenheit."
+        },
+        {
+            "id1": "s-222",
+            "text1": "Daher schämen wir uns der Armut, der Gefährtin des Prophetentums und der Schöpferinder Besonnenheit.",
+            "id2": "s-206",
+            "text2": "Daher waren wir nicht barmherzig,  verschließend das Erbarmen gegen unsere Bruderschaft; schämen wir uns der Armut, der Gefährtin der der Besonnenheit."
+        },
+        {
+            "id1": "s-223",
+            "text1": "O weh!",
+            "id2": "s-207",
+            "text2": "O weh!"
+        },
+        {
+            "id1": "s-224",
+            "text1": "Was gibt uns Anlass, uns über andereMenschen zu stellen, wo uns doch aufgetragen ist, eine Gerechtigkeit zu üben, die besser ist als die der Schriftgelehrten und der Pharisäer, und wo wir doch gemäß dem Befehl, das Zeitliche zu vernachlässigen, durch diese lernen sollen!",
+            "id2": "s-208",
+            "text2": "wodurch übertreffen wir die andern Menschen, da uns befohlen ist, zu haben eine »Gerechtigkeit besser als die der Schriftgelehrten und Pharisäer«, gemäß dem Befehl in  Nichtachtung des Zeitlichen durch diese zu lernen: Wenn auch der Ozean von Silber flösse und die ganze Erde von Gold, würden nicht satt werden."
+        },
+        {
+            "id1": "s-225",
+            "text1": "Selbst wenn ein",
+            "id2": "s-208",
+            "text2": "wodurch übertreffen wir die andern Menschen, da uns befohlen ist, zu haben eine »Gerechtigkeit besser als die der Schriftgelehrten und Pharisäer«, gemäß dem Befehl in  Nichtachtung des Zeitlichen durch diese zu lernen: Wenn auch der Ozean von Silber flösse und die ganze Erde von Gold, würden nicht satt werden."
+        },
+        {
+            "id1": "s-226",
+            "text1": "Ozean voll von Silber flöße und die ganze Erde voll von Gold, würden wir nicht satt werden!",
+            "id2": "s-208",
+            "text2": "wodurch übertreffen wir die andern Menschen, da uns befohlen ist, zu haben eine »Gerechtigkeit besser als die der Schriftgelehrten und Pharisäer«, gemäß dem Befehl in  Nichtachtung des Zeitlichen durch diese zu lernen: Wenn auch der Ozean von Silber flösse und die ganze Erde von Gold, würden nicht satt werden."
+        },
+        {
+            "id1": "s-227",
+            "text1": "Wer von uns liebt eigentlich heute noch aufrichtig seinen Bruder?",
+            "id2": "s-209",
+            "text2": "Wer von uns liebt nun seinen Bruder mit Wahrheit?"
+        },
+        {
+            "id1": "s-228",
+            "text1": "Wer denkt denn nicht Böses von seinem Nächsten?",
+            "id2": "s-210",
+            "text2": "Wer ist, der nicht Böses denkt wider seinen Nächsten?"
+        },
+        {
+            "id1": "s-229",
+            "text1": "Wer neidet denn nicht den Anderen?",
+            "id2": "s-211",
+            "text2": "Wer  den andern?"
+        },
+        {
+            "id1": "s-230",
+            "text1": "Denn dort, wo die Bischöfe ihren Gewinn vermehren, da ist auch unser Schussfadenvon Aussatz befallen.",
+            "id2": "s-212",
+            "text2": "Denn wo die Bischöfe durch AYucher sich nähren , da ist auch unser Aufzug aussätzig, wo die Laien, da der Einschlag."
+        },
+        {
+            "id1": "s-231",
+            "text1": "Dort, wo die Laien sind, da ist auch der Schussfaden [...?].",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-232",
+            "text1": "Denn sie tadelt auch der Heilige Geist: »Müssen denn die Hirten«, sagt er »eher sich selbst weiden?",
+            "id2": "s-213",
+            "text2": "diese schilt auch der heilige Geist: »Müssen sich selbst mehr die Hirten weiden, oder nicht die Schafe?"
+        },
+        {
+            "id1": "s-233",
+            "text1": "Und nicht vielmehr die Schafe?",
+            "id2": "s-214",
+            "text2": "Denn siehe, die Milch esset ihr und mit der Wolle bekleidet ihr euch«."
+        },
+        {
+            "id1": "s-234",
+            "text1": "Seht her, Ihr esst die Milch und kleidet Euch in Wolle...«",
+            "id2": "s-214",
+            "text2": "Denn siehe, die Milch esset ihr und mit der Wolle bekleidet ihr euch«."
+        },
+        {
+            "id1": "s-235",
+            "text1": "Und kurz darauf: »Und Ihr habt mir die Schafe vertrieben!",
+            "id2": "s-215",
+            "text2": "Und bald darauf: »Und ihr   zerstreut meine Schafe, und sie wurden zur Speise allen Tieren«."
+        },
+        {
+            "id1": "s-236",
+            "text1": "Und sie wurden zur Speise für alle anderen Tiere!« Und an anderer Stelle vergleicht der Herr den Reichtum mit den Dornen: Der Herr befahl dem, der gefragt hatte, welches Gebot das höhere sei, sein Vermögen zu verteilen.",
+            "id2": "s-216,s-216",
+            "text2": "Und der Herr wieder verglich den Reichtum den »Dornen« ; der Herr befahl dem, welcher fragte, welches »Gebot das groößere« sei, zu verteilen; der Apostel nennt den Reichtum einen »Fallstrick«  des Todes. Und der Herr wieder verglich den Reichtum den »Dornen« ; der Herr befahl dem, welcher fragte, welches »Gebot das groößere« sei, zu verteilen; der Apostel nennt den Reichtum einen »Fallstrick«  des Todes."
+        },
+        {
+            "id1": "s-237",
+            "text1": "Und der Apostel bezeichnet den Reichtum als einen tödlichen Strick.",
+            "id2": "s-216,s-217",
+            "text2": "Und der Herr wieder verglich den Reichtum den »Dornen« ; der Herr befahl dem, welcher fragte, welches »Gebot das groößere« sei, zu verteilen; der Apostel nennt den Reichtum einen »Fallstrick«  des Todes. Der Herr hat gesprochen: »Liebet eure Feinde«, aber streiten mit den Freunden."
+        },
+        {
+            "id1": "s-238",
+            "text1": "Der Herr sprach: »Liebt Eure Feinde!",
+            "id2": "s-216,s-217",
+            "text2": "Und der Herr wieder verglich den Reichtum den »Dornen« ; der Herr befahl dem, welcher fragte, welches »Gebot das groößere« sei, zu verteilen; der Apostel nennt den Reichtum einen »Fallstrick«  des Todes. Der Herr hat gesprochen: »Liebet eure Feinde«, aber streiten mit den Freunden."
+        },
+        {
+            "id1": "s-239",
+            "text1": "« Wir aber sind selbst Freunden gegenüber feindselig.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-240",
+            "text1": "Es ist aber Sache eines guten Menschen, nicht nur die ihn Liebenden zu lieben, sondern vielmehr die Feindseligen ins Herz zu schließen.",
+            "id2": "s-218",
+            "text2": "Denn eines Guten Sache ist, nicht die uns Liebenden zu lieben, sondern vielmehr die Hassenden dazu zu lieben;"
+        },
+        {
+            "id1": "s-241",
+            "text1": "Der Herr sagte: »Gib einem Jeden, der bittet!",
+            "id2": "s-219",
+            "text2": "der Herr sprach: »Gib einem jeden, der bittet«, aber wir,  bloß sehend, denken auch nicht daran."
+        },
+        {
+            "id1": "s-242",
+            "text1": "« Wir aber denken nicht einmal daran, wenn wir unsere Brüder entblößt sehen!",
+            "id2": "s-219",
+            "text2": "der Herr sprach: »Gib einem jeden, der bittet«, aber wir,  bloß sehend, denken auch nicht daran."
+        },
+        {
+            "id1": "s-243",
+            "text1": "Es ziemt sich aber für uns alle, das Zeitliche zu verachten, erst recht für die Bischöfe!",
+            "id2": "s-220",
+            "text2": "Denn uns allen gebührt  Zeitliche zu verachten, wie vielmehr aber den Bischöfen."
+        },
+        {
+            "id1": "s-244",
+            "text1": "Denn was vermag Gold oder Silber oder Perlen?",
+            "id2": "s-221",
+            "text2": "Denn nützt Gold oder Silber oder Perlen?"
+        },
+        {
+            "id1": "s-245",
+            "text1": "Wann konnten sie etwa Hunger verhindern oder Kindersterblichkeit been­den?",
+            "id2": "s-222",
+            "text2": "Wenn sie doch könnten Hunger hindern oder den Tod eines Kindes einhalten."
+        },
+        {
+            "id1": "s-246",
+            "text1": "Es ist nämlich nichts anderes als Trug, weil es an sich unnütz ist. Denn weil niemand sich selbst auch nur ein Haar hinzuzufügen vermag, bemüht er sich umsonst um diese Dinge.",
+            "id2": "s-223,s-224,s-223,s-224",
+            "text2": "Denn anderes ist dies nichts als Trug, denn für sich ist es unnütz. niemand vermag »ein einziges Haar« sich »hinzuzufügen«, ühmt  sich umsonst über jene Dinge. Denn anderes ist dies nichts als Trug, denn für sich ist es unnütz. niemand vermag »ein einziges Haar« sich »hinzuzufügen«, ühmt  sich umsonst über jene Dinge."
+        },
+        {
+            "id1": "s-247",
+            "text1": "Aber wenn auch die Vögel satt werden, ohne zu säen und zu ernten, und die Blumen so prächtig geboren werden, wo doch niemand Kleidung für sie webt, jedoch weil Gott es so will, ­– wieviel mehr werden wir bekom­men?",
+            "id2": "s-225",
+            "text2": "Wenn aber nun auch »die Vögel, welche nicht säen noch «, satt werden, und »die Blumen«, niemand ihnen ein Kleid webt, gleichwohl, da Gott es will, so geboren werden, — »wieviel mehr wir, denn es weiß der himmlische daß wir dies alles bedürfen«."
+        },
+        {
+            "id1": "s-248",
+            "text1": "Denn der himmlische Vater weiß, dass wir all dieser Dinge bedürfen!",
+            "id2": "s-225",
+            "text2": "Wenn aber nun auch »die Vögel, welche nicht säen noch «, satt werden, und »die Blumen«, niemand ihnen ein Kleid webt, gleichwohl, da Gott es will, so geboren werden, — »wieviel mehr wir, denn es weiß der himmlische daß wir dies alles bedürfen«."
+        },
+        {
+            "id1": "s-249",
+            "text1": "Denn selbst Salomo, der weiser und reicher war als alle Könige, sündigte durch übermäßigen Prunk.",
+            "id2": "s-226",
+            "text2": "Denn auch Salomo, welcher weiser und  reicher war denn alle Könige, versündigte sich durch große Schwelgerei."
+        },
+        {
+            "id1": "s-250",
+            "text1": "Daher lasst uns rechtzeitig erwachen, auf dass auch unsere Herzen nicht durch Fressen und Saufen beschwert werden!",
+            "id2": "s-227",
+            "text2": "»Daher wachen wir, damit nicht unsere Herzen beschwert werden mit Fressen und Saufen."
+        },
+        {
+            "id1": "s-251",
+            "text1": "Denn nun sind wir betrunken von den weltlichen Sorgen, und durch all die Bosheit ist die Liebe ganz und gar verdorrt.",
+            "id2": "s-228",
+            "text2": "« Denn jetzt sind wir trunken die Sorgen der Welt und alle Bosheit und sehr schlafliebend."
+        },
+        {
+            "id1": "s-252",
+            "text1": "Daher zweifeln wir, suchen Streit, lästern mehr noch als die Ungetauften.",
+            "id2": "s-229",
+            "text2": "Daher schwelgen wir, eifern wir, lästern wir, mehr als die Ungetauften."
+        },
+        {
+            "id1": "s-253",
+            "text1": "All diese Sittenverdorbenheithaben wir an uns.",
+            "id2": "s-230",
+            "text2": "diese Untugenden haben wir."
+        },
+        {
+            "id1": "s-254",
+            "text1": "Nun sagt aber der Heilige Geist unseretwegen durch den Propheten Micha, der sprach: »O Wehe, Seele, dass der von der Erde gegangen ist, der sich enthalten hatte!",
+            "id2": "s-231",
+            "text2": "Denn jetzt redet unsertwegen der heilige Geist durch Micha, den Propheten, welcher gesprochen: »O wehe Seele, denn es ist gewichen der sich Enthaltende von der Erde und ein  Bessernder ist unter den Menschen nicht; alle streiten aufs Blut, ein jeder kränkt seinen Bruder; alle bereiten zum Bösen denn um ihn"
+        },
+        {
+            "id1": "s-255",
+            "text1": "Und es gibt keinen mehr unter den Menschen, der den rechten Weg wiese;",
+            "id2": "s-231,s-232",
+            "text2": "Denn jetzt redet unsertwegen der heilige Geist durch Micha, den Propheten, welcher gesprochen: »O wehe Seele, denn es ist gewichen der sich Enthaltende von der Erde und ein  Bessernder ist unter den Menschen nicht; alle streiten aufs Blut, ein jeder kränkt seinen Bruder; alle bereiten zum Bösen denn um ihn denn um ihn allein fleißigen wir uns, zur Erde gebückt wie das  nicht schauen auf den Vater und Schöpfer des Alls."
+        },
+        {
+            "id1": "s-256",
+            "text1": "alle streiten sich bis auf’s Blut, ein jeder kränkt seinen Bruder, alle richten ihre Hände auf das Böse« usw.",
+            "id2": "s-231,s-232",
+            "text2": "Denn jetzt redet unsertwegen der heilige Geist durch Micha, den Propheten, welcher gesprochen: »O wehe Seele, denn es ist gewichen der sich Enthaltende von der Erde und ein  Bessernder ist unter den Menschen nicht; alle streiten aufs Blut, ein jeder kränkt seinen Bruder; alle bereiten zum Bösen denn um ihn denn um ihn allein fleißigen wir uns, zur Erde gebückt wie das  nicht schauen auf den Vater und Schöpfer des Alls."
+        },
+        {
+            "id1": "s-257",
+            "text1": "Sist.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-258",
+            "text1": "Nun hat sich das erfüllt: Zum Gott wurde für uns der Bauch, denn nur um den bemühen wir uns.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-259",
+            "text1": "Indem wir uns wie das Vieh zur Erde bücken, können wir zu dem Vater und Schöpfer aller nicht aufschauen.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-260",
+            "text1": "Es ist nämlich wahrlich schwierig, heute jemanden zu finden, der nach dem Vorbild des Gottessohnes geformt ist ­– mit Geduld und Demut und Liebe und den übrigen Tugenden ­– und also einen, der sich nach dem Ausgang aus dieser Welt sehnt, und daher mit Sanftmut belehrt und bestraft, einen, der durch seinen Leib auf der Erde sichtbar ist, mit dem Geiste jedoch im Himmel weilt und sich durch heilige Erkenntnisnährt ­– ein Solcher soll nämlich der wahre Hirte und Lehrer sein!",
+            "id2": "s-233,s-234,s-235",
+            "text2": "In Wahrheit ist jetzt schwer einen zu finden, der gebildet ist durch den Sohn Gottes mit Geduld und Demut und Liebe und den übrigen (Tugenden) und nach dem Ausgang (»aus« oder »Ende«?) dieser Welt dürstend, Sanftmut lehrend und überführend, geschaut auf der Erde nach dem  Leib, aber mit dem Geist im Himmel seiend und sich nährend   heiligen Erkenntnissen. Denn ein solcher muß sein der wahre und Lehrer."
+        },
+        {
+            "id1": "s-261",
+            "text1": "Eub.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-262",
+            "text1": "»Was schaust Du denn auf den Holzsplitter im Auge deines Bruders, erkennst aber den Balken in Deinem eingenen Auge nicht?!«",
+            "id2": "s-236",
+            "text2": "Denn »was schaust du auf den Splitter, welcher ist in deines Bruders Auge, aber den in deinem Auge seienden Balken erkennst du nicht?"
+        },
+        {
+            "id1": "s-262b",
+            "text1": "Es ist nämlich geboten, zuerst sich selbst auf den rechten Weg zu bringen und daraufhin seinen Nächsten.",
+            "id2": "s-237",
+            "text2": "« Denn das Erste muß sein sich selbst zu  rechtzubringen) und darnach seinen Nächsten."
+        },
+        {
+            "id1": "s-263",
+            "text1": "Denn was für einen Nutzen hat das Wort, wenn keine Taten folgen?",
+            "id2": "s-238",
+            "text2": "Denn was für ein Nutzen ist am Wort, wenn keine Taten werden?"
+        },
+        {
+            "id1": "s-264",
+            "text1": "Denn es heißt: »Arzt, heile Dich selbst!«",
+            "id2": "s-239",
+            "text2": "Denn sagt er: »Arzt, hilf dir selbst«."
+        },
+        {
+            "id1": "s-265",
+            "text1": "SisT.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-266",
+            "text1": "Aber an anderer Stelle sagt er doch, dass er möchte, dass wir andere tadeln: »Wenn Dein Bruder sündigt, dann weise ihn zurecht!«",
+            "id2": "s-240,s-241",
+            "text2": "Wie er will, daß wir überführen, sagte er aber (»ein anderes«? ): anderes«?) :"
+        },
+        {
+            "id1": "s-267",
+            "text1": "Eub.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-268",
+            "text1": "Gemeint ist derjenige, der Buße tut ­– diesen befielt er, aufzunehmen und als Bruder anzu­se­hen.",
+            "id2": "s-242",
+            "text2": "»Wenn sündigt dein Bruder, Tuenden befiehlt er anzunehmen und für einen Bruder zu halten."
+        },
+        {
+            "id1": "s-269",
+            "text1": "Für den Tadelnden gehört es sich dagegen, selbst völlig tadellos zu sein.",
+            "id2": "s-243",
+            "text2": "Aber  der Überführende muB überall ohne Tadel sein."
+        },
+        {
+            "id1": "s-270",
+            "text1": "Daher, Mensch, schreite erst zur Bestrafung anderer über, nachdem Du dich selbst eingehend geprüft und das Deinige erkannt hast!",
+            "id2": "s-244",
+            "text2": "Daher nachdem du dich zuvor geprüft, ο Mensch, und du in betreff des deinen erkannt hast, gehe über zur Strafe Überführung) der andern."
+        }
+    ]
+}

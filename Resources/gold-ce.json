@@ -1,0 +1,1454 @@
+{
+    "version1": "xmlfiles/delepra/delepra-bo.xml",
+    "version2": "xmlfiles/delepra/cte-diplo.xml",
+    "method": "Gold standard",
+    "script": "makegold.py",
+    "sentences": [
+        {
+            "id1": "s-1",
+            "text1": "Von wo, o Eubulius?",
+            "id2": "s-3",
+            "text2": "Ѿкѫдѹ , ѡ҇҆ є҆вⸯвѹлїе́ ."
+        },
+        {
+            "id1": "s-2",
+            "text1": "Nicht offenbar von der Jagd nach der Eigenart des Verständnisses der göttlichen Schrift?",
+            "id2": "s-3b,s-4",
+            "text2": "не ꙗ҆вѣ ли ꙗ҆ко ѿ пѹти ловѧ . по ѡ҆со́биѫ разѹмѣ-нїа бжтвеныиⷯ книгъ ."
+        },
+        {
+            "id1": "s-3",
+            "text1": "In der Frühe nämlich klopfte jemand von denen des Sistelius an die Tür, und als ihm ein Knabe öffnete, meldete er, Sistelius rufe zu sieh.",
+            "id2": "s-5,s-6",
+            "text2": "заѹ҆тра бо ,  нѣкто въ двери ѹ҆-дари , и҆ є҆лмаже ѹ҆бо ѿврьзе є҆мꙋ ѿрѡ  , и҆ повѣдаⷨ ꙵ, ꙗ систелїѫ звати ны к се-бѣ . и҆ въставъ тѹ а҆бїе пои҆дѡⷯ ."
+        },
+        {
+            "id1": "s-4",
+            "text1": "Und nachdem ich aufgestanden, ging ich sofort.",
+            "id2": "s-5,s-6",
+            "text2": "заѹ҆тра бо ,  нѣкто въ двери ѹ҆-дари , и҆ є҆лмаже ѹ҆бо ѿврьзе є҆мꙋ ѿрѡ  , и҆ повѣдаⷨ ꙵ, ꙗ систелїѫ звати ны к се-бѣ . и҆ въставъ тѹ а҆бїе пои҆дѡⷯ ."
+        },
+        {
+            "id1": "s-5",
+            "text1": "Und als wir nahe der Wohnung waren, kam mir Sistelius entgegen, umarmte mich und sprach: Zeitweilig von uns gegangen, hast du uns des Verständnisses  der Schrift beraubt.",
+            "id2": "s-7,s-8,s-9,s-10,s-11,s-12,s-13,s-14,s-15,s-16",
+            "text2": "и҆ кде быхѡⷨ близъ двора срѣтъ мѧ , систе-лїи и҆ ѡ҆бѹꙗ҆въ ре́че . временьнѣ насъ . ѡ҆блихова ны книжныиⷯ ра-зѹмъ . ꙗ҆коже бо и҆ ѡ҆блакъ нашедъ на солнце , не дасть ꙗ҆сно сл́ънца ви-дѣти . тако и҆ доброⷷ показанїе ,  ѿдалитсѧ . темна бываю дш҃а . и҆ ѹ҆мъ ѡ҆мраченъ . и҆ ѿрѣхъ є҆мѹ . до́-брѣ и҆звѣща . и҆ влѣзше въ хлѣви-нѹ сѣдохомъ ."
+        },
+        {
+            "id1": "s-6",
+            "text1": "Denn wie eine Wolke, welche die Sonne überzogen, nicht deutlich die Sonne zu sehen gestattet, so auch, wo die gute Unterweisung sich entfernt, werden die Seele dunkel und der Sinn verfinstert.",
+            "id2": "s-7,s-8,s-9,s-10,s-11,s-12,s-13,s-14,s-15,s-16",
+            "text2": "и҆ кде быхѡⷨ близъ двора срѣтъ мѧ , систе-лїи и҆ ѡ҆бѹꙗ҆въ ре́че . временьнѣ насъ . ѡ҆блихова ны книжныиⷯ ра-зѹмъ . ꙗ҆коже бо и҆ ѡ҆блакъ нашедъ на солнце , не дасть ꙗ҆сно сл́ънца ви-дѣти . тако и҆ доброⷷ показанїе ,  ѿдалитсѧ . темна бываю дш҃а . и҆ ѹ҆мъ ѡ҆мраченъ . и҆ ѿрѣхъ є҆мѹ . до́-брѣ и҆звѣща . и҆ влѣзше въ хлѣви-нѹ сѣдохомъ ."
+        },
+        {
+            "id1": "s-7",
+            "text1": "— Und ich antwortete ihm: Gut hast du gesagt (»benachrichtigt«?).",
+            "id2": "s-17,s-18,s-19,s-20,s-21,s-22,s-23",
+            "text2": "и҆ систелїи . се ѹ҆бо ѿ и҆стины самоѧ посмотримъ ре́че книгъ . былиє҆мъ з҄лоє се ѿженемь  прокаженїе . словесы ꙗ҆ко и҆ врачьбами  врѣдъ . въстани гл҃юще  спѧи . и҆ въстани ѿ мр҃твыиⷯ . и҆ про-свѣтить тѧ х҃с ."
+        },
+        {
+            "id1": "s-9",
+            "text1": "Und nachdem wir ins Haus gegangen, setzten wir uns.",
+            "id2": "s-17,s-18,s-19,s-20,s-21,s-22,s-23",
+            "text2": "и҆ систелїи . се ѹ҆бо ѿ и҆стины самоѧ посмотримъ ре́че книгъ . былиє҆мъ з҄лоє се ѿженемь  прокаженїе . словесы ꙗ҆ко и҆ врачьбами  врѣдъ . въстани гл҃юще  спѧи . и҆ въстани ѿ мр҃твыиⷯ . и҆ про-свѣтить тѧ х҃с ."
+        },
+        {
+            "id1": "s-10",
+            "text1": "Und Sistelius sprach: Wohlan nun, sehen wir aus der Schrift der Wahrheit selbst!",
+            "id2": "s-24",
+            "text2": "се же ѹ҆бо врѣмѧ глашенїю твоє҆мѹ ре́че ."
+        },
+        {
+            "id1": "s-11",
+            "text1": "Durch ein Heilkraut tun wir ab diesen schlimmen Aussatz, mit Worten wie mit Medicamenten stillend den Schaden, sprechend: »Stehe auf, der du schlafest, und stehe auf von den Toten, und es wird  Christus dich erleuchten«.",
+            "id2": "s-24",
+            "text2": "се же ѹ҆бо врѣмѧ глашенїю твоє҆мѹ ре́че ."
+        },
+        {
+            "id1": "s-12",
+            "text1": "Wohlan, nun ist Zeit, sagte er, deine Stimme  zu vorlautbaren, nämlich Erklärung gobend von dem Aussatz, der im Gesetz ist, indem der Herr befiehlt, vieles im Gesetz allegorisch zu deuten, . .",
+            "id2": "s-25,s-26,s-27,s-28,s-29,s-30",
+            "text2": "и҆ди же ѹ҆бо   . ѡ҆ сꙋщии́мъ в законѣ прока-женїи . господѹ много подобновати . велѧщꙋ в законѣ . независтьноє дарованїе . ѡ҆бьще-ствовати жажꙋщемѹ, бж҃їа даро-ванїа ."
+        },
+        {
+            "id1": "s-13",
+            "text1": "eine neidlose Gabe mitzuteilen dem nach der Gabe Gottes Dürstenden.",
+            "id2": "s-25,s-26,s-27,s-28,s-29,s-30",
+            "text2": "и҆ди же ѹ҆бо   . ѡ҆ сꙋщии́мъ в законѣ прока-женїи . господѹ много подобновати . велѧщꙋ в законѣ . независтьноє дарованїе . ѡ҆бьще-ствовати жажꙋщемѹ, бж҃їа даро-ванїа ."
+        },
+        {
+            "id1": "s-14",
+            "text1": "Eubulius.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-14b",
+            "text1": "Gleichwohl meine niclit, daß ich den, Gnadengabe zu empfangen wünscht, zurückweisen werde, wenn ich auch schwach bin in Tat und Wort; der aber, der die Worte (Gedanken (?) in die Seele eines jeden von uns pflanzt, der wird die bösen Wurzeln herausziehen aus unseren Herzen und einpflanzen alle Tugenden in  unsere Seelen.",
+            "id2": "s-31,s-32,s-33,s-34,s-35",
+            "text2": "Обаче ѹ҆бо не мни ѿметати ми хотѧщаа҆го полѹчити сего бл҃го-дарьства . а҆ще и҆ немощенъ є҆смь и҆ дѣломъ и҆ словесемь . насаждаѧи҆  ѹ҆бо словеса . въ коє҆гождо на дш҃и  и҆мать зл҄аѧ и҆змыкати коренїа ѿ нашиⷯ срцⷣь . и҆ всади всѧ бл҃го́нра-вїа въ дш҃а наша ."
+        },
+        {
+            "id1": "s-16",
+            "text1": "Denn wenn verdorrt das nesselartige Unkraut, dann üht auf die Blume der Tugend.",
+            "id2": "s-36,s-37",
+            "text2": "є҆гда бо ѹ҆схнеть  былїе . тогаⷣ  блг҃онравїа цвѣтъ ."
+        },
+        {
+            "id1": "s-17",
+            "text1": "Was nun auch Christus allegorisierend dem »Samen des Senfkorns« vergleicht, sagend, daß großen Bestand den Vögeln",
+            "id2": "s-38,s-39,s-40",
+            "text2": "є҆-же ѹ҆бо і҆ х҃с и҆нако бесѣдьствѹѧ . го-рьшнемѹ сълажає҆ть сѣмени . вели-ко гл҃аныи҆мъ съставленїе приносити ."
+        },
+        {
+            "id1": "s-18",
+            "text1": "des Himmels bringe.",
+            "id2": "s-38,s-39,s-40",
+            "text2": "є҆-же ѹ҆бо і҆ х҃с и҆нако бесѣдьствѹѧ . го-рьшнемѹ сълажає҆ть сѣмени . вели-ко гл҃аныи҆мъ съставленїе приносити ."
+        },
+        {
+            "id1": "s-19",
+            "text1": "Denn es wird zuerst herabsteigend zu unseren Schwachheiten der göttliche Same des  Glaubens klein; wenn er einmal in die Furchen der Seele fällt, wächst er heran zur Größe, er schreitet vorwärts zur Höhe der durch das Nachsinnen des Geistes.",
+            "id2": "s-41,s-42,s-43,s-44,s-45,s-46",
+            "text2": "ѹ҆малѧє҆ть бо сѧ к нашимъ немощеⷨъ сходѧ . бжтве́ноє вѣры сѣмѧ сперъ-ва . є҆да нѣкогда в дш҃евныѧ впадъ бразды . въ величество възрⷣастеть . на высость бл҃гочестїа прои҆деть . съ-мышленїемь ѹ҆мно́мь ."
+        },
+        {
+            "id1": "s-20",
+            "text1": "Und mit Recht nennt der Herr als den Pflanzer einer solchen Pflanzung seinen Vater, denn »eine jede Pflanze«, spricht er, »die nicht mein Vater gepflanzt hat, wird  werden«.",
+            "id2": "s-47,s-48,s-49",
+            "text2": "и҆ пои҆стинѣ сицего сажденїа г҃ь ѡ҆ц҃а своє҆го садите-лѧ наре́четь . весь бо садъ ре́че . є҆гѡⷤ не всади ѡ҆ц҃ь мои , и҆скоренитсѧ ."
+        },
+        {
+            "id1": "s-21",
+            "text1": "Denn verstehe, daß nicht wegen der Seelen, wie einige meinten, er redet, sondern von der rechten Lehre und von gottesfürchtigen Gedanken (Worten), welche in unsere Herzen der fleißige Pflanzer eingepflanzt hat, ausreutend die ungehórige Pflanzung aus unseren Herzen, d.h. die bösen  und Taten.",
+            "id2": "s-50,s-51,s-52,s-53,s-54,s-55",
+            "text2": "ра-зꙋмѣи бо ꙗ҆ко не мно́голичїа дш҃евъ-наа҆го дѣлѧ . ꙗ҆коже мнѣша нѣцїи творить слово , н҄о ѡ҆ ѹ҆ченїи правѣе҆-мь . и҆ ѡ҆ словесѣⷯ бг҃о́честнѣⷯ . ꙗ҆же садити неви́домѣ створи , въ срⷣциⷯ нашиⷯ , прилежныи садитель . и҆-скоренѧа , непѡⷣбⷪноє ѿ нашиⷯ саже-нїе срⷣць . ре́кше злыѧ помыслы и҆ дѣ-ла ."
+        },
+        {
+            "id1": "s-24",
+            "text1": "Denn wenn wir nicht so glauben, werden wir -Nachfolger des sehr gesetzlosen Markion, welcher sagt, daß ein anderer guter des wirklichen Gottes sei, und deshalb könnten die Seelen Weltschöpfers das verheißene Leben des Guten nicht empfangen, seien entbehrend der Pflanzung des Guten.",
+            "id2": "s-56,s-57,s-58b,s-58,s-59,s-60",
+            "text2": "а҆ще бо не сице вѣрѫєⷨ . послѣⷣници бѹдемь мно́го безаконномѹ ма-ркиѡ҆нѹ , и҆номѹ благѹ . и҆ сего дѣ-лѧ не мощи приꙗ҆ти мирьскаа҆го творца дш҃амъ . паче сѹ-ща́аго  быти б҃а проповѣдомоє  житїе . ѡ҆блихованомъ быти бл҃гаа҆го сажⷣенїа ."
+        },
+        {
+            "id1": "s-25",
+            "text1": "Dieses wollen wir aber  jetzt nicht beachten, denn es ist nicht für diese Verhandlung die Zeit.",
+            "id2": "s-61,s-62",
+            "text2": "и҆ ѹ҆бо сиⷯ да небрѣже-мъ нн҃ѣ . не бо симъ є҆сть словесемъ врѣмѧ ."
+        },
+        {
+            "id1": "s-26",
+            "text1": "Denn du sagst mit Recht, daß mau nicht zögern und, indem nun von Gott das geistige Besitztum bereitet wird, man haben soll kräftige Früchte der Weisheit nach dem Worte des Apostels, welcher spricht: »Wir sind Gottes Ackerfeld«.",
+            "id2": "s-63,s-64,s-65,s-66,s-67,s-63,s-64,s-65,s-66,s-67",
+            "text2": "Небрѣщи пои҆стинѣ бо гла-голеши . и҆ ѹ҆бо словесномѹ и҆мѣнїю ѿ б҃а дѣлаю҆щѹсѧ . и҆мѣти лѣпо крѣ-пкыѧ мѹдрости плоды . по а҆пль-скомѹ словеси гл҃ющемѹ . бж҃їе є҆смь  . Небрѣщи пои҆стинѣ бо гла-голеши . и҆ ѹ҆бо словесномѹ и҆мѣнїю ѿ б҃а дѣлаю҆щѹсѧ . и҆мѣти лѣпо крѣ-пкыѧ мѹдрости плоды . по а҆пль-скомѹ словеси гл҃ющемѹ . бж҃їе є҆смь  ."
+        },
+        {
+            "id1": "s-27",
+            "text1": "Denn es  gebührt uns, damit nicht die Krankheit sich mehre und allen offenbar werde, durch die Gesänge des Evangeliums »zu heilen«, und zu sehen, »ob jemand ist, der entbelirt der Gnade Gottes, ob wo eine Wurzel heraufwachsend schadet und viele befleckt werden«, spricht an Juden schreibend der Apostel.",
+            "id2": "s-68,s-69,s-70,s-71,s-72,s-73,s-74,s-75,s-76",
+            "text2": "лѣпо бо є намъ . да же не расплодитсѧ недѹгъ . и҆ ꙗ҆ви всѣмъ є҆ѵа҆льскыи҆ми цѣлити пѣ-сньми . и҆ смотрити . є҆гда є кто ли-хъ бж҃їа бл҃годѣти . є҆да кде корѧ го-рѣ никны . пакостѹє҆ть . и҆ ѡ҆скве-рнѧтьсѧ мн́оѕи . ре́че к жидомъ пи-ша а҆плъ ."
+        },
+        {
+            "id1": "s-28",
+            "text1": "Und das Gesetz aber lehrt uns also: »Und es redete der Herr zu Mose und Aaron und sprach: Wenn einem Menschen auf der Haut ein Zeichen des Aussatzes sein wird, so soll er kommen zu Aaron dem Priester oder zu einem von seinen Söhnen.",
+            "id2": "s-77,s-78,s-79,s-80",
+            "text2": "и҆ законъ же ны ѹ҆чи гл҃ѧ ;  гл҃а мѡ̀ѷсїю г҃ь и҆ а҆ро́нѹ . и҆ ре́че , чл҃кꙋ а҆ще бѹдеть на кожи ѡ҆бразъ прока-женїа . и҆ приде ко а҆ронѹ жрьцѹ . и҆лѝ къ є҆диномѹ ѿ сн҃о́въ є҆го ."
+        },
+        {
+            "id1": "s-29",
+            "text1": "Und es wird sehen Priester den Aussatz auf seiner Haut, ein Zeichen des Aussatzes ist es;  und wenn offenbar, daß der Aussatz sein wird auf der Haut Fleisches«.",
+            "id2": "s-81,s-82,s-83",
+            "text2": "и҆ ѹ҆зрить   жрець прокаженїе накажи є҆го . врѣ-дьноє знаменїе . и҆ли ꙗ҆вѣ да бѹдеть прокаженїе на кожи плоти є҆го ."
+        },
+        {
+            "id1": "s-30",
+            "text1": "Und bald darauf: »Und es wird sehen der Priester den Aussatz am siebenten Tag; und siehe nun, der Aussatz bleibt vor ihm, nicht hat sich verändert der Aussatz in der Haut, und es soll ihn aussondern der Priester sieben Tage zum zweiten Mal.",
+            "id2": "s-84,s-85,s-86,s-87,s-88,s-89,s-90,s-91",
+            "text2": "и҆ по-малѣ . и҆ види жрець . прокаженїе . в седмыи дн҃ь . и҆ се ѹ҆бо прокаженїе пребыває҆ть , противѹ . не премѣ-нисѧ прокаженїе в кожи . и҆ ѿлѹчить . и҆ жрець седмь д҃нїи , второє ."
+        },
+        {
+            "id1": "s-31",
+            "text1": "Und es soll ihn  der Priester sehen am siebenten Tag zum zweiten Mal, und siehe ist gleich der Aussatz, er hat sich nicht verändert, und es reinigt der Priester, denn ein Zeichen ist es; und es soll dieser seine Kleider waschen«.",
+            "id2": "s-92,s-93,s-94,s-95,s-96",
+            "text2": "и҆ се то-кмо прокаженїе . не прѣменисѧ . и҆  и жрець . назнаменанїе бо є . и҆ и҆спере́ть си ризы ."
+        },
+        {
+            "id1": "s-32",
+            "text1": "Und bald darauf: »Und wenn im Kleid sein wird ein Empfangen des Aussatzes, in einem wollenen Kleid oder leinenen oder  in jedem bearbeiteten Fell und es wird der Aussatz scharlachrot oder grün«; ferner in dem Folgenden",
+            "id2": "s-97,s-98,s-99,s-100,s-101",
+            "text2": "и҆ помалѣ ; І в ризѣ а҆ще бѹдеть приꙗ҆тїе прокаже-нїа . в ризѣ вл́ъненѣ , и҆лѝ лненѣ . и҆-ли въ всѧкои дѣлнѣи кожи . и бѹ-де прокаженїе чрьвьно . и҆ли зелено ."
+        },
+        {
+            "id1": "s-33",
+            "text1": "wenig gesagt habend tadelst du.",
+            "id2": "s-102,s-103,s-104",
+            "text2": "таче въ пр́очиихъ мало ре́къ . попрѣ-тиши нъ ѹ҆бо ѡ систелїе . и҆стовоє ре́кше законноє само бесѣдовати ."
+        },
+        {
+            "id1": "s-34",
+            "text1": "Aber nun, o Sistelius, ist das Wahrhafte selbst, nämlich des Gesetzes, auszusagen.",
+            "id2": "s-102,s-103,s-104",
+            "text2": "таче въ пр́очиихъ мало ре́къ . попрѣ-тиши нъ ѹ҆бо ѡ систелїе . и҆стовоє ре́кше законноє само бесѣдовати ."
+        },
+        {
+            "id1": "s-35",
+            "text1": "Wollen wir aber nun uns daran machon, geistlich diese Verständnisse zu zeigen, damit wir nicht einfach, sondern geistig die Schrift des Gesetzes verstehen.",
+            "id2": "s-105,s-106",
+            "text2": "и҆мѣмъ же сѧ ѹ҆бо дх҃о́внѣ разѹмѣ-ванїа си сказати . да не простѣ н҄ѡ  разѹмѣє҆мь писанїе за-ко́нноє ."
+        },
+        {
+            "id1": "s-36",
+            "text1": "Wieder aber nun vorwärtsschreitend ia der Verhandlung fügt er hinzu:",
+            "id2": "s-107,s-108,s-109,s-110,s-111,s-112,s-113,s-114",
+            "text2": "пакы же ѹ҆бо проходѧ въ   словеси прилагає҆ть ; А҆ще же ѹ҆бо   по ѿнѧтїи , покано жрь-цѹ . в ризѣ прокаженїе , и҆ли в кожи . и҆ли въ синѣ . и҆ли въ ѹ҆тъцѣ прока-женїе . прѣбыточно є прокаженїе . нечистъ є и҆ съжьжеть ризѹ , и҆ли си-нъ . и҆ли ѹ҆токъ , и҆ прочаѧ . се же ҆бо ѡ҆ прокажени в законѣ сказанїе  ."
+        },
+        {
+            "id1": "s-37",
+            "text1": "»Wenn aber nun sich verbreitet« nach dem Wegnehmen der Priester gezeigte »Aussatz an dem Kleid oder am Fell oder am Aufzug oder am Einschlag, so ist ein bleibender Aussatz der Aussatz, er ist unrein, und er soll verbrennen das Kleid oder den Aufzug oder den Einschlag« usw.",
+            "id2": "s-107,s-108,s-109,s-110,s-111,s-112,s-113,s-114",
+            "text2": "пакы же ѹ҆бо проходѧ въ   словеси прилагає҆ть ; А҆ще же ѹ҆бо   по ѿнѧтїи , покано жрь-цѹ . в ризѣ прокаженїе , и҆ли в кожи . и҆ли въ синѣ . и҆ли въ ѹ҆тъцѣ прока-женїе . прѣбыточно є прокаженїе . нечистъ є и҆ съжьжеть ризѹ , и҆ли си-нъ . и҆ли ѹ҆токъ , и҆ прочаѧ . се же ҆бо ѡ҆ прокажени в законѣ сказанїе  ."
+        },
+        {
+            "id1": "s-38",
+            "text1": "Dies aber nun ist vom Aussatz im Gesetz die Erklärung.",
+            "id2": "s-107,s-108,s-109,s-110,s-111,s-112,s-113,s-114",
+            "text2": "пакы же ѹ҆бо проходѧ въ   словеси прилагає҆ть ; А҆ще же ѹ҆бо   по ѿнѧтїи , покано жрь-цѹ . в ризѣ прокаженїе , и҆ли в кожи . и҆ли въ синѣ . и҆ли въ ѹ҆тъцѣ прока-женїе . прѣбыточно є прокаженїе . нечистъ є и҆ съжьжеть ризѹ , и҆ли си-нъ . и҆ли ѹ҆токъ , и҆ прочаѧ . се же ҆бо ѡ҆ прокажени в законѣ сказанїе  ."
+        },
+        {
+            "id1": "s-39",
+            "text1": "Denn ich meinerseits meine, als gewisse Hüllen und Schatten hätte Prophet diese Worte gebraucht, indem Gott uns so nun wollte zum Licht der Wahrheit führen.",
+            "id2": "s-115,s-116,s-117,s-118",
+            "text2": "мню бо а҆зъ ꙗ҆ко и҆ покровы нѣкыми . и҆ с тѣнми пррка . сими трѣбовати словесы . сице ѹ҆бо хотѧщѹ ны бѹ҃ на и҆стинныи привести свѣтъ ."
+        },
+        {
+            "id1": "s-40",
+            "text1": "Deshalb, meine ich auch, habe der selige Paulus gesprochen: »Wenn aber auch verborgen ist unser Evangelium, aber  unter den verloren Gegangenen ist es verborgen, in welchen der Gott dieser Welt verfinstert hat die Sinne der Ungläubigen, daß scheine in ihnen das Licht des Evangeliums der Herrlichkeit Christi, welcher ist das Bild des Unsichtbaren«, indem er deutlich sagt, den Glaubenden und »gerettet Werdenden« enthüllt ist das Evangelium,  »den verloren Gehenden« aber »verborgen ist«, wie von außen Klammern befestigt.",
+            "id2": "s-119,s-120,s-121,s-122,s-123,s-124,s-125,s-126,s-127",
+            "text2": "сего дѣлѧ мню и҆ бл҃женомꙋ павлꙋ гл҃ати . а҆ще же є и҆ покро́вено єѵа́лїе  наше . н҄о вⸯ погыбшиихъ є покрове-но . в нихже б҃ъ вѣка сего ѡ҆слѣпи ра-зѹмы невѣрныиⷯ . ꙗ҆коже не въси-ꙗ҆ти в ниⷯ свѣтѹ , є҆ѵа́лїа славы хв҃ы  є ѡ҆бразъ невидимаа҆го . ꙗ҆вѣ  ꙗ҆коже вѣрѹю҆щиимъ и҆ сп҃саю҆щии҆мъсѧ . наго є є҆ѵа́лїє . же покровено є . ꙗко  и҆ мѣдѧны и҆звьнѹ ѹ҆тве́ржено ско-бами ."
+        },
+        {
+            "id1": "s-41",
+            "text1": "Denn der äußerlich die Schrift Verstehende geht hinweg bar des geistigen Verständnisses, wie einer der leere von Steinen errichtet gesehen.",
+            "id2": "s-128,s-129,s-130",
+            "text2": "и҆звьнѹ бо разѹмѣваѧ кни-гы . тощь ѿходить дх҃овнаго разꙋ-ма . ꙗ҆ко и҆ стѣны тъща каменїемь създаны видѣвъ ."
+        },
+        {
+            "id1": "s-42",
+            "text1": "Der aber welcher kräftig der zerrissen den geistigen Vorhang, nachdem er durch den Geist  Gottes beflügelt wie ein Vogel emporflog, gelangte er in das Verständnis der Schrift, welches ist das Ailerheiligste; und gelangt großem Licht, wird er genährt von den BHtzen der wahren Schönheit.",
+            "id2": "s-131,s-132,s-133,s-134,s-135,s-137,s-138",
+            "text2": "Оу҆даривыи же рамѧнѣ . и҆ разрⷣавъ же прѣпонѹ  . бж҃їи́мь дх҃о́мь впери-въсѧ . ꙗ҆ко и҆ птица в лѣтѣ . въ ѹ҆-тренїи книгъ разѹмъ дои҆де . и҆ дошедъ свѣта великаа питає҆тсѧ . доброты и҆стинныѧ мълниꙗ҆ми ."
+        },
+        {
+            "id1": "s-43",
+            "text1": "Denn wie die Bäume des Winters entblößt werden von dem Schmuck  der Früchte, im Frühling aber wieder Blätter wieder gewinnen, — so meine ich, daß auch die Worte einfach verstanden, wie dürr erscheinen ohne Sinn, mit Weisheit verstanden, mit guten Früchten und Blättern geschaut  Verstandes Blüten habend.",
+            "id2": "s-139,s-140,s-141,s-142,s-143,s-144,s-145,s-146,s-147",
+            "text2": "ꙗ҆коже бо и҆ дрѣвеса зимѣ , ѡ҆бнажаю҆тсѧ красоты плѡ́дьныѧ . веснѣ же пакы листве-нѣю҆ща свою приє҆млють лѣпотꙋ . тако мню и҆ пррчьскыимь словесеъⷨ . простѣ разѹмѣє҆момъ . ꙗ҆ко и҆ сꙋхоъⷨ  не смысеныимъ . с мѹ-дростїю же разѹмѣє҆момъ . бл҃го-плодⸯьномь и҆ лиственомь сѧ ви́дѣ-ти . цѣлоѹ҆мна многоличнаа҆го . и҆-мѹщемъ цвѣты ;"
+        },
+        {
+            "id1": "s-44",
+            "text1": "Daher auch wir, uns entschlageud einfach zu verstehen, wollen geistig sorgfältig die Schriften verstehen, ο Sistelius!",
+            "id2": "s-147b",
+            "text2": "Тѣмже и҆ мы   ѿрекшесѧ простѣ разѹмѣвати ."
+        },
+        {
+            "id1": "s-45",
+            "text1": "Wir sagen aber nun, indem Christus uns unterweist: Τέσσαρα διαλλάσσοντα ταῖς χροαῖς εἴδη λέπρας ὁ μέγας νομοθέτης, ἀπὸ τῆς  αὐτῆς ἐξανθοῦντα ἡμῖν μητρός, φυλάσσεσθαί τε καὶ φεύγειν διδάσκει· λευκαῖνον, γλαυκαῖνον, χλωρίζον καὶ πυρρίζον.",
+            "id2": "s-149,s-150,s-151,s-152,s-153",
+            "text2": "Гл҃емъ же ѹ҆бо хѹ҃ наставлѧю҆щю ны . четырь наъⷨ ѹ҆бѣгати прркъ ѹ҆стави прокаже-нїи , различны сѹще . бѣла и҆ желта . зелена . и҆ черъвлена ."
+        },
+        {
+            "id1": "s-46",
+            "text1": "καὶ τὸ μὲν γλαυκαῖνον καὶ λευκαῖνον αἰφνιδίως ἀπὸ σαρκὸς ἀνόσου βλαστῆσαν λυμαίνεσθαι καὶ σήπειν τὸν ἄνθρωπον λέγει, τὸ δὲ χλωρίζον καὶ πυρρίζον ἀπὸ πρoüποκειμένης αἰτίας, ἐν οὐλαῖς κατὰ καυμάτων ἢ τραυμάτων  γεννώμενον, ὅλον πιβόσκεσθαι τὸ σῶμα δηλοῖ·",
+            "id2": "s-154,s-155,s-156,s-157",
+            "text2": "желтѣи҆ же  ѹ҆бо и҆ бѣлѣи , и҆зъ съдрава тѣла и҆съ-шедъши , скоро чл҃ка гнои҆ти . зелено-мѹ же и҆ черъвленомѹ въ ꙗ҆зваⷯ . и҆ли въ стрѹпѣхъ показавшѹсѧ . все прокꙋ-ждѧє҆ть тѣло ."
+        },
+        {
+            "id1": "s-47",
+            "text1": "ταῖς ἀρχεκάκοις καὶ βλαβοποιοῖς τέτρασιν ἀπεικάζων νόσοις τῆς ψυχῆς τὰς λέπρας, ὥσπερ ἀπὸ μιᾶς ἐκχεομένης πηγῆς ἐπικρατήσαντος καὶ πλημμυρίσαντος τοῦ πονηροῦ.",
+            "id2": "s-158,s-159,s-160",
+            "text2": "подобна же си четы-ремъ дш҃етлѣнныимъ прокаженїєⷨ. бѣломѹ бо в полы желтомѹ подо-битисѧ любодѣиствѹ , ѿ любодѣ-иства . въ кровь жльтѹю примѣ-нѧю҆щюсѧ пѣнѹ ."
+        },
+        {
+            "id1": "s-48",
+            "text1": "τὴν μὲν λευκαίνουσαν τὸν ἐρεθίζοντα καὶ ἐφορμῶντα πρὸς τὰς συνουσίας οἶσθρον εἶναι λεκτέον· μαργώντων γὰρ τῶν σωμάτων  ἐν ταῖς συμπλοκαῖς καὶ κινουμένων ἐκκυμαινόμενον τὸ αἶμα κατ ἀνακοπὴν ἀφροποιεῖ, ὥσπερ καὶ ἡ θάλασσα καὶ οἱ ποταμοὶ κατὰ τὰς τῶν ἀγρίων ἀνέμων ἐμβολὰς ἀφρῷ λέγονται μορμύρειν, δί ὃ καλῶς τὴν ἡδονὴν ταύτην λέπραν λευκαθίζουσαν ἐκάλεσεν ὁ νομοθέτης.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-49",
+            "text1": "γλαυκαίνουσαν δὲ τὸν φόβον, πτόησιν καὶ κατάπληξιν δεινὴν ἐξεγείροντα τῇ ψυχῇ ἀπὸ τοῦ πονηροῦ· »άπὸ φόβου« γάρ φησιν »ἐχθροῦ« ὁ Δαυίδ »ἐξελοῦ τὴν ψυχήν μου« . .",
+            "id2": "s-161,s-162,s-163,s-164,s-165",
+            "text2": "желтоє҆ же па-кы къ страхѹ и҆ къ боꙗ҆зни приложи-ти . ѹ҆же намъ попрати повелѣ г҃ь гл҃ѧ , не бои҆тесѧ ѹ҆биваю҆щиⷯ тѣ-ла . а҆ дш҃а не могѹщииⷯ ѹ҆бити . чр́ъ-вленоє же пакы гнѣвѹ . є҆гоже дѣ-лѧ възр́ъдѣтисѧ гнѣвливыи҆м ."
+        },
+        {
+            "id1": "s-50",
+            "text1": "χλωρίζουσαν δὲ τὸν φθόνον καὶ τὴν λύπην ἀπὸ τοῦ τήκεσθαι καὶ μεταβάλλεσθαι εἰς τὸ ὠχρότερον τοῦ προσώπου τὴν ἔμφυτον εἰδέαν.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-51",
+            "text1": "πυρρίζουσαν δὲ πάλιν καλεῖ τὴν  ὀργὴν παρὰ τὸ τὸν ἐκκαιόμενον ἐρυθραίνεσθαι τῷ θυμῷ καὶ εἰς πυρρῶδες μεταβάλλειν τοῦ προσώπου τὴν ἐπιφάνειαν.",
+            "id2": "s-166,s-167,s-168",
+            "text2": "земъленоє҆ же пакы к зависти . и҆ к пе-чѧли . ꙗ҆коже со́хнѹти и҆ блѣдость  и҆мѣти ѿ сего ."
+        },
+        {
+            "id1": "s-52",
+            "text1": "Daher erzählt die Schrift, daß die Schwester des Moses den Aussatz hatte, weil dem Bruder übel redete.",
+            "id2": "s-169,s-170,s-171",
+            "text2": "ѿсюдѹ кни-гы . сестрѹ мѡ̀ѷсїинѹ и҆мѣвшѹю прокаженїе . є҆гоже дѣлѧ злѣ ре ́бра-тѹ ,"
+        },
+        {
+            "id1": "s-53",
+            "text1": "Es spricht aber nun auch der Prophet, der selige Jeremias: »Säet nicht in die Dornen, sondern beschneidet euch  eurem Herrn und werfet ab die Unbeschnittenheit eurer «, sagend: Die bösen Leidenschaften beschneidet, damit wir zu Gott bringen.",
+            "id2": "s-174,s-175,s-176",
+            "text2": "гл҃еть же ѹ҆бо и҆ прркъ  блж҃ныи і҆єремїа , не сѣи҆те на терⸯнїи н҄о ѡ҆брѣзаи҆тесѧ гѹ҃ вашемѹ . и҆ ѿ-вр́ьзете , неѡ҆брѣзанїє срцⷣь вашиⷯ страсти рекъ злыѧ ѡ҆брѣжете . да бескверньство къ б҃ѹ принесемъ ."
+        },
+        {
+            "id1": "s-54",
+            "text1": "Denn diese Gebote, meine ich, habe auch der Herr  nicht verlöschende Freude haben und unnütz . . . .",
+            "id2": "s-177,s-178",
+            "text2": "си-ꙗ҆ же бо мню . и҆ гѹ҃ свои҆мъ ѹ҆ченикѡⷨ даꙗ҆ти заповѣди бе жьзла и҆ без дⸯво̏-ю ходити ризѹ ."
+        },
+        {
+            "id1": "s-55",
+            "text1": "und »neu« nennt er den Menschen, aber wieder der bösen Handlungen wegen den \"alten\".",
+            "id2": "s-181,s-182",
+            "text2": "и҆ непотрѣбнѣ . и҆ нова взыває чл҃ка ."
+        },
+        {
+            "id1": "s-56",
+            "text1": "Daher, damit wir nicht wieder mit jenen uns vereinend Gemeinschaft haben mit Ungeziemendem, befiehlt der Herr nur das Eine Gewand  der Besonnenheit zu gebrauchen, und den Jüngern verbietend Begierden der Gelüsten, [und] zu bitten, nur mit dem Einen und einfachen Gewand bekleidet zu werden.",
+            "id2": "s-184,s-185,s-186,s-187,s-188",
+            "text2": "Тѣмже да не    пакы съ ѡ҆нѣми сѧ съвъкѹплѧю҆-ще . ѡ҆бщьствꙋєⷨ непоⷣбⷪныиⷨ г҃ь . є҆диною  ризою велить трѣ-бовати . и҆ не велѧ ѹ҆ченикѡⷨ мч́ьте-  ныиⷯ прїимати помыслъ . и҆ є҆дино-ю токмо нбною и҆ простою ѡ҆дѣꙗти-сѧ ризою молить ."
+        },
+        {
+            "id1": "s-57",
+            "text1": "Die von toten Fellen aber gemachten und drückenden Schuhe vergleicht er der der Schaden tuenden Trauer, verbietend fernerhin anzuziehen die Kümmernisse  dieses Lebens und einfach zu sagen: Abgewaschen zu einem Mal durch den Herrn werden wir nicht in die Verwesung des Todes gehen.",
+            "id2": "s-189,s-190,s-191,s-192,s-193,s-194",
+            "text2": "кожеми же ме-рътвыми сътворенѹю ѡ҆бꙋщю . и҆ клѣщащѹю . к пакости дѣю҆щи   дш҃и печѧли приложи . не велѧ к то-мѹ ѡ҆бѫватисѧ житїа се҄го скорь-бьми . и҆ простѣ ре́щи ѡ҆мъвени є҆ди-ною гм҃ь . и҆ не постѹпаи҆мъ въ тлю  ."
+        },
+        {
+            "id1": "s-58",
+            "text1": "Διὸ φύγωμεν τὰς ἐνθυμήσεις τὰς φιληδόνους καὶ τὰς ἐμπαθεῖς  τοῦ  ἡδονάς, λευκαθίζουσα λέπρα τὸ όργίζεσθαι καὶ τὸν τύφον, φύγωμεν τὸ καταλαλεῖν, πυρρίζουσα  > λέπρα ἐστίν· ἀπελαύνωμεν τὴν ὑπόκρισιν καὶ τὴν δειλίαν ἐν καιρῷ διωγμοῦ, γλαυκίζουσα > λέπρα ἐστίν· ἀπελαύνωμεν τὴν λύπην καὶ τὸν φθόνον, χλωρίζουσα γὰρ λέπρα ἐστίν.",
+            "id2": "s-195,s-196,s-197,s-198,s-199,s-200,s-201,s-202,s-203",
+            "text2": "тѣмже бѣжимъ сла-стї и страстолюбныиⷯ . бѣжиимъ страстьныихъ телеси ѹ҆стремле-нїи . бо є прокаженїе . бѣ-жимъ гнѣва и҆ величїа . и҆ клеветы . черⸯмноє бо є прокаженїе . бѣжимъ лицемѣрїа . и҆ страⷯ въ врѣмѧ го-ненїа . желтоє҆ бо є прокаженїе ."
+        },
+        {
+            "id1": "s-59",
+            "text1": "ὅτι τούτων κἂν τὸ βραχύτατον αἰφνιδίως ἐὰν ἔλθῃ καὶ γενγθῇ περὶ τὴν διάνοιαν ἡμῶν καὶ μὴ εὐθέως ἐκ ῥιζῶν κοπὲν ἐκβληθῇ, μακρὰν χεῖται  δίκην πυρὸς ἢ ὕδρας πολυκεφάλου καὶ ἐπιβόσκεται τὴν ψυχήν, ἔστ ἂν καὶ εἰς τὸ σῶμα διαδοθὲν λωβήσηται καὶ κατασήψῃ τὸν ἄνθρωπον ὅλον.",
+            "id2": "s-206,s-207,s-208,s-209",
+            "text2": "а҆ще бо сиⷯ и҆ хѹжьⷣе въселитсѧ въ ѹ҆мъ нашь . и҆стьли-ть ны и҆ дш҃ю и҆ плоть . а҆ще не скоро ѿвержемъ є҆го . и҆ покаа́нїемь и҆сцѣ-лимь ."
+        },
+        {
+            "id1": "s-60",
+            "text1": "Daher können wir gar keiner bösen Lust gestatten einzunisten in unsern Sinn, sondern wie die Alten dem Priester zeigten, so  auch wir den Priestern.",
+            "id2": "s-210,s-211,s-212,s-213,s-214,s-215,s-216,s-217",
+            "text2": "тѣмже не моземъ дати  же ѕ҄лѣ похоти . въгнѣ-жⷣатисѧ въ ѹ҆мъ нашь . ноꙗ҆ко и҆ дъ-рѣвнїи жерцѹ показахѹ . тако и҆ мы и҆є҆реѡ҆мъ . множаише бо ны є҆сть нн҃ѣ блюденїе по хв҃ѹ словеси . гл҃а бо гд҃ь . слышастеꙗ҆ко ре́чесѧ прѣⷣниⷨ . не любодѣиствѹи ."
+        },
+        {
+            "id1": "s-61",
+            "text1": "—",
+            "id2": "s-218,s-219,s-220",
+            "text2": "н҄о а҆зъ гл҃ю ваⷨ . весь зрѧи на женѹ помышленїа дѣ-лѧ . се любодѣиствоваю въ срцⷣи сво-є҆мъ ."
+        },
+        {
+            "id1": "s-62",
+            "text1": "Denn größeres Achthaben ist jetzt uns nach dem Worte Christi.",
+            "id2": "s-218,s-219,s-220",
+            "text2": "н҄о а҆зъ гл҃ю ваⷨ . весь зрѧи на женѹ помышленїа дѣ-лѧ . се любодѣиствоваю въ срцⷣи сво-є҆мъ ."
+        },
+        {
+            "id1": "s-63",
+            "text1": "Denn es sprach der Herr: »Ihr habt gehört, daß gesagt wurde zu den Alten: Du sollst nicht ehebrechen; ich aber sage euch: ein jeder der sieht auf ein AYeib der Begierde halber, der hat schon mit ihr die Ehe gebrochen in seinem «.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-64",
+            "text1": "Den Leidenschaftlichen  nannte er Ehebrecher, aber nicht den, der vollbracht hat, denn deren (der Leidenschaft) Werk und Frucht ist der Ehebruch.",
+            "id2": "s-221,s-222,s-223,s-224",
+            "text2": "страстьнаа҆го любодѣи҆ца  . а҆ не створшаго . се бо дѣло и҆ плодъ . любодѣиства є҆сть ."
+        },
+        {
+            "id1": "s-65",
+            "text1": "Daher sagt er auch nicht, der, welcher die Begierde kreuzigt (züchtigt), sei durchaus fromm, sondern der ihrer durchaus nicht acht haben will, denn nicht die Frucht des Ehebruchs befiehlt er auszureuten,  sondern den Samen, welcher ist gleich einem vor der Frucht vertrockneten Feigenbaum.",
+            "id2": "s-225,s-226,s-227,s-227b,s-228",
+            "text2": "тѣ-мже ни мѹчащемѹ помыслъ . бо-хмо быти гл҃еть чистѹ . н҄о не внемъ-лющѹ є҆мѹ бо́хмо не плода бо лю-бодѣиственааго вели истьрзати н҄о сѣмѧ є҆же є подобно смоквине . дрѣвле плода и҆сѹшене ."
+        },
+        {
+            "id1": "s-66",
+            "text1": "Wie auch der unvernünftige Zorn auf den Bruder Same ist dem Totschlag, und deshalb Johannes ihn der »die Wurzel« Bösen abhauenden »Axt« würdig erachtet.",
+            "id2": "s-229,s-230,s-231,s-232",
+            "text2": "ꙗ҆ко и҆ безꙋ-мныи на брата гнѣвъ . сѣмѧ є ѹ҆бо-ю . и҆ сего дѣлѧ і҆ѡ҃а҆нъ . брадъви спо-доби и҆ рѹбѧщи злобьноє коренїе ."
+        },
+        {
+            "id1": "s-67",
+            "text1": "Denn die Alten die Frucht des Ehebruchs, aber der Erlöser die Samen, völlig  vernichten wollend, wie irgendeinen Aussatz.",
+            "id2": "s-233,s-234,s-235,s-236",
+            "text2": "прѣжьнїи бо плодъ любодѣиства сѣчаа҆хѹ . а҆ спѧ сѣмена . бъхмо хо-тѧ потрѣбити злобь . ꙗ҆ко и҆ про-каженїе коє ."
+        },
+        {
+            "id1": "s-68",
+            "text1": "ἕκαστος οὖν τῶν ἐχόντων σημασίαν ἢ σπίλον ἢ ἁφήν, τουτέστιν ὁ ἐλαυνόμενος ὑπὸ θυμοῦ ἢ ἔρωτος γυναικὸς ἢ φιλαργυρίας ἢ φθόνου εὐθέως προσίτω τῷ ἀρχιερεῖ, λέγω διὰ προσευχῆς, οὑ δὴ ἀπεικασία καὶ τύπος ἐτύγχανεν Ἀαρών, καὶ δεικνύτω αὐτῷ »τὰ κρύφια  τῆς καρδίας«, κρατήσας ἑαυτὸν τῆς προσφορᾶς, πρὸ τοῦ τὸ πάθος τῆς ἁμαρτίας σκιρρῶσαι.",
+            "id2": "s-237",
+            "text2": "что же ѹ҆бо книгы рѣ-ша ."
+        },
+        {
+            "id1": "s-69",
+            "text1": "καὶ εἰ μὲν παύοιτο καὶ λωφᾷ τὸ κακόν, ὥστε  ὀφθέντα εἰς τὸ θυσιαστήριον τῷ ἀρχαγγέλῳ δυσσυνειδησίας εἶναι μακράν, κεκάθαρται· »οὐ« γὰρ »μετέπεσεν ἡ ἁφὴ ἐν τῷ δέρματε«, τουτέστιν οὐ μετεδόθη τῷ σώματι εἰς τὸ τελεσιουργηθῆναι ἡ ἐπιθυμία, ἀλλὰ μόνον σημασία οἱονεὶ ἐνθύμησίς τις γέγονεν καὶ ήμαυρώθη.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-70",
+            "text1": "εἰ δὲ μὴ παύσοιτο καὶ λωφᾷ, προσίτω πρὸς τοὺς σωφρονιστάς, δείξων ἑαυτοῦ τὴν ἁφὴν τῷ ἐπισκόπῳ τῷ ἱερεῖ τῷ υἱῷ τοῦ ἀληθινοῦ ἀρχιερέως τοῦ λέγοντος ἐν τῷ εὐαγγελίῳ »τεκνία« μαθητάς, ἐξαγορεῦσαι μὴ αἰδεσθήτω τὸ ἀληθὲς πειθόμενος τῇ γραφῇ τῇ λεγούσῃ· »ἀνθρώπῳ τινὶ ἐὰν γένηται ἐν δέρματι τοῦ χρωτὸς αὐτοῦ  ἁφὴ λέπρας, καὶ ἐλεύσεται πρὸς Ἀαρὼν τὸν ἱερέα· καὶ ὄψεται ὁ ἱερεὺς τὴν ἁφὴν ἐν δέρματι τοῦ χρωτὸς αὐτοῦ‘.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-71",
+            "text1": "und die Haare in dem Bild haben sich verändert in Weiß und das Bild ist niedriger als die Haut des Leibes, das Bild des Aussatzes ist es« usw.",
+            "id2": "s-239,s-240,s-241,s-242,s-243b",
+            "text2": "и҆ власи по ѡ҆бразꙋ , прѣмѣ-нишасѧ бѣли . и҆ ѡ҆бразъ плотьны-и съмѣренъ . ѿ кожа телесныѧ . ѡ҆-бразъ прокаженїа є . ꙗ҆ко бо є плоти нашеи краса плодъ ."
+        },
+        {
+            "id1": "s-72",
+            "text1": "Denn wie die Schönheit unseres Fleisches Frucht ist, so auch die der  Seele die Besonnenheit.",
+            "id2": "s-243,s-244",
+            "text2": "и҆ прочаѧ , та-ко и҆ дш҃и цѣло҆мїа ."
+        },
+        {
+            "id1": "s-73",
+            "text1": "AYenn aber nun sie »sich verändert« Schwachheit und Begierde — denn das bedeutet der »weiße« —,",
+            "id2": "s-245,s-246,s-247,s-248",
+            "text2": "а҆ще же ѹ҆бо прѣ-мѣнитсѧ на слабость . и҆ помыслъ . се бо знаменѹє҆ть бѣлоє прокаже-нїе . смѣрѧтисѧ начнеть ."
+        },
+        {
+            "id1": "s-74",
+            "text1": "fängt sie an niedrig zu werden.",
+            "id2": "s-245,s-246,s-247,s-248",
+            "text2": "а҆ще же ѹ҆бо прѣ-мѣнитсѧ на слабость . и҆ помыслъ . се бо знаменѹє҆ть бѣлоє прокаже-нїе . смѣрѧтисѧ начнеть ."
+        },
+        {
+            "id1": "s-75",
+            "text1": "Denn bedenke du, daß dem »inwendigen Menschen« Paulus nicht gebietet »alt« zu werden, »sich zu erneuen«.",
+            "id2": "s-249,s-250,s-251,s-252,s-253",
+            "text2": "помы-сли бо ты . ꙗ҆ко ѹ҆тренемѹ члк҃ѹ не вѣлить сѧ па́вⷷль старѧти но понавлѧти . ꙗ҆коже бо и҆ въ ѡ҆сиє҆  ѡ҆ є҆фрѣмѣ и҆знемогшаѧ . є҆фрѣъⷨ бы прѣии҆нъ . не премѣнѧ себе ."
+        },
+        {
+            "id1": "s-76",
+            "text1": "Wie denn er auch im Hosea spricht von  dem schwach Gewordenen: »Ephraim ward ein Kuchen, nicht sich ändernd.",
+            "id2": "s-249,s-250,s-251,s-252,s-253",
+            "text2": "помы-сли бо ты . ꙗ҆ко ѹ҆тренемѹ члк҃ѹ не вѣлить сѧ па́вⷷль старѧти но понавлѧти . ꙗ҆коже бо и҆ въ ѡ҆сиє҆  ѡ҆ є҆фрѣмѣ и҆знемогшаѧ . є҆фрѣъⷨ бы прѣии҆нъ . не премѣнѧ себе ."
+        },
+        {
+            "id1": "s-77",
+            "text1": "Es verzehrten Fremde seine Stärke und er, er erkannte nicht; und graue Haare kamen ihm heraus, und er, er erkannte es nicht«.",
+            "id2": "s-254,s-255",
+            "text2": "щю-жии поꙗ҆ша силѹ є҆го . и҆ ѡ҆нъ не ѹ҆вѣ-дѣ ."
+        },
+        {
+            "id1": "s-78",
+            "text1": "τύπος γὰρ ὡς ἔφην ἐστὶν ὁ μὲν Ἀαρὼν τοῦ Χριστοῦ, ὁ δὲ υἱὸς  Ἀαρὼν τοῦ ἐπισκόπου· πρὸς οὓς προσιέναι δεῖ θεραπευθησόμενον τὸν ἔχοντα ὕπουλον ἢ λέπραν περὶ τὸ ἡγεμονικόν, ὅπως αὐτὰ τὰ  αἴτια καὶ προκαταρτικὰ τῆς ἁμαρτίας ἐκριζωθῶσιν εὐθέως τῇ προσευχῇ",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-79",
+            "text1": "καὶ τοῖς σωφρονισμοῖς πρὸ τοῦ κρατυνθῆναι.",
+            "id2": "s-256",
+            "text2": "и҆ сѣдины є҆мѹ и҆зидоша и҆ ѡ҆нъ не разѹмѣ ;"
+        },
+        {
+            "id1": "s-80",
+            "text1": "καὶ ὡς ἐπιστήμων ἰατρὸς ὁ ἐπίσκοπος ἀπὸ τῆς ὑγιαινούσης διαίτης τὸν πυρεταίνοντα ἐπέχων, ὅπως ἀνασφῆλαι δυνηθῇ, ἀφορισάτω αὐτὸν εἰς τὴν  ἐξομολόγησιν, μιανάτω αὐτὸν τῆς κοινωνίας ἐπισχών, κλαυσάτω, παρακαλεσάτω ὑπὲρ αὐτοῦ κατὰ τὸ γεγραμμένον· »τίς ἀσθενεῖ, καὶ οὐκ άσθεῶ;",
+            "id2": "s-256b,s-257,s-258,s-259",
+            "text2": "Аще же ѹ҆бо поюнѧꙗ-и҆сѧ старѧє й ѡ҆сѣдѣє злыми стра-стьми. да приде къ и҆є҆рѣю и҆сповѣ-данїемъ . да ѿлѹчитсѧ ѡ҆бьщьства . слезами да кає҆тсѧ ."
+        },
+        {
+            "id1": "s-81",
+            "text1": "τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;« καὶ εἰ μὲν παύοιτο, μίαν καὶ δευτέραν ἑβδομάδα τοῦ συναγελάζεσθαι κρατηθείς, ἐπισκεφθήσεται πάλιν, εἰ ἐπένθησεν ἢ ἐλυπήθη »λύπην« τὴν »κατὰ  θεόν«, ἥτις μετάμελον »εἰς σωτηρίαν κατεργάζεται«, εὔελπίς ἐστιν, καθαρός ἐστιν· οὐ γὰρ διεδόθη τὸ κακόν.",
+            "id2": "s-260,s-261,s-262",
+            "text2": "и҆ по недѣли  по двою , посѣтитсѧ , є҆ли сѧ по-пека . є҆ли сѧ поплака . и҆ сице млсриⷣ-є҆мь бж҃їимъ на свои пакы придеть  ."
+        },
+        {
+            "id1": "s-82",
+            "text1": "εἰ δὲ ἐπιμένοι ῥαθυμῶν  καὶ αφροντιστῶν, λέπραν παλαιουμένην ἔχει, ἀπὸ πολλῶν τε καὶ ἀκαθάρτων ἠθροισμένην κακῶν· »λεπρός ἐστιν, ἀκάθαρτός ἐστιν«, ἐκβαλλέσθω τῆς ἐκκλησίας.",
+            "id2": "s-263,s-264,s-265",
+            "text2": "Аще ли не поскорⸯби ѡ҆ своєⷨъ злѣ . и҆ пребыває бес покаꙗ҆нїа . да ѿлѹчѧє҆тсѧ црк҃ве ."
+        },
+        {
+            "id1": "s-83",
+            "text1": "πᾶς γὰρ ὁ »λεπρός«, φησὶν ἡ γραφή, »ἐν ᾧ ἐστὶν ἡ ἁφή, ἐχέτω τὰ ἱμάτια παραλελυμένα, καὶ ἡ κεφαλὴ  ἔστω ἀκατακάλυπτος καὶ περὶ τὸ στόμα περιβαλλέσθω καὶ ἀκάθαρτος κληθήσεται πάσας τὰς ἡμέρας, ὅσας ἂν ᾖ ἡ ἁφὴ ἐπ' αὐτῶ̣· ἀκάθαρτος ὢν ἀκάθαρτος ἔσται· κεχωρισμένος καθήσεται· καθήσεται· τῆς παρεμβολῆς ἔσται αὐτοῦ ἡ διατριβή«.",
+            "id2": "s-266,s-267,s-268,s-269,s-270,s-271,s-272,s-273",
+            "text2": "весь бо ре́че про-каженъ . да и҆мать разрⷣаны ризы . и҆ глава є҆мѹ да бѹде непокровена . и҆ ѹста си да закрыє҆ть . и҆ да бꙋде нечистъ . въ всѧ дн҃и донде же на немъ є прокаженїе . и вънѣ въпл́ъ-ченїа . да є҆мѹ бꙋде животъ ."
+        },
+        {
+            "id1": "s-84",
+            "text1": "τὸ ἀγενὲς καὶ τεθηλυμμένον ὡς οἶμαι τῶν ἀκολάστων ἱμάτιον παραλελυμένον καλῶν, τὴν δὲ κεφαλὴν  ἀκατακάλυπτον οἷον τὸν ἔσω ἄνθρωπον αὐτὸ τὸ τῆς σκέπης ἐξωπλισμένον τοῦ θεοῦ.",
+            "id2": "s-274,s-275,s-276",
+            "text2": "стра-столюбїе . злыми знаменѹꙗ риза-ми . непокровеною҆ же главою ҆тре-   нѧа҆го чл҃ка ."
+        },
+        {
+            "id1": "s-85",
+            "text1": "Denn dieser Hilfe muß werden der Sündigende, denn nicht ist würdig der gewürdigt zu werden dieser Mysterien des Heils.",
+            "id2": "s-277,s-278,s-279",
+            "text2": "сеѧ бо нѹжа лишатисѧ помощи съгрѣшаю҆щемѹ . недосто-и҆но бо пребываю҆щемѹ въ грѣсѣхъ . спс҃еныиⷨ сиⷨ сподобитисѧ таи҆намъ ."
+        },
+        {
+            "id1": "s-86",
+            "text1": "Und dies nun von dem Sichtbaren.",
+            "id2": "s-280",
+            "text2": "и҆ си ѹ҆бо ѡ҆ видимыиⷯ ."
+        },
+        {
+            "id1": "s-87",
+            "text1": "Das Geheime aber und  das unseres Herzens überträgt er dem bevollmächtigten Engel Kirche, unsern inwendigen Menschen mit Sorgfalt zu besuchen.",
+            "id2": "s-281,s-282,s-283",
+            "text2": "таи҆ны же и҆ се-рⸯдечнаѧ наша . порѹчникѹ црк҃ве ѡ҆ноѧ а҆гг҃лѹ порѹчає . ѹ҆тренѧго ны чл҃ка съ и҆спытанїемь посѣщати ."
+        },
+        {
+            "id1": "s-88",
+            "text1": "Daher wenn wir auch sündigend uns verbergen können und gehen in die Kirche, entblößt jener uns durch das »Schwert des Geistes«.",
+            "id2": "s-284,s-285,s-286,s-287,s-288",
+            "text2": "а҆ще и҆ мъсимъ ѹ҆таꙗ҆тисѧ . съгрѣшаю҆ще . и҆ входи<мъ в>ъ црк҃вь . ѡ҆нъ ны ѡ҆бнажає҆ть . ѿ дх҃о́внааго ѡ҆рꙋжїа ."
+        },
+        {
+            "id1": "s-89",
+            "text1": "Die Verhüllung aber des Mundes ist das Schweigen des Sünders.",
+            "id2": "s-289,s-290",
+            "text2": "закрыванїе же ѹ҆стомъ . мо-лчанїе грѣшнаа҆го ."
+        },
+        {
+            "id1": "s-90",
+            "text1": "»zu dem Sünder sprach Gott:",
+            "id2": "s-291,s-292,s-293",
+            "text2": "грѣшн́омѹ бо ре ́ б҃ъ . въскѹю ты и҆сповѣдає҆ши правъ-ды моѧ . и҆ прочаѧ ."
+        },
+        {
+            "id1": "s-91",
+            "text1": "Wozu bokennst du meine Rechte« usw.",
+            "id2": "s-291,s-292,s-293",
+            "text2": "грѣшн́омѹ бо ре ́ б҃ъ . въскѹю ты и҆сповѣдає҆ши правъ-ды моѧ . и҆ прочаѧ ."
+        },
+        {
+            "id1": "s-92",
+            "text1": "Sien »Leben aber ist außerhalb des Lagers«, das heißt denn »draußen ist«, sagt der Apostel, »ein jeder, Denn auch wenn er scheint drinnen zu sein, sich selbst täuschend,  draußen ist er, außerhalb ist er, wie er gerecht handelnd wenn er auch draußen zu sein scheint.",
+            "id2": "s-294,s-295,s-296,s-296b,s-297,s-298",
+            "text2": "житиє҆ же є҆го внѣ  . ре́кше , внѣ цртва нбна . кромѣ бо вьсь ре́че , а҆плъ съгрѣшаѧ-и҆ бо а҆ще мнитсѧ ѹ҆тре , себе прѣль-щаѧ . кромѣ є внѣ є , ꙗ҆ко и҆справъ-лѧа ѹ҆тре є . а҆ще и҆ внѣ мнитсѧ сы́и"
+        },
+        {
+            "id1": "s-93",
+            "text1": "Und er hat schöne Kleider, das Haupt bedeckt und auf dem Haupt den »Helm des Heils« und Mund geöffnet zum Forschen in der Schrift und die Zunge aufgetan.",
+            "id2": "s-298b,s-299,s-300,s-301",
+            "text2": "и҆ ризы и҆мать красны главѹ покрове-нѹ . и҆ шлѣмъ на главѣ спс҃ен́ыи . и҆ ѹ҆-   ста ѿвр́ьста , на пытанїе книжноє . и҆ ꙗ҆зыкъ мꙋдро́стїю ѿве́рстъ ."
+        },
+        {
+            "id1": "s-94",
+            "text1": "Διὸ δὴ φυλάξωμεν καθαροὺς ἑαυτοὺς τῷ θεῷ — ταῦτα γὰρ κανόνες εἰσὶν καὶ θεσμοὶ τῆς ἐκκλησίας — τῷ όξυδορκεῖν κατὰ τὰς γραφὰς δυναμένῳ· ἐπεὶ παρελθὼν ἀποκρινάσθω μοί τις — ἴνα καὶ τῶν ἑξῆς ἐπιμνησθῶ· τίς ἡ τοσαύτη φροντὶς τῷ »τῷ καὶ σπουδὴ περὶ ἐρεῶν ἱματίων διαλέγεσθαι καὶ λινῶν καὶ κρόκης καὶ στήμονος  καὶ δερμάτων; ἢ »πάντως« προεφητεύσατο ταῦτα »δι' ἡμᾶς‘;",
+            "id2": "s-302,s-303,s-304",
+            "text2": "тѣ-мже съблюдемсѧ ѿ всѣⷯ сиⷯ . каꙗ҆ бо б҃ѹ скорбь ѡ҆ ризаⷯ . и҆ли ѡ҆ синѣ и҆ли ѡ҆ кл́ъцѣⷯ и҆ли ѡ҆ и҆номъ гл҃ати ."
+        },
+        {
+            "id1": "s-95",
+            "text1": "φέρε γὰρ ἀκριβῶς διακρίωαντες τὰς ἑρμηνείας ἑκάστῳ γένει πρόσφορον παρα- λάβωμεν εἰκόνα, καὶ τῷ μὲν στήμονι τὸν ἰσχυρότερον καὶ πρῶτον νοῦν ἁρμοστέον, κρόκῃ δὲ τὴν ψυχήν, καὶ δέρματι τὸ σῶμα, ἱματίῳ δὲ τὸν ἄνθρωπον ὅλον· ἐρεῶ̣ μὲν τὸν ἄνδρα, τὴν δὲ γυναῖκα λινῷ.",
+            "id2": "s-305,s-306,s-307,s-308,s-309,s-310",
+            "text2": "се же ѹ҆бо да съ и҆спытаниєⷨтолкꙋє҆мъ . и҆  ре́кꙋ ѹ҆мъ сподобиⷨ . ѹ҆тъкѹ же дш҃и и҆ кожи тѣло . ризѣ же члк҃а всего . къ вълнѣ мѹжа . ко ль-нꙋ женѹ ."
+        },
+        {
+            "id1": "s-96",
+            "text1": "καὶ ἐν ἱματίῳ ἐὰν γένηται ἐν αὐτῷ ἁφὴ λέπρας, ἐν ἱματίῳ ἐρεῷ ἢ  ἐν ἱματίῳ στιππυίνῳ, ἢ ἐν στήμονι, ἢ ἐν κρόκῃ, ἢ ἐν τοῖς λινοῖς ἢ ἐν τοῖς ἐρεοῖς ἢ ἐν  ἢ ἐν παντὶ ἐργασίμῳ δέρματι; καὶ ἡ ἁφὴ πυρρίζουσα ἢ χλωρίζουσα ἢ] ἐν τῷ δέρματι, ἢ ἐν τῷ ἱματίῳ, ἢ ἐν τῷ στήμονι, ἢ ἐν τῇ κρόκῃ«.",
+            "id2": "s-311,s-312,s-313,s-314,s-315,s-316,s-317",
+            "text2": "и҆ в ризѣ а҆ще бѹде ѡ҆браⷥ  . в ризѣ въльненѣ . и҆ли в р́изѣ и҆згрѣбнѣ . и҆ помалѣ , и҆ бѹ-де ѡ҆бразъ зеленѹꙗ̆исѧ . на кожи и҆ли на ризѣ и҆ли на синѹ . и҆ли на ѹ҆тⸯцѣ . и҆лѝ на кл́ъцѣⷯ ."
+        },
+        {
+            "id1": "s-97",
+            "text1": "στήμονα γὰρ τροπικῶς τοὺς τόνους τῆς ψυχῆς, τὸν νοῦν ἡμῶν, ὁ νόμος ἐκάλεσεν· σύνθετον  γὰρ ζῷον οἰα πλέγμα καὶ ὕφος ἐκ πολλῶν συμπαγὲν ὸ ἄνθρωπος εἶναι παρεδόθη.",
+            "id2": "s-318,s-319",
+            "text2": "синъ бо прѣѡ҆браⷥнѣ крѣпости дш҃е́вныѧ наре́че . съло-жьнъ бо є живо члк҃ъ , ѿ дш҃а и҆ плоти ."
+        },
+        {
+            "id1": "s-98",
+            "text1": "εἰ γὰρ ἐκ ψυχῆς σαρκός τε καὶ πνεύματος ὡς ἐν κεφαλαίῳ φάναι τὴν σύστασιν ἀπεδείχθη λαχών, τεθεωρημένως ὁ νομοθέτης τὴν πρώτην σύλληψιν τῶν ἁμαρτημάτων ἀπὸ τῆς ἔξωθεν φαντασίας δι᾿ ὀφθαλμῶν ἢ δι᾿ ὤτων ῥέουσαν εἰς τὸν  ὥσπερ ἐν στήμονι φύεσθαι χρησμωδιῖ.",
+            "id2": "s-320,s-321,s-322",
+            "text2": "пр́ьвомѹ же грѣховномѹ зачѧти ѿ внѣшнѧго мечта ѡ҆чима . и҆ слꙋ-хѡⷨ вхⷣо̏ти . ꙗ҆ко и҆ нѣкоє҆мꙋ прока-жанїю къ ѹ҆мꙋ припадати кажеть ."
+        },
+        {
+            "id1": "s-99",
+            "text1": "Dies nämlich sprach der in betreff der wegen des Erlasses der Sünden Ungläubigen: denket ihr in euren Herzen!",
+            "id2": "s-323,s-324",
+            "text2": "се же ѹ҆бо г҃ь . ѡ҆ невѣрꙋю҆щииⷯ ѡ҆ставъ-   ленїа дѣлѧ грѣховнаа҆го гл҃а , чт҄о помышлѧє҆те въ срд҃цииⷯ вашиⷯ ."
+        },
+        {
+            "id1": "s-100",
+            "text1": "« Denn siehe Aussatz des Unglaubens in den Sinnen.",
+            "id2": "s-325",
+            "text2": "се бо  невѣрованїа въ ѹ҆мѣⷯ бѣ-а҆ше ."
+        },
+        {
+            "id1": "s-101",
+            "text1": "Denn, sagt er, »er hat empfangen Schwäche und geboren Gesetzlosigkeit«.",
+            "id2": "s-326",
+            "text2": "зачѧ бо ре́че болѣзнь и҆ роди беза-конїе ."
+        },
+        {
+            "id1": "s-102",
+            "text1": "Die Liebe aber nun der Leidenschaften bedeute  der Einschlag; denn es wird ausgewebt wachsend durch den Willen die Leidenschaft.",
+            "id2": "s-327,s-328,s-329",
+            "text2": "прилюбенїе же ѹ҆бо страсті҆и . ѹ҆токъ мнѣти . тъ́четь бо сѧ растꙋще и҆зволенїемь страсть ."
+        },
+        {
+            "id1": "s-103",
+            "text1": "Was sagte weiter die Schrift?",
+            "id2": "s-330,s-331",
+            "text2": "таче что рѣ-ша книгы . по нѣтѣмъ бо и҆ порочь-ныиⷯ ."
+        },
+        {
+            "id1": "s-104",
+            "text1": "Denn . .",
+            "id2": "s-330,s-331",
+            "text2": "таче что рѣ-ша книгы . по нѣтѣмъ бо и҆ порочь-ныиⷯ ."
+        },
+        {
+            "id1": "s-105",
+            "text1": "† der »Ἐὰν δὲ διαχέηται« μετὰ τὸ ἀφορισθῆναι ὀφθεῖσα »ἡ ἁφὴ« τῷ  άρχιερεῖ »ἐν τῷ ἱματίῳ ἢ ἐν τῷ δέρματι ἢ ἐν τῷ στήμονι ἢ ἐν τῇ κρόκῃ, λέπρα ἔμμονός ἐστιν ἡ ἁφή, ἀκάθαρτός ἐστιν· καὶ κατακαύσει τὸ ἱμάτιον ἢ τὸν στήμονα ἢ τὴν κρόκην ἐν τοῖς ἐρεοῖς ἢ ἐν τοῖς λινοῖς ἢ ἐν παντὶ σκεύει δερματινῷ, ἐν ᾧ ἂν ᾖ ~ ἐν αὐτῷ ἡ  ὅτι λέπρα ἔμμονος ἐστίν, ἐν πυρὶ κατακαυθήσεται«, ὅπερ ἐστίν . .",
+            "id2": "s-332,s-333,s-334,s-335,s-336,s-337,s-338,s-339,s-340,s-341",
+            "text2": "а҆ще же не разливає҆тсѧ. поꙗ҆-вленїи  жерч́ьсцѣмъ прокаженїє . на ризѣ . и҆ли на синѣ и҆ли на кожи . и҆ли на ѹ҆тъцѣ . прокаженїе є҆дино є҆сть . и҆ кожа нечиста . и҆ съжьжеть ризѹ . и҆ли ѹ҆токъ , вⸯ волнохъ . и҆ли  всемъ съсѹдѣ ко́жнѣ ."
+        },
+        {
+            "id1": "s-106",
+            "text1": "αἰνίττεται γὰρ περιφανῶς τὸν ἐπὶ τῷ ἁμαρτήματι κατολοφυρόμενον καὶ οἰκτισθῆναι παρακαλοῦντα.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-107",
+            "text1": "ἐὰν οὐν μὴ διαχέηται ἡ ἁφή, τουτέστι μὴ ἀμβλύνηται τὸ ἁμάρτημα μετὰ τὸ προσελθεῖν καὶ συγγνώμην αἰτήσασθαι παρὰ τοῦ θεοῦ, μετὰ τὸ μετανοῆσαι καὶ ὀφθῆναι τῷ ἐπισκόπῳ·  ἐὰν μὴ διαχέηται σκορπισθὲν αὐτῷ καὶ λωφᾷ τὸ ἤδη τῷ εἰς τὸ θεραπεύεσθαι, τουτέστιν εἰς τὴν ἐξομολόγησιν",
+            "id2": "s-342,s-343,s-344,s-345",
+            "text2": "и҆ ꙗ҆коⷤ про-каженїе є҆дино є ѡ҆гнемъ да и҆жде-жетьсѧ . се же ѹ҆бо ѡ҆ покаю҆щииⷯсѧ  знаменѹє҆ть . и҆ ѡ҆ставльши-иⷯ бъхмо грѣхы . ризѣ  и҆жде-щисѧ ре́кше грѣшномѹ покр́овѹ ."
+        },
+        {
+            "id1": "s-108",
+            "text1": "ἐπιμοθφάζεται τὴν πίστιν· »ἔμμονός ἐστιν λέπρα«, ἀνεξάλειπτος ἡ ἁμαρτία, τῷ διαιωνίζοντι τῆς γεέννης ἀθρόως καταφλεχθήσεται πυρί·  ὅτι χρὴ τοὺς εἰς τὸ πλήρωμα τῆς οὐρανοπόλεως ἀναλγφθησομένους τῷ ἁρμοσαμένῳ Χριστῷ καὶ ἐπενδύσαντι τὴν ἀφθαρσίαν καθαροὺς προσιέναι καὶ ὑγιεῖς .",
+            "id2": "s-343,s-344,s-345",
+            "text2": "се же ѹ҆бо ѡ҆ покаю҆щииⷯсѧ  знаменѹє҆ть . и҆ ѡ҆ставльши-иⷯ бъхмо грѣхы . ризѣ  и҆жде-щисѧ ре́кше грѣшномѹ покр́овѹ ."
+        },
+        {
+            "id1": "s-109",
+            "text1": ", »Ἰερουσαλὴμ γὰρ] πόλις ἁγία, οὐκέτι προστε- θήσεται διελθεῖν διὰ σοῦ ἀπερίτμητος καὶ ἀκάθαρτος«, ἀλλ’ ὁ περιτετμημένος καὶ καθαρός δηλονότι τὴν ἀρχαίαν πλάνην, τὸν διὰ  τῶν μελῶν ἐνεργοῦντα τῆς σαρκός, ἄνομον »νόμον«.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-110",
+            "text1": "Denn in bezug auf jenes Wort selbst hört auch der Herr nicht auf, zu unsere Vernunft.",
+            "id2": "s-348",
+            "text2": "само бо ѡ҆но сло́во и҆ г҃ь не прѣстає҆ть , ѡ҆брѣзаꙗ҆ ны цѣлоѹ҆мїи ."
+        },
+        {
+            "id1": "s-111",
+            "text1": "Was aber nun, o Herr, hast du deinen Knechten als Gesetz gegeben?",
+            "id2": "s-349",
+            "text2": "чт҄о же ѹ҆бо г҃и своиⷨ за-конѹє҆ши рабѡⷨ рци  намъ ."
+        },
+        {
+            "id1": "s-112",
+            "text1": "Sage es auch uns!",
+            "id2": "s-350,s-351",
+            "text2": "ꙗ҆ко а҆-ще сътворите волю ѡ҆ц҃а моє҆гѡ́ бѹдете ꙗ҆ко и҆ свѣтилници . жи-тїа сѹще и҆сполнь вѣчнаа́го ."
+        },
+        {
+            "id1": "s-113",
+            "text1": "»Wenn ihr tut den Willen meines «, werdet ihr sein wie Lichter voll seiend des ewigen  Lebens.",
+            "id2": "s-350,s-351",
+            "text2": "ꙗ҆ко а҆-ще сътворите волю ѡ҆ц҃а моє҆гѡ́ бѹдете ꙗ҆ко и҆ свѣтилници . жи-тїа сѹще и҆сполнь вѣчнаа́го ."
+        },
+        {
+            "id1": "s-114",
+            "text1": "»Wachet aber nun«, damit ihr vermögend seid, mit das Meer der Unverweslichkeit einzugehen.",
+            "id2": "s-352",
+            "text2": "бди-те же ѹ҆бо да мочни бѹдете съ мно-ю в пꙋчинꙋ нетлѣнїа внити ."
+        },
+        {
+            "id1": "s-115",
+            "text1": "Daher »bewahret eure Leuchten unverlöscht«, damit ihr eingehet in das ewige Brautgemach!",
+            "id2": "s-353,s-354",
+            "text2": "тѣⷨ  свѣща своѧ не ѹ҆гасъ-ны . да въ вѣчныи внидете черⸯто-жьникъ ."
+        },
+        {
+            "id1": "s-116",
+            "text1": "Und als ich dies gesagt, sprach Euthymius: Mit Eecht, o ihr,  so bei mir denkend, wie auch ich, wenn ich von den Höchsten höre—Höchste aber nenne ich die Worte Christi — freue ich mich sehr, wie durch sie belebt werdend, ich bin ehrfürchtig, wie dorthin durch Himmlischen das Auge erstreckend und wie vergessend und scheinend aus der Welt gegangen zu sein.",
+            "id2": "s-355,s-356,s-357,s-358,s-359,s-360,s-361,s-362,s-363",
+            "text2": "и҆ кⷽо мнѣ си рекшꙋ . є҆у҆фи-мии ре́че пои҆стинѣ ѡ҆ сии . сице ѡ҆ мъ-нѣ смыслѹѧ . ꙗ҆коⷤ и҆ а҆зъ ѡ҆ вр́ьховъ-нииⷯ є҆гда послꙋшаю . верхо́вьнѧꙗ҆ же мѣню словеса хв҃а . ѕѣло рауⷣю҆сѧ  ѡ҆живлѧа и҆мь . чтѹю ꙗ҆ко и҆ небными ѡ҆намо пр́остеръ ѡ҆ко . и҆ ꙗ҆ко забываѧ . и҆ мню сѧ и҆з мира  ."
+        },
+        {
+            "id1": "s-117",
+            "text1": "Und ich: Daher wieder zu dem zurüchgekehrt, wodurch es passend ist die weitere ’erhandlung auszuweben, verknüpfen wir mit Folgenden.",
+            "id2": "s-364,s-365,s-366,s-367,s-368,s-369",
+            "text2": "И а҆зъ тѣмже и҆миже лѣ-   по прочемѹ . и҆стъкатисѧ словеси пакы възвратившесѧ . съвъкꙋпиⷨъ къ прочимъ . гл҃ахѡⷨ ѹ҆бо . добрѣ ѹ҆-стремьшесѧ на слово . но́ не доволь-нѣ є҆го кончахѡⷨ ."
+        },
+        {
+            "id1": "s-118",
+            "text1": "Wir haben nun gesprochen, gut einen Anlauf zur Verhandlung nehmend, aber nicht genügend haben wir sie zu Ende geführt.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-119",
+            "text1": "Denn erinnern wir uns, daß wir sagten, eine Composition von  < Seele und Fleisch sei der Mensch, daher auch, indem er die Gesetze über Aufzug und Einschlag und Fell weder nach dem Geist noch nach dem Fleisch, noch nach der Begierde sei zu sündigen.",
+            "id2": "s-370,s-371,s-372,s-373,s-374",
+            "text2": "Помнѣмъ бо ꙗ҆ко  гл҃а́хѡмъ . ѿ дш҃а и҆ пло-ти быти члк҃ѹ . тѣмже и҆ законы ѹ҆токъ и҆ кожа законою҆щю . ни по ѹ҆мѫ ни по плоти . ни по помы-слѹ съгрѣшати ."
+        },
+        {
+            "id1": "s-120",
+            "text1": "Entweder nicht alle †, † , wie viele, sind aussätzig, aber gesund an Seele und Leib; oder wieder am Geist  aber an Fleisch und Seele krankend.",
+            "id2": "s-375,s-376,s-377,s-378",
+            "text2": "и҆ли не вси ꙗ҆ко мно́зи ѹ҆момъ прокажени сѹть . съдравѹюще ѝ дш҃ею и҆ тѣломъ . и҆ли пакы ѹ҆момъ съдравѹю҆ще . а҆ плотїю и҆ дш҃ею болѧще ."
+        },
+        {
+            "id1": "s-121",
+            "text1": "Denn dies sagen wir [nicht] von den Worten der Häretiker, daß sie nach dem indem auch sie Christus bekennen, geben sie in bezug auf Wahrheit und Gerechtigkeit Zusage, wie Einschlag und Fell rein bewahrend, aber indem sie den Geist aussätzig haben durch Heterodoxie.",
+            "id2": "s-379,s-380,s-381,s-382,s-383,s-384",
+            "text2": "се бо є҆рети-чьскыиⷯ не гл҃емъ словесъ ꙗ҆ко по ѹ҆-мꙋ съгрѣшити и҆сповѣдаю҆ще бо ѹ҆бо и҆ ѡ҆ни х҃а ѡ҆ правдѣ и҆ ѡ҆ и҆стинѣ  . ꙗ҆ко и҆ ѹ҆токъ и҆ ко-жю хранѧше чистѹ . а҆ ѹ҆мъ и҆мꙋще прокаженъ кривовѣриє҆мь . и҆ли бо в само ѡ҆но єство ре́кше ѡ҆ц҃а ѡ҆хꙋ-лѧю҆ще . и҆ли въ слово є҆го прѣвѣчноє . и҆ли въ пре́ст҃ыи дх҃ъ ."
+        },
+        {
+            "id1": "s-122",
+            "text1": "gegen jenes Wesen (Substanz) selbst, nämlich den oder gegen sein vorzeitliches Wort, oder gegen den heiligen Geist.",
+            "id2": "s-379,s-380,s-381,s-382,s-383,s-384",
+            "text2": "се бо є҆рети-чьскыиⷯ не гл҃емъ словесъ ꙗ҆ко по ѹ҆-мꙋ съгрѣшити и҆сповѣдаю҆ще бо ѹ҆бо и҆ ѡ҆ни х҃а ѡ҆ правдѣ и҆ ѡ҆ и҆стинѣ  . ꙗ҆ко и҆ ѹ҆токъ и҆ ко-жю хранѧше чистѹ . а҆ ѹ҆мъ и҆мꙋще прокаженъ кривовѣриє҆мь . и҆ли бо в само ѡ҆но єство ре́кше ѡ҆ц҃а ѡ҆хꙋ-лѧю҆ще . и҆ли въ слово є҆го прѣвѣчноє . и҆ли въ пре́ст҃ыи дх҃ъ ."
+        },
+        {
+            "id1": "s-123",
+            "text1": "ὅθεν ὀρθῶς ὁ νομοθέτης τοὺς ἐν δόγμασι πλανωμένους καὶ λόγοις βεβλάφθαι τὸν στήμονα λέγει.",
+            "id2": "s-385,s-386",
+            "text2": "тѣмже въ и҆-стинѹ є҆ретикѡмъ ре́чемь . злоъⷨ  болѣти ."
+        },
+        {
+            "id1": "s-124",
+            "text1": "Τίνες οὐν οἱ τὴν κρόκην μὲν λεπρῶντες, τὸ δὲ δέρμα καὶ τὸν στήμονα καθαροί;",
+            "id2": "s-388,s-389",
+            "text2": "ꙗ҆вѣ се̏ є҆сть и҆ дѣтемъ . ꙗ҆ко вси ве-личѧви и҆ гр́ъдость и҆мѹще высо-кѹ ."
+        },
+        {
+            "id1": "s-125",
+            "text1": "οἱ τετυφωμένοι καὶ τὰς ὀφρῦς ἀνατετακότες ὑψηλάς· αὐτοὶ γὰρ τὴν μὲν διάνοιαν ὺγιαίνοντες, αὐτὸν όρθοδόξως πρεσβεύοντες τὸν λόγον, καὶ δέρμα δὲ] καθαρὸν φυλάσσουσιν ἐν ἁγιασμῷ, οἰδῶσι τὴν ψυχὴν ὑπὸ φιλαρχίας, καὶ καθάπερ ἀπ᾿ οὐρανῶν ὑπερηφάνως τοῖς λοιποῖς, αὐτῷ ἐπηρμένοι τούτῳ τῷ γινώσκειν  γραφὰς καὶ τὸν διδασκαλικὸν κεκληρῶσθαι θρόνον.",
+            "id2": "s-390,s-391,s-392,s-393,s-394,s-395,s-396,s-390,s-391,s-392,s-393,s-394,s-395,s-396",
+            "text2": "си бо смысломъ съдравꙋюще . и҆ слово право и҆мꙋще тѣло что хра-нѧть въ ст҃ыни . н҄о болѧть дш҃ею  . ꙗ҆ко и҆ съ нб҃се на братїю глѧдаю҆ще . и҆ прѣзрѣни-є҆мь тѣм сѧ величѧю҆ще . и҆же разꙋ-мѣти книгы . и҆ ѹ҆чительскыи пре-др́ьжати стѡ́лъ . си бо смысломъ съдравꙋюще . и҆ слово право и҆мꙋще тѣло что хра-нѧть въ ст҃ыни . н҄о болѧть дш҃ею  . ꙗ҆ко и҆ съ нб҃се на братїю глѧдаю҆ще . и҆ прѣзрѣни-є҆мь тѣм сѧ величѧю҆ще . и҆же разꙋ-мѣти книгы . и҆ ѹ҆чительскыи пре-др́ьжати стѡ́лъ ."
+        },
+        {
+            "id1": "s-126",
+            "text1": "ὥστε καὶ ταῖς χερσὶ μᾶλλον προϋπαντῶσιν ἐν τοῖς ἀσπασμοῖς, κενοδοξοῦντες πτωχῷ τὸ στόμα.",
+            "id2": "s-397,s-398",
+            "text2": "тѣмже и҆ рѹ-кама преже сърѣтаю҆ть . ѡ҆бидѧ-ще ѹ҆богꙋ ѹ҆ста подати ."
+        },
+        {
+            "id1": "s-127",
+            "text1": "διὸ δὴ καλῶς ἡγητέον νόσον καὶ λέπραν τὸν τύφον καὶ τὴν οἴησιν καὶ τὴν ὑπερηφανίαν εἶναι ψυχῆς ὄντα πάθη καὶ κωλυτικὰ τῆς εἰς τὸν παράδεισον εἰσόδου.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-128",
+            "text1": "»κύριος  γὰρ ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν·« ἐκείνοις τοῖς ταπεινοφρονοῦσι πρὸς τοὺς ὁμοιοπαθεῖς, καὶ οὐχὶ τοῖς πρὸς μὲν τὸν θεὸν δῆθεν ταπεινουμένοις, πρὸς δὲ τοὺς μετριωτέρους ὑπερόπτως διακειμένοις.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-129",
+            "text1": "τί γάρ; . .",
+            "id2": "s-399,s-400,s-401,s-402,s-403,s-404",
+            "text2": "тѣмже по правдѣ лѣпо и҆мѣти прокаже-нїе . величїе дх҃о́вноє . гл҃еть бо и҆ въ притчахъ г҃ь . прѣзоривыимъ про-тивлѧє҆тьсѧ . смѣреныи҆мъ же  блг҃о́дарїе . что ѹ҆бо"
+        },
+        {
+            "id1": "s-130",
+            "text1": "ταπεινωθήσεται πρὸς θεὸν »γῆ καὶ ὥσπερ",
+            "id2": "s-404b,s-405,s-406",
+            "text2": "и҆мать противитисѧ бѹ҃ . землѧ и҆ прьсть . и҆ли смѣрити ."
+        },
+        {
+            "id1": "s-131",
+            "text1": "ὥσπερ  καὶ τὸν ἄρτον καὶ τὸ ἱμάτιον τῷ »πεινῶντι« καὶ τῷ γυμνῷ διδόναι.",
+            "id2": "s-407,s-408",
+            "text2": "н҄о смѣрѧи҆мсѧ тѡ́-   чиюстрастьныи҆мъ намъ чл҃кѡⷨ . и҆ с похвалою бѹдемъ ѿ бг҃а ."
+        },
+        {
+            "id1": "s-132",
+            "text1": "οὐ γὰρ τῷ συστησαμένῳ καὶ εὐθύνοντι προσηκόντως καὶ τρέφοντι τὸ πᾶν ἡμεῖς οἱ μύρμηκες ὀρέγομεν τροφάς, ἀλλὰ χρηστευόμενοι καὶ εὐεργετοῦντες πληροῦμεν τὰς ἐντολάς· ἥδεται γὰρ τούτοις ὁ θεὸς καὶ εἰς ἑαυτὸν ταύτην ἐπαναφέρει τὴν σπουδήν.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-133",
+            "text1": "Und von diesem nun so.",
+            "id2": "s-409",
+            "text2": "и҆ ѡ҆ сиⷯ ѹ҆бо сице ."
+        },
+        {
+            "id1": "s-134",
+            "text1": "Aber viele an Geist und Seele Gesunde, wie auch dort an Aufzug und Einschlag, sind am Fell, das heißt Lüste des Fleisches unrein, verfuhrt durch diese sichtbaren Dinge.",
+            "id2": "s-410,s-411,s-412,s-413",
+            "text2": "н҄о мнози ѹ҆момъ и дш҃ею съ-дравѹю҆ще . ꙗ҆ко и҆ ѡ҆нѹдѣ , си́немь , и҆ ѹ҆тъкомъ . кожею рекше сласть-ми плотьными нечистѹю҆ть . прѣ-льщає҆ми мечтеными сими вещьми ."
+        },
+        {
+            "id1": "s-135",
+            "text1": "Daher müssen wir uns hüten, daß wir Sturm versinken.",
+            "id2": "s-414,s-415",
+            "text2": "тѣмже лѣпо съблюдатисѧ . да не въ велицѣи ѡ҆нои погрѧзнемъ бꙋри ."
+        },
+        {
+            "id1": "s-136",
+            "text1": "Dieses nun, o Sistelius, ist unsere Heilung.",
+            "id2": "s-416",
+            "text2": "си ѹ҆бо ѡ҆ систелїа наша врачьба ."
+        },
+        {
+            "id1": "s-137",
+            "text1": "Und als ich dies gesagt, stand ich auf und ging.",
+            "id2": "s-417",
+            "text2": "и҆ кде си рѣхъ въставъ пои҆дохъ ."
+        },
+        {
+            "id1": "s-138",
+            "text1": "Und jener stand auf und ergriff mich von hinten am Kleid.",
+            "id2": "s-418,s-419,s-420,s-421",
+            "text2": "и҆ ѡ҆нъ въста-въ и҆ и҆мъ мѧ съзади за котѹгѹ . по-и҆ди ре́че да и҆ а҆зъ ти скажю слово . и҆-же нѣкогда в лѹкии слы́шаⷯ . жень-ско блг҃о́нравїе ."
+        },
+        {
+            "id1": "s-139",
+            "text1": "Komm, sagte er, damit auch ich dir ein Wort sage, welches ich einst in Lykien hörte.",
+            "id2": "s-418,s-419,s-420,s-421",
+            "text2": "и҆ ѡ҆нъ въста-въ и҆ и҆мъ мѧ съзади за котѹгѹ . по-и҆ди ре́че да и҆ а҆зъ ти скажю слово . и҆-же нѣкогда в лѹкии слы́шаⷯ . жень-ско блг҃о́нравїе ."
+        },
+        {
+            "id1": "s-140",
+            "text1": "Die Tugend einer Frau, welche  schriftkunding war und besonnen, und nun auch philosophierend lehrend das des Herrn.",
+            "id2": "s-422,s-423,s-424",
+            "text2": "ꙗ҆ же и҆ книжна бѣ и҆ цѣлоѹ҆мна . и҆ ѹ҆бо и҆ любомд҃ренѣ . г҃ьскаѧ ."
+        },
+        {
+            "id1": "s-141",
+            "text1": "Und was ich nun von ihr hörte, tue ich vor euch kund.",
+            "id2": "s-425",
+            "text2": "и҆ є҆же ѹ҆бо сл́ышахъ ѿ неѧ ѡ҆бавѹ прѣⷣ вами ."
+        },
+        {
+            "id1": "s-142",
+            "text1": "Es sagte aber nun jene Wißbegierige (Fremdes Liebende) und Besonnene, bei allem aber sie sehend den (geistigen) Verstand: Es muß allem der das Wahre Suchende sich nicht fürchten, noch sich  gegen die Höhe der Vernunft.",
+            "id2": "s-426,s-427,s-428,s-429,s-430",
+            "text2": "гл҃аша же ѹ҆бо . любощюжаѧ ѡ҆на . и҆ цѣлоѹ҆-мъна все же и҆ ѡ҆на зрѧ̏щи разꙋмъ . ꙗ҆ко лѣпо є дрѣвле всѣⷯ и҆щющемꙋ  . не ѡ҆страшатисѧ    ни возмѹщати противꙋ разꙋмнѣ-и высости ."
+        },
+        {
+            "id1": "s-143",
+            "text1": "Wenn aber jemand anders er in die Tiefe und in armselige Gedanken, denn verzweifelt und wie mitten auf dem Weg umgekehrt, wird er lässiger, der nicht (geistigen) Verstand empfangen, und nach dem Wort des Evangeliums zur Hälfte gelassen das Wrk des Turms.",
+            "id2": "s-431,s-432,s-433,s-434,s-435,s-436",
+            "text2": "є҆гда же мѣни паче кто. въ глѹбинѹ и҆ бѣдьныѧ впаде разꙋ-мы . ѿчаꙗ҆въ бо сѧ . и҆ а҆кы посрѣдѣ пѹти ѡ҆бⸯративъ . лѣнивѣи бѹде не полꙋчивъ разꙋма . и҆ по є҆ѵа́льско-мѹ словесию в полы дѣло ѡ҆стави́-въ , сѹновьноє ."
+        },
+        {
+            "id1": "s-144",
+            "text1": "Daher muß man Geduld  haben und sich nicht ärgern.",
+            "id2": "s-437",
+            "text2": "тѣмже трь́пѣти є  лѣпо и҆ не сътѹжати ."
+        },
+        {
+            "id1": "s-145",
+            "text1": "Denn der mit Geduld die Tugenden der Schrift Suchende wird klarer sehen.",
+            "id2": "s-438",
+            "text2": "терпѣнїеъⷨ бо и҆ща книжныѧ доброты ꙗ҆снѣє ѹ҆зрить ."
+        },
+        {
+            "id1": "s-146",
+            "text1": "Denn auch der Prophet Elias nach jenem »Wind«, welcher »Berge und Felsen« zerriß, nach dem »Erdbeben« und nach dem »Feuer«, darnacli schaute er die »Stimme  jenes sanften«, das heißt stillen »Windes« »Geistes«), an vorübergehend, bis daß er kam in das Wahre.",
+            "id2": "s-439,s-440,s-441,s-442,s-443,s-444,s-445,s-446,s-447,s-448,s-449",
+            "text2": "ꙗ҆ко и҆ прркъ и҆лїа по дс҃ѣ ѡ҆номь . ѡ҆рѧщїимъ горы и҆ каменїє . по трꙋсѣ и҆ по ѡ҆гни . послѣ же тонъ-каа҆го . ре́кше тихаа҆го ѡ҆но́го дх҃а ѹ҆-зр҄ѣ гла . ѿ сиⷯ в си прѣходѧ . донде-же приде въ и҆стинⸯноє . ѡ҆вр́ьгше  мракъ . и҆ ѡ҆сщ҃е́ни дш҃ею . ꙗ҆ко и҆ съ степене на степень . ѿ разѹма в ра-зѹмъ въсходимъ ."
+        },
+        {
+            "id1": "s-147",
+            "text1": "Denn abgetan habend die Finsternis und geheiligt »erleuchtet«?",
+            "id2": "s-439,s-440,s-441,s-442,s-443,s-444,s-445,s-446,s-447,s-448,s-449",
+            "text2": "ꙗ҆ко и҆ прркъ и҆лїа по дс҃ѣ ѡ҆номь . ѡ҆рѧщїимъ горы и҆ каменїє . по трꙋсѣ и҆ по ѡ҆гни . послѣ же тонъ-каа҆го . ре́кше тихаа҆го ѡ҆но́го дх҃а ѹ҆-зр҄ѣ гла . ѿ сиⷯ в си прѣходѧ . донде-же приде въ и҆стинⸯноє . ѡ҆вр́ьгше  мракъ . и҆ ѡ҆сщ҃е́ни дш҃ею . ꙗ҆ко и҆ съ степене на степень . ѿ разѹма в ра-зѹмъ въсходимъ ."
+        },
+        {
+            "id1": "s-148",
+            "text1": ") an der Seele, schreiten wir wie von Stufe zu Stufe, von Erkenntnis zu Erkenntnis, das heilit wie vom  Bergwind, ähnlich dem Unglauben, in das Forschen der Schrift wie in das Erdbeben einzugehen, von jenem ins Feuer, das heißt Feuer der Liebe, durch welches angefeuert sehreiten wir fort zum Eifer um das Bessere, bis wir zum Gipfel gelangen, das heißt zur Heiligung des heiligen Geistes.",
+            "id2": "s-450,s-451,s-452,s-453,s-454,s-455",
+            "text2": "ре́кше а҆кы ѿ го-рьнѧа҆го дш҃а подобна невѣрию въ и҆сканїа книжнаѧ . ꙗ҆ко и҆ въ трѹ-съ вхⷣо̏ти ѿ о҆но́го на ѡ҆гнь . реш́е не на   ѹ҆гасныи҆ ѡ҆гнь любъве . и҆мже по-спѣшени , на вѧщьшїихъ поспѣше-нїе постѹпимы . дондеже верха до-и҆демъ . рекше ѡ҆сщ҃енїе стг҃о дх҃а ."
+        },
+        {
+            "id1": "s-149",
+            "text1": "—",
+            "id2": "s-456,s-457,s-458,s-459,s-460",
+            "text2": "и҆ а҆зъ почюдивъсѧ рѣхъ . се ѹ҆бо ѡ премꙋдра-ѧ  ти сѧ ѡ҆ цѣлоѹ҆мїи. и ти-хости . и҆ съпрѧтанїи . се же ѹ҆бо и҆ ѡ҆  ."
+        },
+        {
+            "id1": "s-150",
+            "text1": "Und ich verwunderte mich und  sprach: Siehe nun, ο sehr Weise, ich staunte dich an über deine Besonnenheit und Heiterkeit »Ruhe«?",
+            "id2": "s-456,s-457,s-458,s-459,s-460",
+            "text2": "и҆ а҆зъ почюдивъсѧ рѣхъ . се ѹ҆бо ѡ премꙋдра-ѧ  ти сѧ ѡ҆ цѣлоѹ҆мїи. и ти-хости . и҆ съпрѧтанїи . се же ѹ҆бо и҆ ѡ҆  ."
+        },
+        {
+            "id1": "s-151",
+            "text1": ") und Bescheidenheit (Einschränkung), nun aber auch über die Weisheit.",
+            "id2": "s-456,s-457,s-458,s-459,s-460",
+            "text2": "и҆ а҆зъ почюдивъсѧ рѣхъ . се ѹ҆бо ѡ премꙋдра-ѧ  ти сѧ ѡ҆ цѣлоѹ҆мїи. и ти-хости . и҆ съпрѧтанїи . се же ѹ҆бо и҆ ѡ҆  ."
+        },
+        {
+            "id1": "s-152",
+            "text1": "Und sie, nachdem sie heimlich gelächelt, wie gewisse weise Erklärer der Schrift, sprach also: ward klar gezeigt, daß sich nicht ärgern muß, welcher eindringt  Worte der Schrift.",
+            "id2": "s-461,s-462,s-461,s-462",
+            "text2": "и҆ ѡ҆на ѡ҆скабивъшисѧ ꙗ҆-ко и҆ нѣции прѣмѹдрїи толци кнн книжнїи . ѿ сихъ ре́че показаѧ ꙗ҆вѣ не лѣпо стѹжати си въницаю҆щемꙋ  писанїа гл҃ѧ . и҆ ѡ҆на ѡ҆скабивъшисѧ ꙗ҆-ко и҆ нѣции прѣмѹдрїи толци кнн книжнїи . ѿ сихъ ре́че показаѧ ꙗ҆вѣ не лѣпо стѹжати си въницаю҆щемꙋ  писанїа гл҃ѧ ."
+        },
+        {
+            "id1": "s-153",
+            "text1": "Zu ihr aber ich: Voll verlange ich hiervon zu hören, da aber nun hiervon sprachen.",
+            "id2": "s-463,s-464",
+            "text2": "к неи же а҆зъ . и҆сполнь ѡ҆ сиⷯ слы́шати трѣбѹю ."
+        },
+        {
+            "id1": "s-154",
+            "text1": "Wohlan sehen wir auch sorgfältig in des Vorliegenden.",
+            "id2": "s-465,s-466",
+            "text2": "є҆лма же ѹ҆бо ѡ҆ сиⷯ рѣхѡⷨ . се̏ и҆ ѡ҆ прѣⷣлежащиⷨъ ви́димь и҆спытьне ."
+        },
+        {
+            "id1": "s-155",
+            "text1": "»Und wenn am Kleid sein wird das Bild des Aussatzes, an einem  Kleid von Tuch oder von Lein, oder am Einschlag oder am Aufzug, oder an der Leinwand, oder an jedem Fell« usw.",
+            "id2": "s-467,s-468,s-469,s-470,s-471,s-472,s-473",
+            "text2": "и҆ на ризѣ а҆ще бѹдеть ѡ҆бразъ прокаженїа . на ри-зѣ сѹкнѧнѣ . и҆ли и҆зⸯгрѣбнѣ . и҆ли на ѹ҆тьцѣ . и҆ли на синѣ . и҆ли на ль-нѣ . и҆ли въ всеи кожи и҆ прочѧа."
+        },
+        {
+            "id1": "s-156",
+            "text1": "—",
+            "id2": "s-467,s-468,s-469,s-470,s-471,s-472,s-473",
+            "text2": "и҆ на ризѣ а҆ще бѹдеть ѡ҆бразъ прокаженїа . на ри-зѣ сѹкнѧнѣ . и҆ли и҆зⸯгрѣбнѣ . и҆ли на ѹ҆тьцѣ . и҆ли на синѣ . и҆ли на ль-нѣ . и҆ли въ всеи кожи и҆ прочѧа."
+        },
+        {
+            "id1": "s-157",
+            "text1": "Den Aussatz des Wollenen nennt er (den) des erneuerten inwendigen Menschen.",
+            "id2": "s-474,s-475,s-476,s-477",
+            "text2": "ꙗ҆-звѹ вълньнѹ . понавлѧє҆маа҆го ꙋ-тренѧа҆го гл҃е чл҃ка . ꙗ҆ко и҆ ѡ҆вца бо на заколенїе бо приведесѧ . ꙗ҆ко и҆   ѿ ѡ҆ного плодъ и҆стъкана ризѹ въ-лньнѹ наре́че ."
+        },
+        {
+            "id1": "s-158",
+            "text1": "Denn »wie ein Schaf ward er zur Schlachtbank geführt«; ein wie von Frucht gewebtes Kleid nennt er ein wollenes.",
+            "id2": "s-474,s-475,s-476,s-477",
+            "text2": "ꙗ҆-звѹ вълньнѹ . понавлѧє҆маа҆го ꙋ-тренѧа҆го гл҃е чл҃ка . ꙗ҆ко и҆ ѡ҆вца бо на заколенїе бо приведесѧ . ꙗ҆ко и҆   ѿ ѡ҆ного плодъ и҆стъкана ризѹ въ-лньнѹ наре́че ."
+        },
+        {
+            "id1": "s-159",
+            "text1": "Mit dem Leinenen aber  bezeichnet er den aus Staub gemachten Menschen, denn von der Erde kommt dieses hervor.",
+            "id2": "s-478,s-479,s-480",
+            "text2": "платьнѣнѹю҆ же . створенаа́го члк҃а знаме-нѹє҆ть . и҆ землѧ бо си и҆деть ."
+        },
+        {
+            "id1": "s-160",
+            "text1": "Denn verstehe, wie diesem ähnlich auch Paulus sprach im zweiten Sendschreiben an die Korinther: »Denn ich fürchte,  daß wie die Schlange Eva verführte in ihrer Arglist« »Diese« gewissen »Verheißungen habend, reinigen wir uns von aller Unreinigkeit des Fleisches und des Geistes«.",
+            "id2": "s-481,s-482,s-483,s-484,s-485,s-486",
+            "text2": "разꙋ-мѣи́ бо ꙗ҆ко подобно симъ . и҆ павѣ-лъ ре́че въ второмъ коринѳьсцѣⷨ посланїи . бою҆сѧ є҆да ꙗ҆ко и҆ змиѧ  прѣльсти въ проказьствѣ сво-є҆мъ , и҆ прочаѧ . И҆ пакы сиꙗ҆ же и҆мꙋ-ще ѡ҆бѣты вѣрнїи . ѡ҆чистимсѧ ѿ  нечистоты . пл́оти и҆ дх҃а ."
+        },
+        {
+            "id1": "s-161",
+            "text1": "Denn es sind einige Häresien, welche den äußeren Menschen nicht aussätzig haben, aber  vervveslich an Sinn und Verstand.",
+            "id2": "s-487,s-488,s-489",
+            "text2": "сѹ бо нѣкыѧ є҆реси ꙗ҆же внѣшнѧа҆го члк҃а не прокажена и҆мѹть . н҄о ѹ҆-тренѧа҆го тлѣна . ѹ҆момь и҆ разꙋ-момъ ."
+        },
+        {
+            "id1": "s-162",
+            "text1": "Nach dem Leben sehen wir viele rein, durch den Glauben verweslich.",
+            "id2": "s-490,s-491",
+            "text2": "житїемь ви́димъ мно́гы . чисты и вѣрою тлѣны ."
+        },
+        {
+            "id1": "s-163",
+            "text1": "»καὶ ἐν ἱματίῳ ἐὰν γένηται ἐν αὐτῶ̣ ἁφὴ λέπρας, ἐν ἱματίω̣ ἐρεῷ ἢ ἐν ἱματίῳ στιππυΐνῳ ἢ ἐν στήμονι ἢ έν κρόκῃ.",
+            "id2": "s-492,s-493,s-494,s-495,s-496,s-497,s-498,s-499,s-500",
+            "text2": "и҆ на ризѣ а҆ще бѹдеть ѡ҆бразъ прокаженїа на ризѣ сѹкнѧнѣ . и҆ли и҆згрѣбьне . и҆ли на синѹ и҆ли на ѹ҆тцѣ . да ѿре-кѹть ны плотѧнїи и҆ю҆дѣи . како сѧ свѣршає҆ть си заповѣдь в нихъ . како сѧ съвр́ъшає в ниⷯ . писа-   нїе по простомѹ . ꙗ҆ко же мощи видѣ-ти сина прокаженїе и҆ли ѹ҆тка и҆ли кожа . бездѹшныиⷯ вещии ."
+        },
+        {
+            "id1": "s-164",
+            "text1": "« ἀποκρινέσθωσαν ἡμῖν οἱ σάρκινοι Ἰουδαῖοι, πῶς αὕτη παρ᾿ αὐτοῖς ἡ ἐντολὴ  ἢ καὶ πῶς ἀποσῴζεται παρ' αὐτοῖς ἡ γραφὴ κατὰ τὸ ψιλόν, ὥστε δύνασθαι λέπραν στήμονος ἢ δέρματος ἢ κρόκης διορᾶν πραγμάτων ἀψύχων.",
+            "id2": "s-492,s-493,s-494,s-495,s-496,s-497,s-498,s-499,s-500",
+            "text2": "и҆ на ризѣ а҆ще бѹдеть ѡ҆бразъ прокаженїа на ризѣ сѹкнѧнѣ . и҆ли и҆згрѣбьне . и҆ли на синѹ и҆ли на ѹ҆тцѣ . да ѿре-кѹть ны плотѧнїи и҆ю҆дѣи . како сѧ свѣршає҆ть си заповѣдь в нихъ . како сѧ съвр́ъшає в ниⷯ . писа-   нїе по простомѹ . ꙗ҆ко же мощи видѣ-ти сина прокаженїе и҆ли ѹ҆тка и҆ли кожа . бездѹшныиⷯ вещии ."
+        },
+        {
+            "id1": "s-165",
+            "text1": "ταῦτα γὰρ ὁ θεὸς ὡς ἐπὶ λογικῶν καὶ αὐτεξουσίων διορίζεται.",
+            "id2": "s-501,s-502,s-503",
+            "text2": "си бо ꙗ҆-ко и҆ въ словесныиⷯ самовластьныиⷯ б҃ъ раздѣлѧє҆ть . а҆ще бо по седми  прѣбываю҆щю прокаженїю ка-знитисѧ вели си́н҄о, и҆ ѹ҆тъкъ , и҆ риза; ꙗ҆ко не прѣмѣнѧщии҆сѧ ѿ нечисто-ты . ꙗ҆вѣ же ꙗ҆ко ѡ҆ дш҃евныиⷯ, а҆ не ѡ҆ бездѹшныихъ гл҃еть ."
+        },
+        {
+            "id1": "s-166",
+            "text1": "εἰ γὰρ ὅλως ἐπιμενούσης τῆς λέπρας μετὰ τὸν ἀφορισμὸν τῶν ἑπτὰ ἡμερῶν κελεύεται τὸ ἱμάτιον ἢ ὁ στήμων <ἢ  > κολάζεσθαι ὡς μὴ μεταβαλλόμενον ἀπὸ τῆς ἀκαθαρσίας, δῆλον > ὑπὲρ ζῴων διαλέγεται λογικῶν, καὶ οὐχ ὡς αὐτοὶ νομίζουσιν ἀψύχων.",
+            "id2": "s-501,s-502,s-503",
+            "text2": "си бо ꙗ҆-ко и҆ въ словесныиⷯ самовластьныиⷯ б҃ъ раздѣлѧє҆ть . а҆ще бо по седми  прѣбываю҆щю прокаженїю ка-знитисѧ вели си́н҄о, и҆ ѹ҆тъкъ , и҆ риза; ꙗ҆ко не прѣмѣнѧщии҆сѧ ѿ нечисто-ты . ꙗ҆вѣ же ꙗ҆ко ѡ҆ дш҃евныиⷯ, а҆ не ѡ҆ бездѹшныихъ гл҃еть ."
+        },
+        {
+            "id1": "s-167",
+            "text1": "πόσην δὲ καὶ σπουδὴν ἄρα κατ' αὐτοὺς τῶν ἐκεῖ ἀψύχων, κρόκης λέγω καὶ στήμονος, ὁ πνεύματι καὶ λόγῳ δημιουργήσας τὸ πᾶν ἐποιεῖτο νομοθετῶν; ὁπότε κατὰ τὸν ἀπόστολον οὐδὲ περὶ »τῶν  βοῶν μέλει τῷ θεῷ«, ἀλλ' »ἐγράφη« ταῦτα εἰς νουθεσίαν »ἡμῶν«.",
+            "id2": "s-501,s-502,s-503",
+            "text2": "си бо ꙗ҆-ко и҆ въ словесныиⷯ самовластьныиⷯ б҃ъ раздѣлѧє҆ть . а҆ще бо по седми  прѣбываю҆щю прокаженїю ка-знитисѧ вели си́н҄о, и҆ ѹ҆тъкъ , и҆ риза; ꙗ҆ко не прѣмѣнѧщии҆сѧ ѿ нечисто-ты . ꙗ҆вѣ же ꙗ҆ко ѡ҆ дш҃евныиⷯ, а҆ не ѡ҆ бездѹшныихъ гл҃еть ."
+        },
+        {
+            "id1": "s-168",
+            "text1": "Wohlan nun, damit wir nicht vorübergehen, schauen wir habend »die Decke« der Augen die Herrlichkeit Gottes.",
+            "id2": "s-504,s-505,s-506",
+            "text2": "се же ѹ҆бо да не минѹє҆мь . ѿкрывше ѡ҆чьныи по-кровъ . бж҃їю славѹ ҆зримъ ."
+        },
+        {
+            "id1": "s-169",
+            "text1": "nichts Unnützes enthält die Schrift.",
+            "id2": "s-507,s-508,s-509,s-510",
+            "text2": "не и҆-мѹть бо ничего же праздьна книгы за́повѣдавъ бо ны о҆ разꙋмнѣмь и҆ пло-тьнѣмь грѣсѣ . по чинѹ пакы, и҆ ѡ҆ ко-жи , и҆ ѡ҆ синѣ, гл҃еть . сѹкнѧноє бо, и҆ льнѧноє , ѡ҆дѣнїе , и҆мѹщемꙋ чисто . ре́кше вѣрѹ и҆ дѣло ."
+        },
+        {
+            "id1": "s-170",
+            "text1": "Denn uns Gebote gebend von der Sünde des Verstandes und des Fleisches, redet er der Reihe nach  vom Fell und vom Aufzug und vom Einschlag.",
+            "id2": "s-507,s-508,s-509,s-510",
+            "text2": "не и҆-мѹть бо ничего же праздьна книгы за́повѣдавъ бо ны о҆ разꙋмнѣмь и҆ пло-тьнѣмь грѣсѣ . по чинѹ пакы, и҆ ѡ҆ ко-жи , и҆ ѡ҆ синѣ, гл҃еть . сѹкнѧноє бо, и҆ льнѧноє , ѡ҆дѣнїе , и҆мѹщемꙋ чисто . ре́кше вѣрѹ и҆ дѣло ."
+        },
+        {
+            "id1": "s-171",
+            "text1": "Denn wer die Klei-dung von Tucli und Leinwand rein hat, das heißt den Glauben dio Tat . .",
+            "id2": "s-507,s-508,s-509,s-510",
+            "text2": "не и҆-мѹть бо ничего же праздьна книгы за́повѣдавъ бо ны о҆ разꙋмнѣмь и҆ пло-тьнѣмь грѣсѣ . по чинѹ пакы, и҆ ѡ҆ ко-жи , и҆ ѡ҆ синѣ, гл҃еть . сѹкнѧноє бо, и҆ льнѧноє , ѡ҆дѣнїе , и҆мѹщемꙋ чисто . ре́кше вѣрѹ и҆ дѣло ."
+        },
+        {
+            "id1": "s-172",
+            "text1": "Denn das Kleid des Herrn ist die Kirche, denn von vielen Gegenden hat er nns gesammelt und uns geweht, damit wir Schwächeren  der Einschlag von Größeren gehalten werden.",
+            "id2": "s-511,s-512,s-513,s-514,s-515",
+            "text2": "ри́за бо є г҃ꙋ це-рькѡ́вь . ѿ многыиⷯ събрана странъ . и҆стъка ны . да немощнѣи҆шии мы ꙗ҆ко и҆ ѹ҆токъ . бошими др́ьжимсѧ ."
+        },
+        {
+            "id1": "s-173",
+            "text1": "Daher auch der also sagt: »Er kleidet sich wie in Schmuck der Braut«, zeigend Verbindung Christi und Vereinigung der Liebe spricht er.",
+            "id2": "s-516,s-517,s-518,s-519,s-520,s-521,s-522",
+            "text2": "тѣмже и҆ прркъ гл҃ѧ ꙗ҆ко ѡ҆блечесѧ   ꙗ҆ко и҆ вътварь невѣстьнѹ . съвѹ-зъ показаѧ хв҃ъ гл҃еть . и҆ любовьноє є҆диненїе . си́нъ бо наре́четъ , крѣпли и҆ чинъ цр҃ко́вныи . рекше пископы , и҆ ѹ҆чителѧ . ѹ҆токъ же пови́нныѧ и҆ пасомыѧ люди . кожю же ѡ҆гла-шеныѧ ꙗ҆коже не ѿвр́ъгше є҆ще ко-жьныиⷯ ризъ кр҃ще́нїемь ."
+        },
+        {
+            "id1": "s-174",
+            "text1": "Denn Aufzug nennt er die kräftigere Ordnung der Kirche, das heißt und Lehrer, Einschlag aber die Untergebenen und das geweidete Volk,  Fell aber die Katechumenen, als die noch nicht abgetan haben die Kleider von Fellen durch die Taufe.",
+            "id2": "s-516,s-517,s-518,s-519,s-520,s-521,s-522",
+            "text2": "тѣмже и҆ прркъ гл҃ѧ ꙗ҆ко ѡ҆блечесѧ   ꙗ҆ко и҆ вътварь невѣстьнѹ . съвѹ-зъ показаѧ хв҃ъ гл҃еть . и҆ любовьноє є҆диненїе . си́нъ бо наре́четъ , крѣпли и҆ чинъ цр҃ко́вныи . рекше пископы , и҆ ѹ҆чителѧ . ѹ҆токъ же пови́нныѧ и҆ пасомыѧ люди . кожю же ѡ҆гла-шеныѧ ꙗ҆коже не ѿвр́ъгше є҆ще ко-жьныиⷯ ризъ кр҃ще́нїемь ."
+        },
+        {
+            "id1": "s-175",
+            "text1": "Daher auch Paulus sagte: »Ich habe euch verbunden Einem Mann eine reine Jungfrau darzustellen Christo«.",
+            "id2": "s-523,s-524,s-525,s-526,s-527",
+            "text2": "тѣмже и҆ павелъ . съвъкѹпиⷯ вы ре́че є҆диномꙋ мѹжю дв҃цю чтѹ прѣⷣставити х҃ꙋ . и҆ в леѵитицѣ гл҃еть , женѹ ѿ рода своє҆го дв҃цю поиметь . вдови-ца же и҆ любодѣи҆ца да не поє҆млеть . н҄о дѣвичю ѿ колѣна своє҆го и҆ проча-ѧ ."
+        },
+        {
+            "id1": "s-176",
+            "text1": "Wie er auch im Levitikus spricht: »Er soll zum Weib seinem Stamm eine Jungfrau nehmen; eine Witwe aber und eine  Buhlerin nehme er nicht, sondern eine Jungfrau von seinem « usw.",
+            "id2": "s-523,s-524,s-525,s-526,s-527",
+            "text2": "тѣмже и҆ павелъ . съвъкѹпиⷯ вы ре́че є҆диномꙋ мѹжю дв҃цю чтѹ прѣⷣставити х҃ꙋ . и҆ в леѵитицѣ гл҃еть , женѹ ѿ рода своє҆го дв҃цю поиметь . вдови-ца же и҆ любодѣи҆ца да не поє҆млеть . н҄о дѣвичю ѿ колѣна своє҆го и҆ проча-ѧ ."
+        },
+        {
+            "id1": "s-177",
+            "text1": "Denn wenn ein jeder von uns »von Tag zu Tag « —",
+            "id2": "s-528,s-529,s-530,s-531,s-532,s-533",
+            "text2": "аще бо ко́ждо на понавлѧєⷨ  въ дн҃ь и҆ въ дн҃ь , прокаже́нїе . ре́къ-ше любодѣ́иство ѿвр́ьжеⷨ виннаѧ и҆згнанїю нашемѹ . ѹ҆дѣви́читсѧ и҆ в пе́рвꙋю добротѹ бж҃їею̆ прѣ-мѹдростїю прꙶидеть . ꙗ҆ко и҆ зла-тыми трьснъми ѹ҆краше́нъ . ре ́-ше любовїю , вѣрою , чистотою . терпѣнїемь , въє҆динитсѧ къ х҃ѹ ѡ҆чистив сѧ ."
+        },
+        {
+            "id1": "s-178",
+            "text1": "indem wir den Aussatz, das heißt die Unzucht abgetan haben, die schuldig sind an unserer Austreibung — , sich verjungfräulicht und ersten Schönheit durch die Weisheit Gottes gelangt, wie mit  Ketten geschmückt, das heißt mit Liebe, Glaube, Reinheit, eint er sich Christo, nachdem er gereinigt worden.",
+            "id2": "s-528,s-529,s-530,s-531,s-532,s-533",
+            "text2": "аще бо ко́ждо на понавлѧєⷨ  въ дн҃ь и҆ въ дн҃ь , прокаже́нїе . ре́къ-ше любодѣ́иство ѿвр́ьжеⷨ виннаѧ и҆згнанїю нашемѹ . ѹ҆дѣви́читсѧ и҆ в пе́рвꙋю добротѹ бж҃їею̆ прѣ-мѹдростїю прꙶидеть . ꙗ҆ко и҆ зла-тыми трьснъми ѹ҆краше́нъ . ре ́-ше любовїю , вѣрою , чистотою . терпѣнїемь , въє҆динитсѧ къ х҃ѹ ѡ҆чистив сѧ ."
+        },
+        {
+            "id1": "s-179",
+            "text1": "»Daher lieben die  Jungfrauen dich « und er liebt die Jungfrauen, wie er im schreibt, die jungen und durch den Geist reinen Seelen.",
+            "id2": "s-534,s-535,s-536,s-537",
+            "text2": "тѣмже дв҃цѧ любѧть. дв҃цѧ любить . ꙗ҆ко въ пѣниихъ пѣнїи пише . ѹ҆ныѧ и҆ чтыѧ дхм҃ь дш҃а"
+        },
+        {
+            "id1": "s-180",
+            "text1": "— Oder ist dies nicht so, ο Sistelius?",
+            "id2": "s-537b",
+            "text2": "то и҆ли не сице є  ѡ҆ систелиє ."
+        },
+        {
+            "id1": "s-181",
+            "text1": "Und ich sprach: Durchaus ist dies verständig.",
+            "id2": "s-538,s-539",
+            "text2": "и҆ а҆зъ ѿрѣⷯ . ѕѣло̀ се є разꙋмно ."
+        },
+        {
+            "id1": "s-182",
+            "text1": "Und sie sprach: Daher wie wir zuerst sprachen: wenn wir alle Glieder reinigen, werden wir das Kleid Christi.",
+            "id2": "s-540,s-541,s-542,s-543,s-544,s-545,s-546,s-547",
+            "text2": "и҆ ѡ҆на ре́че . тѣмже ꙗ҆ко и҆сперва гл҃ахѡⷨ . а҆ще бо всѧ ѹ҆ды ѡ҆чистимъ . риза  хв҃а . ꙗ҆ко ѡ҆ пррцѣ и҆сайи  гл҃еть . да възрⷣаує҆тсѧ дш҃а моѧ о҆ г҃и. ѡ҆блѣче бо мѧ в ризѹ сп҃сенѹю . и҆ про-чаѧ ."
+        },
+        {
+            "id1": "s-183",
+            "text1": "Wie er bei dem Propheten Jesaias spricht: »Es freue sich meine Seele über den Herrn, denn er hat mich gekleidet in ein Kleid des Heils« usw.",
+            "id2": "s-540,s-541,s-542,s-543,s-544,s-545,s-546,s-547",
+            "text2": "и҆ ѡ҆на ре́че . тѣмже ꙗ҆ко и҆сперва гл҃ахѡⷨ . а҆ще бо всѧ ѹ҆ды ѡ҆чистимъ . риза  хв҃а . ꙗ҆ко ѡ҆ пррцѣ и҆сайи  гл҃еть . да възрⷣаує҆тсѧ дш҃а моѧ о҆ г҃и. ѡ҆блѣче бо мѧ в ризѹ сп҃сенѹю . и҆ про-чаѧ ."
+        },
+        {
+            "id1": "s-184",
+            "text1": "Wer aber nun wird vielmehr diese reinigen?",
+            "id2": "s-548",
+            "text2": "Кто же ѹ҆бо си паче ѡ҆чисти-ти и҆мать ."
+        },
+        {
+            "id1": "s-185",
+            "text1": "Zacharias, der Prophet, sprechend:  »Und es zeigte mir Gott Jesus, den Hohepriester, stehend vor dem Engel des Herrn.",
+            "id2": "s-549,s-550,s-551,s-552",
+            "text2": "захарїа прркъ гл҃ѧ . и҆ по-каза ми б҃ъ , і҆с҃а ж҆р҆́ь҆ц҆а великаа҆го . прѣⷣ а҆гг҃лѡⷨ гн҃емь . и҆ диꙗ҆-волъ стоꙗ҆ше ѡ҆ деснѹю противлѧ-ти є҆мꙋ ."
+        },
+        {
+            "id1": "s-186",
+            "text1": "Und der Teufel stand zu seiner Rechten, ihm zu zu widerstehen.",
+            "id2": "s-549,s-550,s-551,s-552",
+            "text2": "захарїа прркъ гл҃ѧ . и҆ по-каза ми б҃ъ , і҆с҃а ж҆р҆́ь҆ц҆а великаа҆го . прѣⷣ а҆гг҃лѡⷨ гн҃емь . и҆ диꙗ҆-волъ стоꙗ҆ше ѡ҆ деснѹю противлѧ-ти є҆мꙋ ."
+        },
+        {
+            "id1": "s-187",
+            "text1": "Und es sprach der Herr zum Teufel: Es schelte dich, Teufel, der Herr, der Jerusalem erwählt hat.",
+            "id2": "s-553,s-554,s-555",
+            "text2": "и҆ ре́че г҃ь къ диꙗ҆волѹ . да попрѣтить тебе г҃ь диꙗ҆воле . и҆зъ-бравыи і҆є҆рлмь ."
+        },
+        {
+            "id1": "s-188",
+            "text1": "Ist 003E; dies nicht ein Brand herausgerissen aus dem Feuer?",
+            "id2": "s-556,s-557",
+            "text2": "не сели є ꙗ҆ко и҆ гла-вьнѧ и҆сто́ржена и҆зъ ѡ҆гнѧ . і҆с҃ъ бѣ ѡ҆блѣченъ в ризы нечисты ."
+        },
+        {
+            "id1": "s-189",
+            "text1": "(Und) Jesus war gekleidet in  unreine Kleider.",
+            "id2": "s-556,s-557",
+            "text2": "не сели є ꙗ҆ко и҆ гла-вьнѧ и҆сто́ржена и҆зъ ѡ҆гнѧ . і҆с҃ъ бѣ ѡ҆блѣченъ в ризы нечисты ."
+        },
+        {
+            "id1": "s-190",
+            "text1": "« Und bald darauf: »Und er sprach zu den die vor seinem Antlitz standen, nehmt weg von diesem die schmutzigen Kleider«.",
+            "id2": "s-558,s-559,s-560,s-561,s-562",
+            "text2": "и҆ пома-лѣ . и҆ ре ́къ стоꙗ҆щимъ а҆гг҃лѡⷨ прѣⷣ   лицемъ є҆го . ѿи҆мѣте ѿ него скве́-рнавыѧ ризы . и҆ помалѣ . и҆ ѡ҆блѣ-коша и в ризꙋ чтꙋ ."
+        },
+        {
+            "id1": "s-191",
+            "text1": "Und bald darauf: »Und sie kleideten ihn in ein —",
+            "id2": "s-558,s-559,s-560,s-561,s-562",
+            "text2": "и҆ пома-лѣ . и҆ ре ́къ стоꙗ҆щимъ а҆гг҃лѡⷨ прѣⷣ   лицемъ є҆го . ѿи҆мѣте ѿ него скве́-рнавыѧ ризы . и҆ помалѣ . и҆ ѡ҆блѣ-коша и в ризꙋ чтꙋ ."
+        },
+        {
+            "id1": "s-192",
+            "text1": "Verstehe nämlich, daß die unreinen Kleider die Menschheit ist vor dem Glauben: und von dem alten Menschen die Menschheit entblößend,  erleuchtete er sie wie die Sonne mit seinem Fleisch.",
+            "id2": "s-563,s-564,s-565",
+            "text2": "разꙋмѣи бо ꙗ҆ко ризы нечтыѧ чл҃чство є . дрѣвле вѣрованїа . и҆ сь ветхаа҆го члк҃а ѡ҆бъ-наживъ чл҃чьство просвѣти а҆кы слн҃це своє̆ю плотїю ."
+        },
+        {
+            "id1": "s-193",
+            "text1": "Denn forsche du, wie auf diese Weise Gott auch Tyrus schalt sprechend: Warum ist dir das Bett unrein?",
+            "id2": "s-566,s-567,s-568",
+            "text2": "попытаи бо ты ꙗ҆ко си мытарѧ . б҃ъ свари гл҃ѧ . почто ти є постелѧ нечиста ."
+        },
+        {
+            "id1": "s-194",
+            "text1": "Von »Byssus« nämlich und ägyptischem »Purpur« war es gemacht, nicht von der »Mannigfaltigkeit der Weisheit Gottes« , sondern von »ägyptischer«; wie jener Gott mißfällig war.",
+            "id2": "s-569,s-570",
+            "text2": "ѿ вѵ-сⸯса бо и҆ порфѵры бѣа҆ше є҆гѵпеть-скы створена не ѿ мечтеныѧ бж҃їа мѹдрости . н҄о ѿ є҆гѵпетьскыѧ ."
+        },
+        {
+            "id1": "s-195",
+            "text1": "Denn",
+            "id2": "s-571,s-572",
+            "text2": "богатыи ѡ҆нъ ѡ҆блачаⷶѝсѧ въ багрѧницю . негоденъ бы бѹ҃ ."
+        },
+        {
+            "id1": "s-196",
+            "text1": "Gott mißfällig war.",
+            "id2": "s-571,s-572",
+            "text2": "богатыи ѡ҆нъ ѡ҆блачаⷶѝсѧ въ багрѧницю . негоденъ бы бѹ҃ ."
+        },
+        {
+            "id1": "s-197",
+            "text1": "Denn daher ist er Gott mißfällig, weil er sich mit diesen zeitlichen schmückt, aber nicht mit geistlichen und leuchtenden Wie auch jener »Lazarus« sich nicht kümmerte um die äußeren sondern sich vielmehr fleißigte um die der Seele; daher ruhte er  »im Schoß Abrahams«.",
+            "id2": "s-573,s-574,s-575,s-576,s-577,s-578",
+            "text2": "тѣⷨ бо є негоденъ . и҆мже сими врѣме-нными красѹє҆тсѧ . а҆ не дх҃о́вны-ми , и҆ свѣтлыми дѣлесы . ꙗ҆ко и҆ ла-зорь ѡнъ не брежааше ѡ҆ внѣшнїиⷯ . н҄о ѡ҆ дш҃евныиⷯ не прїлежаа҆ше па́че . тѣмже в пазѹсѣ а҆врамли почи-ваа҆ше ."
+        },
+        {
+            "id1": "s-198",
+            "text1": "Wir werden aber nun finden durch Leiden und Marter.",
+            "id2": "s-579",
+            "text2": "ѡ҆брѧщемъ же ѹ҆бо и҆ѡва болѣзньми , и҆ мꙋченїи просла́влена ."
+        },
+        {
+            "id1": "s-199",
+            "text1": "Daher nämlich »ging« auch jener »Pharisäer« »hinweg« vom Gebet, ohne vollendet »gerechtfertgt) zu zu sein« .",
+            "id2": "s-580",
+            "text2": "тѣмже бо и҆ ѡ҆нъ фарисѣи не съвр́ъши-въ ѿиде млт҃вы ."
+        },
+        {
+            "id1": "s-200",
+            "text1": "Denn er hatte sich erhöht über einen solchen  Denn es gebührte sich eine gewisse Weise zu haben, entsprechend Lehre Christi, welcher »welche«?",
+            "id2": "s-581",
+            "text2": "на такого же бо сѧ въ-звышаше члк҃а ."
+        },
+        {
+            "id1": "s-201",
+            "text1": ") weder zornig noch hoffärtig.",
+            "id2": "s-582,s-583",
+            "text2": "лѣпо бо бѣ нравъ нѣ-кыи по ѹ҆ченїю хв҃ѹ и҆мѣти . не ꙗ҆ро-стьномѹ ни величавомѹ ."
+        },
+        {
+            "id1": "s-202",
+            "text1": "Denn wir finden oftmals solche in Schwelgerei lebend und in feine Kleider sich kleidend.",
+            "id2": "s-584",
+            "text2": "ѡ҆брѣта-є҆мъ бо мно́гыжды сицевыѧ пита-ниє҆мь живѹща , и҆ в ризаⷯ то́нкаⷯ ѡ҆дѣ-ю҆щасѧ ."
+        },
+        {
+            "id1": "s-203",
+            "text1": "Daher auch Christus die Reichen meinend sprach: »Es ist leichter, daß ein Seil durch ein Nadelöhr gehe, als daß  in das Himmelreich komme«.",
+            "id2": "s-585,s-586",
+            "text2": "тѣмже и҆ х҃ъ богатыиⷯ гл҃ѧ  . ѹ҆добь є ю̆же сквозѣ и҆голнїи  ѹ҆ши , и҆ли богатѹ въ цртво небесноє внити ."
+        },
+        {
+            "id1": "s-204",
+            "text1": "Denn man muß vielmehr die Fremden und Armen ehren, durch welche sich Christus nannte.",
+            "id2": "s-587",
+            "text2": "лѣпо бо паче чюжа́а  нищаѧ чисти , и҆миже сѧ нарече х҃с ."
+        },
+        {
+            "id1": "s-205",
+            "text1": "An jener Stelle aber zu denen mit vielem Gold übergehend, ehren sie aucli diese viel mehr; denn die einen tun dies der Würden halber, die wegen irgendwelcher anderer Ursachen.",
+            "id2": "s-588,s-589,s-590",
+            "text2": "въ ѡ҆нѣⷯ же мѣсто къ много злать-ныиⷨ прѣходѧ , и҆ тыⷯ паче чтѹ . ѡ҆ви  санъ дѣлѧ . ѡ҆виⷤ и҆нѣⷯ нѣкыиⷯ рⷣа̏ винъ  творѧть ."
+        },
+        {
+            "id1": "s-206",
+            "text1": "Daher waren wir nicht barmherzig,  verschließend das Erbarmen gegen unsere Bruderschaft; schämen wir uns der Armut, der Gefährtin der der Besonnenheit.",
+            "id2": "s-591,s-592,s-593,s-594,s-595",
+            "text2": "ѿсюдѹ не милосерди быхомъ . затворѧю҆ще братїи на-шеи млть . ѿсюдѹ сѧ стыдимъ ни-щеты съжильницї . пррчьскыѧ . цѣ-лоѹ҆миѧ творца ."
+        },
+        {
+            "id1": "s-207",
+            "text1": "O weh!",
+            "id2": "s-596",
+            "text2": "ѹ, го́ре ."
+        },
+        {
+            "id1": "s-208",
+            "text1": "wodurch übertreffen wir die andern Menschen, da uns befohlen ist, zu haben eine »Gerechtigkeit besser als die der Schriftgelehrten und Pharisäer«, gemäß dem Befehl in  Nichtachtung des Zeitlichen durch diese zu lernen: Wenn auch der Ozean von Silber flösse und die ganze Erde von Gold, würden nicht satt werden.",
+            "id2": "s-597,s-598,s-599,s-600,s-601,s-602",
+            "text2": "чимь  и҆нѣⷯ члк҃ъ . повелѣни и҆-мѣти правдѹ паче гра́ммоти , и҆   фарисѣи . по повелѣнїи ѡ҆ врѣмень-ныиⷯ . небрѣжении ѹ҆чити сими . а҆ще и҆ ѡ҆кеа҆нъ срѣбромь потече , и҆ всѧ зе-млѧ златомъ . не насыщає҆мсѧ ."
+        },
+        {
+            "id1": "s-209",
+            "text1": "Wer von uns liebt nun seinen Bruder mit Wahrheit?",
+            "id2": "s-603",
+            "text2": "кто на нн҄ѣ брата своє҆го и҆стиною люби ."
+        },
+        {
+            "id1": "s-210",
+            "text1": "Wer ist, der nicht Böses denkt wider seinen Nächsten?",
+            "id2": "s-604",
+            "text2": "кто ли не помыслѧѝ зл҄а ближицѣ ."
+        },
+        {
+            "id1": "s-211",
+            "text1": "Wer  den andern?",
+            "id2": "s-605",
+            "text2": "кто ли не завидѧѝ дрꙋгѹ ."
+        },
+        {
+            "id1": "s-212",
+            "text1": "Denn wo die Bischöfe durch AYucher sich nähren , da ist auch unser Aufzug aussätzig, wo die Laien, da der Einschlag.",
+            "id2": "s-606,s-607",
+            "text2": "кде бо є҆пкпи , прикѹпомь глождють . тѹ҆ и҆ ѹ҆токъ нашь ѡ҆прокажене ."
+        },
+        {
+            "id1": "s-213",
+            "text1": "diese schilt auch der heilige Geist: »Müssen sich selbst mehr die Hirten weiden, oder nicht die Schafe?",
+            "id2": "s-610,s-611",
+            "text2": "си́ꙗ бо и҆ дх҃ъ ст҃ыи ѡ҆хѹлѧє҆ть . се̏бе болии҆ ре́четь лѣпо пасти пастѹхомъ ."
+        },
+        {
+            "id1": "s-214",
+            "text1": "Denn siehe, die Milch esset ihr und mit der Wolle bekleidet ihr euch«.",
+            "id2": "s-612,s-613,s-614,s-615",
+            "text2": "а҆ не ли ѡ҆-вець . се бо млѣко и҆зидає҆те . и҆ во-лною сѧ ѡ҆дѣває҆те . и҆ помалѣ ."
+        },
+        {
+            "id1": "s-215",
+            "text1": "Und bald darauf: »Und ihr   zerstreut meine Schafe, und sie wurden zur Speise allen Tieren«.",
+            "id2": "s-616",
+            "text2": "и҆ разⸯгнасте ми ѡ҆вца ."
+        },
+        {
+            "id1": "s-216",
+            "text1": "Und der Herr wieder verglich den Reichtum den »Dornen« ; der Herr befahl dem, welcher fragte, welches »Gebot das groößere« sei, zu verteilen; der Apostel nennt den Reichtum einen »Fallstrick«  des Todes.",
+            "id2": "s-618,s-619,s-620,s-621,s-622",
+            "text2": "и҆ г҃ь пакы бо-гатьство къ тернїю приложи . г҃ь  каѧ заповѣдь боль-ши . и҆мѣнїа разⷣаꙗ҆ти повелѣ . а҆по-столъ богатьство прꙋгло наричеть смр҃тноє . г҃ь гл҃а любите врагы сво-ѧ ."
+        },
+        {
+            "id1": "s-217",
+            "text1": "Der Herr hat gesprochen: »Liebet eure Feinde«, aber streiten mit den Freunden.",
+            "id2": "s-621,s-622",
+            "text2": "а҆по-столъ богатьство прꙋгло наричеть смр҃тноє . г҃ь гл҃а любите врагы сво-ѧ ."
+        },
+        {
+            "id1": "s-218",
+            "text1": "Denn eines Guten Sache ist, nicht die uns Liebenden zu lieben, sondern vielmehr die Hassenden dazu zu lieben;",
+            "id2": "s-624,s-625,s-626",
+            "text2": "благаго бо є . не є҆же любѧщаѧ лю-бити . н҄о враждѹщаѧ паче прилю-блѧти ."
+        },
+        {
+            "id1": "s-219",
+            "text1": "der Herr sprach: »Gib einem jeden, der bittet«, aber wir,  bloß sehend, denken auch nicht daran.",
+            "id2": "s-627,s-628,s-629",
+            "text2": "г҃ь ре́че всемѹ просѧщемꙋ да-жь . а҆ мы свою братїю видѧще нагꙋ . ни҆ помыслимъ на то ."
+        },
+        {
+            "id1": "s-220",
+            "text1": "Denn uns allen gebührt  Zeitliche zu verachten, wie vielmehr aber den Bischöfen.",
+            "id2": "s-630,s-631",
+            "text2": "лѣпо бо наⷨ всѣⷨ прѣзрѣти вр́ѣменнаѧ . паче же є҆пи-скопомъ ."
+        },
+        {
+            "id1": "s-221",
+            "text1": "Denn nützt Gold oder Silber oder Perlen?",
+            "id2": "s-632,s-633",
+            "text2": "чт҄о бо ѹ҆спѣ злато и҆ли срѣбро . и҆лѝ бисеръ ."
+        },
+        {
+            "id1": "s-222",
+            "text1": "Wenn sie doch könnten Hunger hindern oder den Tod eines Kindes einhalten.",
+            "id2": "s-634,s-635",
+            "text2": "є҆гда бо могоша  въспѧтити . и҆ли чадъ смр҃ти  ."
+        },
+        {
+            "id1": "s-223",
+            "text1": "Denn anderes ist dies nichts als Trug, denn für sich ist es unnütz.",
+            "id2": "s-636,s-637,s-638,s-639",
+            "text2": "и҆но́ бо се ничто же н҄о прѣ-лесть . ѡ҆ себе бо не полезно . не могы-и бо приложити к себе никт҄о же ни є҆-диного власа . въсѹє ѡ҆ ѡ҆нѣⷯ поⷣви-жетсѧ ."
+        },
+        {
+            "id1": "s-224",
+            "text1": "niemand vermag »ein einziges Haar« sich »hinzuzufügen«, ühmt  sich umsonst über jene Dinge.",
+            "id2": "s-636,s-637,s-638,s-639",
+            "text2": "и҆но́ бо се ничто же н҄о прѣ-лесть . ѡ҆ себе бо не полезно . не могы-и бо приложити к себе никт҄о же ни є҆-диного власа . въсѹє ѡ҆ ѡ҆нѣⷯ поⷣви-жетсѧ ."
+        },
+        {
+            "id1": "s-225",
+            "text1": "Wenn aber nun auch »die Vögel, welche nicht säen noch «, satt werden, und »die Blumen«, niemand ihnen ein Kleid webt, gleichwohl, da Gott es will, so geboren werden, — »wieviel mehr wir, denn es weiß der himmlische daß wir dies alles bedürfen«.",
+            "id2": "s-640,s-641,s-642,s-643,s-644,s-645",
+            "text2": "а҆ще же ѹ҆бо и҆ птица , не сѣ-ю҆ща ни жнѹща сытѧтсѧ . и҆ цвѣ-тѹ . не ткѹщю и҆мъ ѡ҆дежа ни-комѹ же . ѡ҆баче бѹ҃ хотѧщю тако-ва ражаю҆тьсѧ . колико паче мы . вѣ-сть бо нбныи ѡ҆ц҃ь ꙗ҆ко трѣбѹємъ всѣⷯ сиⷯ ."
+        },
+        {
+            "id1": "s-226",
+            "text1": "Denn auch Salomo, welcher weiser und  reicher war denn alle Könige, versündigte sich durch große Schwelgerei.",
+            "id2": "s-646,s-647",
+            "text2": "и҆ соломонъ боⷫ ⷬ ⷷмѹдрѣи , и҆бо- гатѣи бывъ всѣⷯ цр҃е́и . многыимъ   съгрѣши ."
+        },
+        {
+            "id1": "s-227",
+            "text1": "»Daher wachen wir, damit nicht unsere Herzen beschwert werden mit Fressen und Saufen.",
+            "id2": "s-648,s-649,s-650",
+            "text2": "тѣмже ѹ҆бⷣѹ̏-   мъсѧ . и҆ да не ѡ҆тѧжьцаю҆ть ны срцⷣа . и҆ пиꙗ҆ньствомъ ."
+        },
+        {
+            "id1": "s-228",
+            "text1": "« Denn jetzt sind wir trunken die Sorgen der Welt und alle Bosheit und sehr schlafliebend.",
+            "id2": "s-651,s-652,s-653",
+            "text2": "нн҄ѣ бо пиꙗ҆ни є҆смы . скорбьми мирьскы-ми . и҆ злобою҆ всею и҆сⷥъше любы бохмо ."
+        },
+        {
+            "id1": "s-229",
+            "text1": "Daher schwelgen wir, eifern wir, lästern wir, mehr als die Ungetauften.",
+            "id2": "s-654,s-655,s-656",
+            "text2": "тѣмже пытає҆мъ . ре́внꙋємъ . ѡ҆хꙋ-лѧє҆мъ паче некрщ҃еныиⷯ ."
+        },
+        {
+            "id1": "s-230",
+            "text1": "diese Untugenden haben wir.",
+            "id2": "s-657",
+            "text2": "всѧ си и҆маⷨъ злонравїа ."
+        },
+        {
+            "id1": "s-231",
+            "text1": "Denn jetzt redet unsertwegen der heilige Geist durch Micha, den Propheten, welcher gesprochen: »O wehe Seele, denn es ist gewichen der sich Enthaltende von der Erde und ein  Bessernder ist unter den Menschen nicht; alle streiten aufs Blut, ein jeder kränkt seinen Bruder; alle bereiten zum Bösen denn um ihn",
+            "id2": "s-658,s-659,s-660,s-661,s-662",
+            "text2": "нн҄ѣ бо на дѣлѧ ст҃ыи дꙋ-хъ гл҃е михеє҆мь прркѡⷨ . ѡ҆ горе дш҃е гл҃а-вⸯшꙋ ꙗ҆ко ѡ҆скꙋдњѣ въздержаи҆сѧ ѿ землѧ . и҆справлѧю҆щааго въ чл҃цѣⷯ нѣсть . вси въ кр́ови котораю҆тьсѧ  кожⷣо брата своє҆го печѧлить . вси на зло готовѧ рꙋцѣ . и҆ прочаѧ ;"
+        },
+        {
+            "id1": "s-232",
+            "text1": "denn um ihn allein fleißigen wir uns, zur Erde gebückt wie das  nicht schauen auf den Vater und Schöpfer des Alls.",
+            "id2": "s-660,s-661,s-662",
+            "text2": "и҆справлѧю҆щааго въ чл҃цѣⷯ нѣсть . вси въ кр́ови котораю҆тьсѧ  кожⷣо брата своє҆го печѧлить . вси на зло готовѧ рꙋцѣ . и҆ прочаѧ ;"
+        },
+        {
+            "id1": "s-233",
+            "text1": "In Wahrheit ist jetzt schwer einen zu finden, der gebildet ist durch den Sohn Gottes mit Geduld und Demut und Liebe und den übrigen (Tugenden) und nach dem Ausgang (»aus« oder »Ende«?)",
+            "id2": "s-666,s-667,s-668,s-669,s-670,s-671,s-672,s-673,s-674,s-675",
+            "text2": "пои҆стинѣ ѹ҆бо бѣ-дно нн҄ѣ ѡ҆брѣсти ѡ҆бразившаго-сѧ бж҃їемь сн҃мь . терпѣнїемь и҆ смѣ-ренїемь . и҆ любовїю , и҆ прочиими . и҆шⷥествїа ѿ сего мира пожаждѧ кто. съ кротостїю поѹ҆чаѧ и҆ ѡ҆бличаѧ . видимъ на земли тѣломь . ѹ҆мъмь же на нб҃си сы . и҆ питаꙗ҆сѧ ст҃ыми ра-зѹмы . сицемѹ бо є лѣпо быти и҆сти-нномѹ пастѹхꙋ . и҆ ѹ҆чителю ."
+        },
+        {
+            "id1": "s-234",
+            "text1": "dieser Welt dürstend, Sanftmut lehrend und überführend, geschaut auf der Erde nach dem  Leib, aber mit dem Geist im Himmel seiend und sich nährend   heiligen Erkenntnissen.",
+            "id2": "s-666,s-667,s-668,s-669,s-670,s-671,s-672,s-673,s-674,s-675",
+            "text2": "пои҆стинѣ ѹ҆бо бѣ-дно нн҄ѣ ѡ҆брѣсти ѡ҆бразившаго-сѧ бж҃їемь сн҃мь . терпѣнїемь и҆ смѣ-ренїемь . и҆ любовїю , и҆ прочиими . и҆шⷥествїа ѿ сего мира пожаждѧ кто. съ кротостїю поѹ҆чаѧ и҆ ѡ҆бличаѧ . видимъ на земли тѣломь . ѹ҆мъмь же на нб҃си сы . и҆ питаꙗ҆сѧ ст҃ыми ра-зѹмы . сицемѹ бо є лѣпо быти и҆сти-нномѹ пастѹхꙋ . и҆ ѹ҆чителю ."
+        },
+        {
+            "id1": "s-235",
+            "text1": "Denn ein solcher muß sein der wahre und Lehrer.",
+            "id2": "s-666,s-667,s-668,s-669,s-670,s-671,s-672,s-673,s-674,s-675",
+            "text2": "пои҆стинѣ ѹ҆бо бѣ-дно нн҄ѣ ѡ҆брѣсти ѡ҆бразившаго-сѧ бж҃їемь сн҃мь . терпѣнїемь и҆ смѣ-ренїемь . и҆ любовїю , и҆ прочиими . и҆шⷥествїа ѿ сего мира пожаждѧ кто. съ кротостїю поѹ҆чаѧ и҆ ѡ҆бличаѧ . видимъ на земли тѣломь . ѹ҆мъмь же на нб҃си сы . и҆ питаꙗ҆сѧ ст҃ыми ра-зѹмы . сицемѹ бо є лѣпо быти и҆сти-нномѹ пастѹхꙋ . и҆ ѹ҆чителю ."
+        },
+        {
+            "id1": "s-236",
+            "text1": "Denn »was schaust du auf den Splitter, welcher ist in deines Bruders Auge, aber den in deinem Auge seienden Balken erkennst du nicht?",
+            "id2": "s-676,s-677",
+            "text2": "чтѡ҆ бо зриши на сѹкъ сѹщїи въ братни ти ѡ҆цѣ . а҆ въ твоємъ ѡ҆чеси сѹщаѧ  не разѹмѣє҆ши ."
+        },
+        {
+            "id1": "s-237",
+            "text1": "« Denn das Erste muß sein sich selbst zu  rechtzubringen) und darnach seinen Nächsten.",
+            "id2": "s-678,s-679",
+            "text2": "пр́ьвоє҆ бо є лѣ-по себе направити . и҆ потомъ своє҆го  ."
+        },
+        {
+            "id1": "s-238",
+            "text1": "Denn was für ein Nutzen ist am Wort, wenn keine Taten werden?",
+            "id2": "s-680",
+            "text2": "каꙗ҆ бо є  польза въ гл҃ѣ є҆гаⷣ дѣлесъ не бѹдеть ."
+        },
+        {
+            "id1": "s-239",
+            "text1": "Denn sagt er: »Arzt, hilf dir selbst«.",
+            "id2": "s-681",
+            "text2": "врачю бо ре́че и҆зъ-врачюи҆сѧ самъ ."
+        },
+        {
+            "id1": "s-240",
+            "text1": "Wie er will, daß wir überführen, sagte er aber (»ein anderes«?",
+            "id2": "s-682,s-683,s-684,s-685",
+            "text2": "ꙗ҆коже хощеть . да ѡ҆бличає҆мь . и҆но же ре́че . а҆ще съ-грѣшить братъ ти попрѣти є҆мꙋ ."
+        },
+        {
+            "id1": "s-241",
+            "text1": "): anderes«?) :",
+            "id2": "s-682,s-683,s-684,s-685",
+            "text2": "ꙗ҆коже хощеть . да ѡ҆бличає҆мь . и҆но же ре́че . а҆ще съ-грѣшить братъ ти попрѣти є҆мꙋ ."
+        },
+        {
+            "id1": "s-242",
+            "text1": "»Wenn sündigt dein Bruder, Tuenden befiehlt er anzunehmen und für einen Bruder zu halten.",
+            "id2": "s-686,s-687",
+            "text2": "прии҆мати велить . и҆ брата и҆мѣти ."
+        },
+        {
+            "id1": "s-243",
+            "text1": "Aber  der Überführende muB überall ohne Tadel sein.",
+            "id2": "s-688",
+            "text2": "н҄о ѡ҆бличаю҆ще-мѹ лѣпо є всюдꙋ бес порока быти ."
+        },
+        {
+            "id1": "s-244",
+            "text1": "Daher nachdem du dich zuvor geprüft, ο Mensch, und du in betreff des deinen erkannt hast, gehe über zur Strafe Überführung) der andern.",
+            "id2": "s-689,s-690,s-691",
+            "text2": "тѣмже попытавъсѧ члч҃е дрѣвле . и҆ разѹмѣвъ ѡ҆ свои҆хъ . на ѡ҆бличе-нїе и҆нѣⷯ прихѡди ჻ -∙-"
+        }
+    ]
+}

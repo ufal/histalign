@@ -1,0 +1,296 @@
+{
+    "version1": "xmlfiles/delepra/cte-greek.xml",
+    "version2": "xmlfiles/delepra/cte-chu-deu.xml",
+    "method": "Gold standard",
+    "script": "makegold.py",
+    "sentences": [
+        {
+            "id1": "s-38",
+            "text1": "Περὶ τῶν τεσσάρων τῆς λέπρας εἰδῶν",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-39",
+            "text1": "1",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-40",
+            "text1": "Τέσσαρα διαλλάσσοντα ταῖς χρόαις εἴδη λέπρας ὁ μέγας νομοθέ­της ἀπὸ τῆς αὐτῆς ἐξανθοῦντα ἡμῖν μητρὸς φυλάσσεσθαί τε καὶ φεύγειν διδάσκει·",
+            "id2": "s-50",
+            "text2": "1. Wir sagen aber mit Christus, der uns unterweist: »Vier unterschiedliche Arten des Aussatzes lehrte uns der Prophet zu meiden: den weißen, den gelben, den grünen und den roten."
+        },
+        {
+            "id1": "s-41",
+            "text1": "Καὶ τὸ μὲν γλαυκαῖνον καὶ λευκαῖνον",
+            "id2": "s-51",
+            "text2": "« Der weiße aber und der gelbe, der am gesunden Leib auftrete, lasse den Menschen raschverfaulen; der grüne aber und der rote, der in Wunden oder Ge­schwul­sten auftrete, verderbe den ganzen Leib."
+        },
+        {
+            "id1": "s-42",
+            "text1": "Tαῖς ἀρχεκάκοις καὶ βλαβοποιοῖς τέτρασιν ἀπεικά­ζων νόσοις τῆς ψυχῆς τὰς λέπρας, ὥσπερ ἀπὸ μιᾶς ἐκχεομένης πηγῆς ἐπικρατήσαντος καὶ πλημυρήσαντος τοῦ πονηροῦ,",
+            "id2": "s-52",
+            "text2": "Und diese entsprechen den vier Aussatzarten, die die Seele verderben: Denn der weiße, der halbgelbe, entspreche der Unzucht, weil sich der Schaum wegen der Unzucht in gelbesBlut verwandelt."
+        },
+        {
+            "id1": "s-44",
+            "text1": "Διὸ καλῶς τὴν ἡδονὴν ταύτην λέπραν λευκαθίζουσαν ἐκάλε­σεν ὁ νομοθέτης, γλαυκαίνουσαν δὲ τὸν φόβον, πτόησιν καὶ κα­τάπληξιν δεινὴν ἐξεγείροντα τῇ ψυχῇ ἀπὸ τοῦ πονηροῦ – »ἀπὸ φόβου γάρ φησιν ὁ Δαυὶδ ἐχθροῦ ἐξελοῦ τὴν ψυχήν μου« –,",
+            "id2": "s-53",
+            "text2": "Der gelbe aber muss wiederum mit dem Schrecken und der Furcht in Verbindung gebracht werden, die der Herr uns auftrug zu vernichten, indem er sagte: »Fürchtet nicht diejenigen, die den Leib töten, die Seele aber nicht töten können!«"
+        },
+        {
+            "id1": "s-45",
+            "text1": "2",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-46",
+            "text1": "Διὸ φύγωμεν τὰς ἐνθυμήσεις τὰς φιληδόνους καὶ τὰς ἐμπαθεὶς ἡδονάς· λευκαθίζουσα λέπρα ἐστίν.",
+            "id2": "s-67",
+            "text2": "So lasst uns deshalb die lüsternde Begierde und die leidenschaftlichen Gelüste des Leibes meiden, denn das ist der weiße Aussatz!"
+        },
+        {
+            "id1": "s-47",
+            "text1": "Φύγωμεν τὸ ὀργίζεσθαι καὶ τὸν τύφον, φύγωμεν τὸ καταλαλεῖν· πυρρίζουσα λέπρα ἐστίν.",
+            "id2": "s-68",
+            "text2": "Meiden wir den Zorn, den Hochmut und die Verleum­dung, denn das ist der rote Aussatz!"
+        },
+        {
+            "id1": "s-48",
+            "text1": "Ἀ­πελαύνωμεν τὴν ὑπόκρισιν καὶ τὴν δειλίαν ἐν καιρῷ διωγμοῦ· γλαυκίζουσα λέπρα ἐστίν.",
+            "id2": "s-69",
+            "text2": "Meiden wir die Heuchelei und die Furcht während der Verfolgung, denn das ist der gelbe Aus­satz!"
+        },
+        {
+            "id1": "s-49",
+            "text1": "Ἀπελαύνωμεν τὸν φθόνον· χλωρίζουσα λέπρα ἐστίν.",
+            "id2": "s-70",
+            "text2": "Halten wir uns fern von Kummer und Neid, denn es ist der grüne Aussatz!"
+        },
+        {
+            "id1": "s-50",
+            "text1": "Ὅ τι τούτων, κἂν τὸ βραχύτατον, αἰφνιδίως ἐὰν ἔλθῃ καὶ γενηθῇ περὶ τὴν διάνοιαν ἡμῶν, καὶ μὴ εὐθέως",
+            "id2": "s-71",
+            "text2": "Denn wenn sich auch nur das Geringste von diesen Übeln in unserem Verstand ansiedelt und wir es nicht schnell vertreiben und durch Buße heilen, vernichtet es uns Seele und Leib."
+        },
+        {
+            "id1": "s-51",
+            "text1": "οὖν τῶν ἐ­χόντων σημασίαν ἢ σπίλον ἢ ἁφήν, τουτέστιν ὁ ἐλαυνόμενος ὑπὸ θυμοῦ ἢ ἔρωτος γυναικὸς ἢ φιλαργυρίας ἢ φθόνου εὐθέως προ­σίτω τῷ ἀρχιερεῖ λόγῳ διὰ προσευχῆς, οὗ δὴ ἀπεικασία καὶ τύπος ἐτύγχανεν Ἀαρών.",
+            "id2": "s-81",
+            "text2": "Wie lautete aber nun die Schrift?"
+        },
+        {
+            "id1": "s-52",
+            "text1": "Καὶ δεικνύτω αὐτῷ τὰ κρύφια τῆς καρδίας, κρατήσας ἑαυτὸν τῆς προσφορᾶς, προτοῦ τὸ πάθος τῆς ἁμαρτίας σκιρρώσει.",
+            "id2": "s-81",
+            "text2": "Wie lautete aber nun die Schrift?"
+        },
+        {
+            "id1": "s-53",
+            "text1": "Kαὶ εἰ μὲν παύοιτο καὶ λωφᾷ τὸ κακόν, ὥστε ὀφθέντα εἰς τὸ θυσιαστήριον τῷ ἀρχαγγέλῳ δυσσυνειδησίας εἶναι μακράν, κεκάθαρται· »οὐ γὰρ μετέπεσεν ἡ ἁφὴ ἐν τῷ δέρματι«, τουτέστιν οὗ μετεδόθη τῷ σώματι εἰς τὸ τελεσιουργηθῆναι ἡ ἐπιθυμία, ἄλλα μόνον σημασία οἱονεὶ ἐνθύμησίς τις γέγονεν καὶ ἠμαυρώθη.",
+            "id2": "s-91",
+            "text2": "Und nach einer oder zwei Wochen soll er  besucht werden: ob er sich wohl gesorgt, ob er wohl geweint hat."
+        },
+        {
+            "id1": "s-54",
+            "text1": "Eἰ δὲ μὴ παύσοιτο καὶ λωφᾷ, προσίτω πρὸς τοὺς σωφρονιστάς, δείξων ἑαυτοῦ τὴν ἁφὴν τῷ ἐπισκόπῳ, τῷ ἱερεῖ, τῷ υἱῷ τοῦ ἀληθινοῦ ἀρχιερέως, τοῦ λέγοντος ἐν τῷ εὐαγγελίῳ »τεκνία« τοὺς μαθητάς.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-55",
+            "text1": "Ἐξαγορεῦσαι μὴ αἰδεσθήτω τὸ ἀληθές, πειθόμενος τῇ γραφῇ τῇ λεγούσῃ, »ἀνθρώπῳ τινὶ ἐὰν γένηται ἐν δέρματι τοῦ χρωτὸς αὐτοῦ ἁφὴ λέπρας καὶ ἐλεύσεται πρὸς Ἀαρὼν τὸν ἱερέα καὶ ὄψεται ὁ ἱε­ρεὺς τὴν ἁφὴν ἐν δέρματι τοῦ χρωτὸς αὐτοῦ« καὶ τὰ ἐξῆς.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-56",
+            "text1": "3",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-57",
+            "text1": "Τύπος γάρ, ὡς ἔφην, ἐστὶν ὁ μὲν Ἀαρὼν τοῦ Χριστοῦ, ὁ δὲ υἱὸς Ἀαρὼν τοῦ ἐπισκόπου, πρὸς οὓς προσιέναι δεῖ θεραπευθησόμε­νον τὸν ἔχοντα ὕπουλον ἢ λέπραν περὶ τὸ ἡγεμονικόν, ὅπως αὐτὰ τὰ αἴτια καὶ προκαταρκτικὰ τῆς ἁμαρτίας ἐκριζωθῶσιν εὐ­θέως τῇ προσευχῇ καὶ τοῖς σωφρονισμοῖς πρὸ τοῦ κρατυνθῆναι.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-58",
+            "text1": "Καὶ ὡς ἐπιστήμων ἰατρὸς ὁ ἐπίσκοπος ἀπὸ τῆς ὑγιαινούσης διαί­της τὸν πυρεταίνοντα ἐπέχων, ὅπως ἀνασφῆλαι δυνηθῇ, ἀφορι­σάτω αὐτὸν εἰς τὴν ἐξομολόγησιν, μιανάτω αὐτὸν τῆς κοινωνίας ἐπισχών· κλαυσάτω, παρακαλησάτω ὑπὲρ αὐτοῦ κατὰ τὸ γεγραμ­μένον· »τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;«",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-59",
+            "text1": "Καὶ εἰ μὲν παύοιτο",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-60",
+            "text1": "Εἰ ἐπένθησεν ἢ ἐλυπήθη λύπην τὴν κατὰ θεόν, ἥτις μετάμελον εἰς σωτηρίαν κα­τεργάζεται, εὔελπίς ἐστιν, καθαρός ἐστιν",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-61",
+            "text1": "Εἰ δὲ ἐπιμένοι ῥαθυμῶν καὶ ἀφροντιστῶν, λέπραν παλαιου­μένην ἔχει ἀπὸ πολλῶν τε καὶ ἀκαθάρτων ἠθροισμένην κακῶν· »λεπρός ἐστιν, ἀκάθαρτός ἐστιν«,",
+            "id2": "s-93",
+            "text2": "3. Wenn er aber nicht über seine Bos­heit trauert und ohne Buße verbleibt, dann soll er aus der Kirche ausgeschlossen werden."
+        },
+        {
+            "id1": "s-62",
+            "text1": "Πᾶς γὰρ »ὁ λεπρός«, φησὶν ἡ γραφή, »ἐν ᾧ ἐστὶν ἡ ἁφή, ἐχέτω τὰ ἱμάτια παραλελυμένα καὶ ἡ κεφαλὴ αὐτοῦ ἔστω ἀκατακάλυπτος, καὶ περὶ τὸ στόμα περιβαλλέσθω καὶ ἀκάθαρτος κληθήσεται· πάσας τὰς ἡμέρας, ὅσας ἂν ᾖ ἡ ἁφὴ ἐπ’ αὐτῷ·",
+            "id2": "s-94",
+            "text2": "Denn »jeder Aus­sät­zige«, heißt es, »soll zerrissene Kleider haben, und das Haupt soll ihm unbedeckt sein, und seinen Mund soll er verbergen, und er soll all die Tage unrein sein, solange der Aussatz an ihm ist; und er soll außerhalb der Sied­lung ver­weilen«."
+        },
+        {
+            "id1": "s-63",
+            "text1": "«",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-64",
+            "text1": "4",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-65",
+            "text1": "Διὸ δὴ φυλάξωμεν καθαροὺς ἑαυτοὺς τῷ θεῷ. Ταῦτα γὰρ κανόνες εἰσὶ καὶ θεσμοὶ τῆς ἐκκλησίας τῷ ὀξυδορκεῖν κατὰ τὰς γραφὰς δυναμένῳ.",
+            "id2": "s-105",
+            "text2": "So lasst uns uns vor all diesen Dingen hüten!"
+        },
+        {
+            "id1": "s-66",
+            "text1": "Ἐπεὶ παρελθὼν ἀποκρινάσθω μοι τίς, ἵνα καὶ τῶν ἑξῆς ἐπιμνησθῶ· τίς ἡ τοσαύτη φροντὶς τῷ θεῷ καὶ σπουδὴ περὶ ‚ἐρεῶν ἱματίων‘ διαλέγεσθαι καὶ ‚λινῶν‘ καὶ ‚κρόκης‘ καὶ ‚στήμονος‘ καὶ ‚δερ­μάτων‘; Ἢ »πάντως« προεφητεύσατο ταῦτα »δι’ ἡμᾶς«;",
+            "id2": "s-105",
+            "text2": "So lasst uns uns vor all diesen Dingen hüten!"
+        },
+        {
+            "id1": "s-67",
+            "text1": "Φέρε γὰρ ἀκρι­βῶς διακρίναντες τὰς ἑρμηνείας ἑκάστῳ γένει πρόσφορον παρα­λάβωμεν εἰκόνα· καὶ τῷ μὲν ‚στήμονι‘ τὸν ἰσχυρότερον καὶ πρῶτον νοῦν ἁρμοστέον, ‚κρόκῃ‘ δὲ τὴν ψυχήν, καὶ ‚δέρματι‘ τὸ σῶμα, ‚ἱμα­τίῳ‘ δὲ τὸν ἄνθρωπον ὅλον· ‚ἐρεῷ‘ μὲν τὸν ἄνδρα, τὴν δὲ γυναῖκα ‚λινῷ‘.",
+            "id2": "s-109",
+            "text2": "1.Das wollen wir aber sorgfältig erklären und ‚das Festgewordene‘, sage ich, mit dem Verstand vergleichen, ‚den Schussfaden‘ aber mit der Seele und ‚das Leder‘ mit dem Leib."
+        },
+        {
+            "id1": "s-68",
+            "text1": "»Καὶ ἱματίῳ ἐὰν γένηται ἐν αὐτῷ ἁφὴ λέπρας, ἐν ἱματίῳ ἐρεῷ ἢ ἐν ἱματίῳ στιππυΐνῳ, ἢ ἐν στήμονι, ἢ ἐν κρόκῃ, ἢ ἐν τοῖς λινοῖς ἢ ἐν τοῖς ἐρεοῖς ἢ ἐν παντὶ ἐργασίμῳ δέρματι",
+            "id2": "s-111",
+            "text2": "»Und wenn sich an der Kleidung eine Er­schei­nung des Aussatzes zeigt, an der wolle­nen Klei­dung oder an der flachsenen Kleidung...« und kurz darauf: »und die Erscheinung am Leder oder an der Kleidung oder am Kett- oder Schussfaden oder am Schussfaden wird grünlich sein«."
+        },
+        {
+            "id1": "s-69",
+            "text1": "« Στήμονα γὰρ τροπικῶς τοὺς τόνους τῆς ψυ­χῆς,",
+            "id2": "s-113",
+            "text2": "Denn der Mensch ist ein zusammengesetztes Lebewesen aus Seele und Leib."
+        },
+        {
+            "id1": "s-70",
+            "text1": "Εἰ γὰρ ἐκ ψυχῆς »σαρκός τε καὶ πνεύματος«, ὡς ἐν κεφαλαίῳ φάναι τὴν σύστασιν ἀπεδείχθη λαχών, τεθεωρημένως ὁ νομοθέ­της τὴν πρώτην σύλληψιν τῶν ἁμαρτημάτων ἀπὸ τῆς ἔξωθεν φαντασίας δι’ ὀφθαλμῶν ἢ δι’ ὤτων ῥέουσαν εἰς τὸν νοῦν, λέπραν ὥσπερ »ἐν στήμονι« φύεσθαι χρησμωδεῖ.",
+            "id2": "s-114",
+            "text2": "Er zeigt aber auf, dass das erste Empfangen des Sündhaften von einem äußeren Trugbild durch die Augen und das Gehör eindringt, so wie auch irgendein Aussatz zum Verstand vorstößt."
+        },
+        {
+            "id1": "s-71",
+            "text1": "5",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-72",
+            "text1": "»Ἐὰν δὲ διαχέηται«, μετὰ τὸ ἀφορισθῆναι ὀφθεῖσα, »ἡ ἁφὴ« τῷ ἀρχιε­ρεῖ, »ἐν τῷ ἱματίῳ ἢ ἐν τῷ δέρματι ἢ ἐν τῷ στήμονι ἢ ἐν τῇ κρόκῃ, λέπρα ἔμμονός ἐστιν ἡ ἁφή, ἀκάθαρτός ἐστιν· καὶ κατακαύσει τὸ ἱμάτιον ἢ τὸν στήμονα ἢ τὴν κρόκην ἐν τοῖς ἐρεοῖς ἢ ἐν τοῖς λινοῖς ἢ ἐν παντὶ σκεύει δερματίνῳ, ἐν ᾧ ἂν ᾖ ἐν αὐτῷ ἡ ἁφή, ὅτι λέπρα ἔμμονός ἐστιν, ἐν πυρὶ κατακαυθήσεται.« Ὅπερ ἐστὶν .",
+            "id2": "s-120",
+            "text2": "2. »Wenn sich der Aussatz aber«, nachdem er den Priestern gezeigt wurde, »auf der Kleidung oder am Kettfaden oder im Leder oder am Schussfaden nichtausbreitet, dann ist es ein einmaligerAussatz und dann ist nur das Leder unrein, dann soll er die Kleidung oder den Kettfaden mit der betroffenen wol­le­nen Stelleoder in jeglichem ledernen Gerät verbrennen."
+        },
+        {
+            "id1": "s-73",
+            "text1": "Aἰνίττε­ται γὰρ περιφανῶς",
+            "id2": "s-122",
+            "text2": "«Dieses aber zeigt er wiederum über die­jeni­gen an, die Buße getan und sich von den Sünden ganz und gar losgesagt haben: er befielt, dass die Kleidung, d.h. die ‚sündige Hülle‘ verbrannt werde."
+        },
+        {
+            "id1": "s-74",
+            "text1": "Ἐὰν οὖν μὴ διαχέηται ἡ ἁφή, τουτέστιν μὴ ἀμβλύνηται τὸ ἁ­μάρτημα, μετὰ τὸ προσελθεῖν καὶ συγγνώμην αἰτήσασθαι παρὰ τοῦ θεοῦ,  μετὰ τὸ μετανοῆσαι καὶ ὀφθῆναι τῷ ἐπισκόπῳ, ἐὰν μὴ διαχέηται σκορπισθὲν αὐτῷ καὶ λωφᾷ τὸ πάθος, ἤδη εἰς τὸ θε­ραπεύεσθαι, τουτέστιν εἰς τὴν ἐξομολόγησιν .",
+            "id2": "s-122",
+            "text2": "«Dieses aber zeigt er wiederum über die­jeni­gen an, die Buße getan und sich von den Sünden ganz und gar losgesagt haben: er befielt, dass die Kleidung, d.h. die ‚sündige Hülle‘ verbrannt werde."
+        },
+        {
+            "id1": "s-75",
+            "text1": "ἀφορισθέντι, πειράζει τὸν θεὸν ὁ τοιοῦτος ἄνθρωπος ἢ ἡ τοιαύτη γυνὴ ἐπιμορφάζεται τὴν πίστιν· ἔμμονός ἐστιν λέπρα, ἀνεξάλειπτος ἡ ἁμαρτία, τῷ διαιωνίζοντι τῆς γεέννης ἀθρόως καταφλεχθήσεται πυρί, ὅτι χρὴ εἰς τὸ πλήρωμα τῆς οὐρανοπό­λεως ἀναληφθησομένους τῷ ἁρμοσαμένῳ Χριστῷ καὶ ἐπενδύ­σαντι τὴν ἀφθαρσίαν καθαροὺς προσιέναι καὶ ὑγιεῖς.",
+            "id2": "s-122",
+            "text2": "«Dieses aber zeigt er wiederum über die­jeni­gen an, die Buße getan und sich von den Sünden ganz und gar losgesagt haben: er befielt, dass die Kleidung, d.h. die ‚sündige Hülle‘ verbrannt werde."
+        },
+        {
+            "id1": "s-76",
+            "text1": "»Ἱερουσαλὴμ γὰρ πόλις ἁγία, οὐκέτι προστεθήσεται διελθεῖν διὰ σοῦ ἀπερίτμη­τος καὶ ἀκάθαρτος«, ἀλλ’ ὁ περιτετμημένος δηλονότι τὴν ἀρχαίαν πλάνην, τὸν διὰ τῶν μελῶν ἐνεργοῦντα τῆς σαρκὸς ἄνομον νό­μον.",
+            "id2": "s-124",
+            "text2": "3. [...] Darüber spricht aber auch ein anderer Prophet: »Jerusalem, heilige Stadt, fortan wird keiner durch Dich durchgehen können, der unbeschnitten oder unrein ist, sondern nur jemand, der beschnitten und also rein ist«, nämlich von dem alten Trug."
+        },
+        {
+            "id1": "s-77",
+            "text1": "Ὅθεν ὀρθῶς ὁ νομοθέτης τοὺς ἐν δόγμασι πλανω­μένους καὶ λόγοις βεβλάφθαι τὸν στήμονα λέγει.",
+            "id2": "s-124",
+            "text2": "3. [...] Darüber spricht aber auch ein anderer Prophet: »Jerusalem, heilige Stadt, fortan wird keiner durch Dich durchgehen können, der unbeschnitten oder unrein ist, sondern nur jemand, der beschnitten und also rein ist«, nämlich von dem alten Trug."
+        },
+        {
+            "id1": "s-78",
+            "text1": "6",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-79",
+            "text1": "Τίνες οὖν οἱ τὴν κρόκην μὲν λεπρῶντες τὸ δὲ δέρμα καὶ τὸν στή­μονα καθαροί;",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-80",
+            "text1": "Ὥστε καὶ ταῖς χερσὶ μᾶλλον προϋπαντῶσιν ἐν τοῖς ἀσπασμοῖς, κενοδοξοῦντες ὀρέ­ξαι πτωχῷ τὸ στόμα.",
+            "id2": "s-146",
+            "text2": "Deshalb kommen sie einem auch zuerst mit den Händen entgegen, weil sie es verachten, dem Armen den Mund anzubieten."
+        },
+        {
+            "id1": "s-81",
+            "text1": "Διὸ δὴ καλῶς ἡγητέον",
+            "id2": "s-148",
+            "text2": "Aber was heißt das denn?"
+        },
+        {
+            "id1": "s-82",
+            "text1": "»Κύριος« γὰρ »ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν«, ἐκείνοις τοῖς ταπεινοφρο­νοῦσι πρὸς τοὺς ὁμοιοπαθεῖς, καὶ οὐχὶ τοῖς πρὸς μὲν τὸν θεὸν δῆθεν ταπεινουμένοις, πρὸς δὲ τοὺς μετριωτέρους ὑπερόπτως διακειμένοις.",
+            "id2": "s-148",
+            "text2": "Aber was heißt das denn?"
+        },
+        {
+            "id1": "s-83",
+            "text1": "Tί γάρ; Tαπεινω­θήσεται πρὸς θεὸν »γῆ καὶ σποδός«; Δέον πρὸς τοὺς ὁμοιοπαθεῖς ἀνθρώπους ταπεινοῦσθαι, ὥσπερ καὶ τὸν ἄρτον καὶ τὸ ἱμάτιον τῷ πεινῶντι καὶ τῷ γυμνῷ διδόναι.",
+            "id2": "s-149",
+            "text2": "Wird sich die Erde und der Staub Gott widersetzen oder demütig sein?"
+        },
+        {
+            "id1": "s-84",
+            "text1": "οὐ γὰρ τῷ συστησαμένῳ καὶ εὐθύνοντι προσηκόντως καὶ τρέφοντι τὸ πᾶν ἡμεῖς οἱ μύρμηκες ὀρέγομεν τροφάς, ἀλλὰ χρηστευόμενοι καὶ εὐεργετοῦντες πλη­ροῦμεν τὰς ἐντολάς.",
+            "id2": "",
+            "text2": ""
+        },
+        {
+            "id1": "s-87",
+            "text1": "Ταῦτα γὰρ ὁ θεὸς ὡς ἐπὶ λογικῶν καὶ αὐτεξουσίων διορί­ζεται.",
+            "id2": "s-186",
+            "text2": "Denn diese teilt Gott gleichsam in Vernünftige und Selbstmächtige ein: Wenn aber in Bezug auf den Aussatz, ‚der länger als sieben Tage bleibt‘, aufgetragen ist, ‚dass der Kett- oder Schussfaden und das Kleid vernichtet werden sollen, weil sie sich der Unreinheit nicht entledigthaben‘, dann ist offenbar, dass er hier von Beseeltem spricht und nicht von Unbeseeltem."
+        },
+        {
+            "id1": "s-88",
+            "text1": "Eἰ γὰρ ὅλως, ἐπιμενούσης τῆς λέπρας μετὰ τὸν ἀφορισμὸν τῶν ἑπτὰ ἡμερῶν, κελεύεται τὸ ἱμάτιον ἢ ὁ στήμων κολάζεσθαι ὡς μὴ μετα­βαλ­λόμενον ἀπὸ τῆς ἀκαθαρσίας, δηλονότι περὶ ζῴων διαλέγεται λογικῶν, καὶ οὐχ, ὡς αὐτοὶ νομίζουσιν,",
+            "id2": "s-186",
+            "text2": "Denn diese teilt Gott gleichsam in Vernünftige und Selbstmächtige ein: Wenn aber in Bezug auf den Aussatz, ‚der länger als sieben Tage bleibt‘, aufgetragen ist, ‚dass der Kett- oder Schussfaden und das Kleid vernichtet werden sollen, weil sie sich der Unreinheit nicht entledigthaben‘, dann ist offenbar, dass er hier von Beseeltem spricht und nicht von Unbeseeltem."
+        }
+    ]
+}
