@@ -20,7 +20,7 @@ The version C is taken from [Perseus](https://scaife.perseus.org/reader/urn:cts:
 
 The other versions are all taken from the digital version of the following book:
 
-> Jouravel, A., & Sieber, J. (2024). The Greek and Slavonic Transmission of Methodius' De lepra. In K. Bracht, A. Jouravel, & J. Sieber (Eds.), Methodius of Olympus: De lepra: Interdisciplinary Approaches (pp. 11–30). De Gruyter.  
+> K. Bracht, A. Jouravel, & J. Sieber (Eds.), Methodius of Olympus: De lepra: Interdisciplinary Approaches. De Gruyter.  
 
 
 All data minus version C were gracefully made available for non-commercial use to the Berlin-Brandenburgische Akademie der Wissenschaften.
