@@ -14,6 +14,18 @@ in the table below.
 | D  | deu  | Translation of B by Jouravel              | 270    | 6552    |
 | E  | chu  | Transcription of manuscript used for B    | 702    | 4561    |
 
+The version C is taken from [Perseus](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2959.tlg004.opp-ger1:1.1-1.2/), and is a digital version of the following book:
+
+> Bonwetsch, G. (Ed.). (1917). _De lepra._ In *Werke* (pp. 449–474). Berlin, Boston: De Gruyter.
+
+The other versions are all taken from the digital version of the following book:
+
+> Jouravel, A., & Sieber, J. (2024). The Greek and Slavonic Transmission of Methodius' De lepra. In K. Bracht, A. Jouravel, & J. Sieber (Eds.), Methodius of Olympus: De lepra: Interdisciplinary Approaches (pp. 11–30). De Gruyter.  
+
+
+All data minus version C were gracefully made available for non-commercial use to the Berlin-Brandenburgische Akademie der Wissenschaften.
+Please bear in mind that any commercial use of these sources is strictly prohibited.
+
 All JSON files are generated from the TEI/XML files of the project, where each item contains
 the ID of the sentence node(s) in the source text, the full text in the source text of the 
 sentence(s), and then the identifiers and text for the aligned text in the target text.
