@@ -44,8 +44,8 @@ It reads two segmented TEITOK/XML files and creates a JSON file with sentence le
 ```python awesome.py [options] (source XML) (target XML)```
 
 The options are `--blob` to specify which segmentation should be used before feeding the data to awesome-align,
-and `---align` to specify which level to create the alignment for - defaults are paragraph (<p>) for the blob, and 
-sentence (<s>) for the alignment.
+and `---align` to specify which level to create the alignment for - defaults are paragraph (`<p>`) for the blob, and 
+sentence (`<s>`) for the alignment.
 
 
 ## loadalign.pl
