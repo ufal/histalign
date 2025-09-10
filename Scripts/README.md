@@ -8,6 +8,10 @@ Alignment Error Rate (AER) between two JSON alignment files for the same text.
 
 ## hunalign.py
 
+```python hunalign.py [options] (source XML) (target XML)```
+
+The options are 
+
 ## awesome.py
 
 ## labse.py
