@@ -35,6 +35,18 @@ can easily be changed in the script, but is not currently a command line option.
 
 ## awesome.py
 
+The script `awesome.py` is a python script that uses the awesome-align package to provide an automatic 
+alignment between two texts - where it assumes an existing alignment on paragraph, performs a word-level
+alignment within the entire paragraph, and then maps the word-level alignment onto sentences to render
+a sentence-level alignment. 
+It reads two segmented TEITOK/XML files and creates a JSON file with sentence level alignments. 
+
+```python awesome.py [options] (source XML) (target XML)```
+
+The options are `--blob` to specify which segmentation should be used before feeding the data to awesome-align,
+and `---align` to specify which level to create the alignment for - defaults are paragraph (<p>) for the blob, and 
+sentence (<s>) for the alignment.
+
 
 ## loadalign.pl
 
