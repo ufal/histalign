@@ -8,9 +8,14 @@ Alignment Error Rate (AER) between two JSON alignment files for the same text.
 
 ## hunalign.py
 
+The script `hunalign.py` is a python wrapper for the hunalign command-line interface (which is hence expected 
+to be installed), and reads two segmented TEITOK/XML files and creates a JSON file with sentence level 
+alignments.
+
 ```python hunalign.py [options] (source XML) (target XML)```
 
-The options are 
+The options are `--output` to specify a name for the output JSON file, and `--dict` to optionally provide a bilingual
+dictionary in the format expected by hunalign.
 
 ## awesome.py
 
