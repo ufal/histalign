@@ -6,6 +6,9 @@ is created as a JSON file, that can then be correted, and imported back into the
 alignment script for three alignment algorithms, the script to load the JSON, and a script to calculate the 
 Alignment Error Rate (AER) between two JSON alignment files for the same text.
 
+All scripts are intended to be used together with TEITOK, which provides an easy graphical interface to 
+correct the automatic alignment before loading the alignment into the XML files. 
+
 ## hunalign.py
 
 The script `hunalign.py` is a python wrapper for the hunalign command-line interface (which is hence expected 
