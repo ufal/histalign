@@ -17,9 +17,20 @@ alignments.
 The options are `--output` to specify a name for the output JSON file, and `--dict` to optionally provide a bilingual
 dictionary in the format expected by hunalign.
 
-## awesome.py
 
 ## labse.py
+
+The script `labse.py` is a python script that uses sentences aligners with the LaBSE model to provide an automatic 
+alignment between two texts. 
+It reads two segmented TEITOK/XML files and creates a JSON file with sentence level alignments. 
+
+```python labse.py [options] (source XML) (target XML)```
+
+The options are `--output` to specify a name for the output JSON file. The model used 
+can easily be changed in the script, but is not currently a command line option.
+
+## awesome.py
+
 
 ## loadalign.pl
 
