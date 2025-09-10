@@ -29,7 +29,8 @@ It reads two segmented TEITOK/XML files and creates a JSON file with sentence le
 
 ```python labse.py [options] (source XML) (target XML)```
 
-The options are `--output` to specify a name for the output JSON file. The model used 
+The options are `--output` to specify a name for the output JSON file, and `--encoding` which can be 
+specify if the data are in any format other than UTF-8. The model used 
 can easily be changed in the script, but is not currently a command line option.
 
 ## awesome.py
